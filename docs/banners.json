@@ -2,12 +2,16 @@
   "version": 1,
   "banners": [
     {
-      "imageUrl": "https://.../banner1.jpg",
+      "imageUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F88%2Fad%2Fed%2F88aded399695c04f3337dad97120e9e5.jpg&type=sc960_832",
       "linkUrl": "https://www.underarmour.co.kr/"
     },
     {
-      "imageUrl": "https://.../banner2.jpg",
+      "imageUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.net%2Fimage%2F5357%2F2025%2F03%2F24%2F0000016465_001_20250409102015303.jpg&type=sc960_832",
       "linkUrl": "https://www.thenorthfacekorea.co.kr/"
+    },
+    {
+      "imageUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA4MTJfODIg%2FMDAxNzU1MDAzNzI5NTIw.k8HuoxBlvpYMWsKk7jRB9EZAh1VxhDesQuAcNTLqFfIg.VDnxv0P1o0HJjNSLIBdZpuNfbpfVYqnUOVJIimQ7FLYg.JPEG%2F1755003728993.jpg&type=sc960_832",
+      "linkUrl": "https://guwolsibil.com/"
     }
   ]
 }
