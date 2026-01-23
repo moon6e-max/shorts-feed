@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "banners": [
+    {
+      "imageUrl": "https://.../banner1.jpg",
+      "linkUrl": "https://www.underarmour.co.kr/"
+    },
+    {
+      "imageUrl": "https://.../banner2.jpg",
+      "linkUrl": "https://www.thenorthfacekorea.co.kr/"
+    }
+  ]
+}
