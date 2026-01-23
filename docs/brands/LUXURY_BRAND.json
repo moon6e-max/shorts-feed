@@ -696,7 +696,9 @@
   "logoUrl": "",
   "photos": [],
   "enabled": true,
-  "priority": 37
+  "priority": 37,
+  "mode": "WORLD",
+  "tabKey": "LUXURY_BRAND"
 },
 {
   "title": "필립 플레인",
