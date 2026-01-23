@@ -37,7 +37,7 @@
 
     "enabled": true,
     "priority": 98
-  }
+  },
     {
   "title": "까르띠에",
   "sub": "주얼리와 시계 제품을 중심으로 전개되는 프랑스 브랜드",
@@ -193,7 +193,7 @@
     "photos": [],
     "enabled": true,
     "priority": 83
-  }
+  },
   {
   "title": "마르니",
   "sub": "독창적인 색감과 디자인을 선보이는\n이탈리아 패션 브랜드",
@@ -204,7 +204,7 @@
   "photos": [],
   "enabled": true,
   "priority": 82
-}
+},
 {
   "title": "막스마라",
   "sub": "우아하고 실용적인 디자인을\n선보이는 이탈리아 패션 브랜드",
@@ -336,7 +336,7 @@
   "photos": [],
   "enabled": true,
   "priority": 70
-}
+},
 {
   "title": "발망",
   "sub": "강렬한 실루엣과 현대적 감각을 \n선보이는 프랑스 패션 브랜드",
@@ -545,7 +545,7 @@
   "photos": [],
   "enabled": true,
   "priority": 51
-}
+},
 {
   "title": "제냐",
   "sub": "고급 소재와 세련된 스타일을 선보이는\n이탈리아 패션 브랜드",
