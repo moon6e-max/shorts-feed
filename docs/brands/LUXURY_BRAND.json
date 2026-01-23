@@ -1,0 +1,41 @@
+[
+  {
+    "title": "겐조",
+    "sub": "대담한 색감과 패턴을 바탕으로 전개되는 패션 브랜드",
+    "url": "https://www.kenzo.com/",
+    "packageName": "",
+    "logoText": "Kenzo",
+    "logoUrl": "https://moon6e-max.github.io/shorts-feed/logos/kenzo.png",
+
+    "photos": [],
+
+    "enabled": true,
+    "priority": 100
+  },
+  {
+    "title": "고야드",
+    "sub": "가죽 제품을 중심으로 전개되는 프랑스 브랜드",
+    "url": "https://www.goyard.com/kr_ko/",
+    "packageName": "",
+    "logoText": "Goyard",
+    "logoUrl": "",
+
+    "photos": [],
+
+    "enabled": true,
+    "priority": 90
+  },
+  {
+    "title": "구찌",
+    "sub": "가죽 제품과 패션 아이템을 중심으로 전개되는 이탈리아 브랜드",
+    "url": "https://www.gucci.com/kr/ko/",
+    "packageName": "com.gucci.gucciapp",
+    "logoText": "Gucci",
+    "logoUrl": "",
+
+    "photos": [],
+
+    "enabled": true,
+    "priority": 80
+  }
+]
