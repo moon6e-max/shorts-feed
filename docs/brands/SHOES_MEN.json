@@ -1,0 +1,211 @@
+[
+  {
+    "title": "가오슈즈",
+    "sub": "편안한 착화감과 세련된 실루엣이 어우러진 데일리 슈즈 스타일",
+    "url": "http://gaoo.co.kr/",
+    "packageName": "",
+    "logoText": "Gaoo",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 100
+  },
+  {
+    "title": "구두나라",
+    "sub": "편안한 착화감과 실용적인 무드를 담은 데일리 슈즈 스타일",
+    "url": "http://gudunara.net/",
+    "packageName": "com.makeshop.powerapp.gudunara",
+    "logoText": "Gudunara",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 99
+  },
+  {
+    "title": "그리심옴므",
+    "sub": "단정하고 세련된 감성을 담은 남성 데일리 스타일",
+    "url": "http://www.gerisimhomme.com/",
+    "packageName": "",
+    "logoText": "Gerisim\nhomme",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 98
+  },
+  {
+    "title": "뉴디블랙",
+    "sub": "심플한 실루엣과 세련된 감각을 담은 데일리 스타일",
+    "url": "https://newdblack.co.kr/",
+    "packageName": "",
+    "logoText": "Newd\nblack",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 97
+  },
+  {
+    "title": "더커스텀",
+    "sub": "부드러운 감성과 실용성을 담은 편안한 데일리 스타일",
+    "url": "http://www.thecustom.co.kr/",
+    "packageName": "",
+    "logoText": "Thecustom",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 96
+  },
+  {
+    "title": "레더리스",
+    "sub": "심플한 무드와 세련된 감각을 담은 데일리 스타일",
+    "url": "https://leatherless.co.kr/",
+    "packageName": "",
+    "logoText": "Leather\nless",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 95
+  },
+  {
+    "title": "레어커스텀",
+    "sub": "감각적인 무드와 실용성을 담은 데일리 캐주얼 스타일",
+    "url": "https://www.rcustom.co.kr/",
+    "packageName": "",
+    "logoText": "Rcustom",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 94
+  },
+  {
+    "title": "로크",
+    "sub": "클래식한 감각과 단정한 실루엣을 담은 데일리 스타일",
+    "url": "http://loakekorea.com/",
+    "packageName": "",
+    "logoText": "Loake",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 93
+  },
+  {
+    "title": "맨즈노바",
+    "sub": "단정한 실루엣과 모던한 감각을 갖춘 남성 데일리 스타일",
+    "url": "http://www.mensnova.co.kr/index.html",
+    "packageName": "",
+    "logoText": "Mensnova",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 92
+  },
+  {
+    "title": "머스템",
+    "sub": "편안함과 감각적인 무드를 담은 데일리 스타일",
+    "url": "http://www.mustem.com/",
+    "packageName": "",
+    "logoText": "Mustem",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 91
+  },
+  {
+    "title": "벨루모",
+    "sub": "부드러운 감성과 편안함을 담은 데일리 캐주얼 스타일",
+    "url": "https://www.belumo.co.kr/",
+    "packageName": "",
+    "logoText": "Belumo",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 90
+  },
+  {
+    "title": "슈그램",
+    "sub": "편안한 착화감과 세련된 무드를 담은 데일리 슈즈 스타일",
+    "url": "http://shoeglam.co.kr/index.html",
+    "packageName": "",
+    "logoText": "Shoeglam",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 89
+  },
+  {
+    "title": "야세",
+    "sub": "편안한 착화감과 매력적인 무드를 담은 데일리 슈즈 스타일",
+    "url": "http://www.speakeasystore.co.kr/",
+    "packageName": "",
+    "logoText": "Yase",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 88
+  },
+  {
+    "title": "오베이옴므",
+    "sub": "단정하면서 감각적인 실루엣의 남성 데일리 스타일",
+    "url": "http://obeyhomme.com/",
+    "packageName": "",
+    "logoText": "Obeyhomme",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 87
+  },
+  {
+    "title": "젠틀안느",
+    "sub": "단정하면서 세련된 감성과 편안함을 담은 데일리 스타일",
+    "url": "http://greant.co.kr/",
+    "packageName": "",
+    "logoText": "Greant",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 86
+  },
+  {
+    "title": "젠틀커브",
+    "sub": "단정하고 세련된 감각을 담은 데일리 스타일",
+    "url": "http://www.gentlecurve.co.kr/",
+    "packageName": "",
+    "logoText": "Gentlecurve",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 85
+  },
+  {
+    "title": "커스텀무드",
+    "sub": "단정한 무드에 실용성을 담은 데일리 스타일",
+    "url": "http://www.custommood.co.kr/",
+    "packageName": "com.makeshop.powerapp.custommood",
+    "logoText": "custommood",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 84
+  },
+  {
+    "title": "킵스페이스",
+    "sub": "깔끔하고 실용적인 감성을 담은 데일리 스타일",
+    "url": "http://www.kipspace.co.kr/index.html",
+    "packageName": "",
+    "logoText": "Kipspace",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 83
+  },
+  {
+    "title": "헌드레드메이커",
+    "sub": "편안함과 감각적인 무드를 담은 데일리 캐주얼 스타일",
+    "url": "http://www.bsqt.co.kr/",
+    "packageName": "",
+    "logoText": "Hundred\nMaker",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 82
+  }
+]
