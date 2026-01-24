@@ -109,7 +109,6 @@
     "enabled": true,
     "priority": 91
   },
-  [
   {
     "title": "스타일 덤프",
     "sub": "후드·팬츠 중심의 남성 캐주얼·스트릿 의류 브랜드",
@@ -209,7 +208,5 @@
     "enabled": true,
     "priority": 82
   }
-]
-
 ]
 
