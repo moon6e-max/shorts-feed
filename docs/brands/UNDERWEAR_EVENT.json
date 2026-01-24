@@ -1,0 +1,200 @@
+[
+  {
+    "title": "가시여우",
+    "sub": "다양한 스타일의 이너웨어 셀렉션\n(와이파이 사용 시 접속이 제한될 수 있습니다)",
+    "url": "http://www.gasifox.co.kr/",
+    "packageName": "",
+    "logoText": "Gasifox",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 100
+  },
+  {
+    "title": "누보시크",
+    "sub": "디자인 중심의 여성 이너웨어\n(와이파이 사용 시 접속이 제한될 수 있습니다)",
+    "url": "http://www.nuvochic.co.kr/index.html",
+    "packageName": "",
+    "logoText": "Nuvochic",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 99
+  },
+  {
+    "title": "도도란",
+    "sub": "로맨틱한 감성을 담은 이너웨어\n(와이파이 사용 시 접속이 제한될 수 있습니다)",
+    "url": "http://dodoran.com/",
+    "packageName": "",
+    "logoText": "Dodoran",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 98
+  },
+  {
+    "title": "또나플레이",
+    "sub": "대담한 감성의 여성 이너웨어\n(와이파이 사용 시 접속이 제한될 수 있습니다)",
+    "url": "http://www.ddonaplay.com/",
+    "packageName": "",
+    "logoText": "Ddonaplay",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 97
+  },
+  {
+    "title": "망사걸",
+    "sub": "콘셉트 중심의 여성 이너웨어\n(와이파이 사용 시 접속이 제한될 수 있습니다)",
+    "url": "http://www.mang4girl.com/",
+    "packageName": "",
+    "logoText": "Mang4girl",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 96
+  },
+  {
+    "title": "바니룸",
+    "sub": "개성 있는 디자인의 여성 이너웨어\n(와이파이 사용 시 접속이 제한될 수 있습니다)",
+    "url": "https://www.bunnyroom.co.kr/index.html",
+    "packageName": "",
+    "logoText": "Bunny\nRoom",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 95
+  },
+  {
+    "title": "버니힙",
+    "sub": "스타일링 레그웨어 중심 이너웨어\n(와이파이 사용 시 접속이 제한될 수 있습니다)",
+    "url": "https://www.bunnyhip.com/",
+    "packageName": "",
+    "logoText": "Bunnyhip",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 94
+  },
+  {
+    "title": "변신하라",
+    "sub": "테마형 코스튬 중심의 패션\n(와이파이 사용 시 접속이 제한될 수 있습니다)",
+    "url": "https://www.change8282.com/main/index.php",
+    "packageName": "",
+    "logoText": "Change",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 93
+  },
+  {
+    "title": "섹시야",
+    "sub": "개성 있는 스타일을 제안하는 패션\n(와이파이 사용 시 접속이 제한될 수 있습니다)",
+    "url": "https://sexyya.co.kr/index.html",
+    "packageName": "",
+    "logoText": "Sexyya",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 92
+  },
+  {
+    "title": "섹시우",
+    "sub": "감각적인 스타일의 여성 란제리\n(와이파이 사용 시 접속이 제한될 수 있습니다)",
+    "url": "https://www.sexywooo.com/",
+    "packageName": "",
+    "logoText": "Sexywoo",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 91
+  },
+  {
+    "title": "섹시콩",
+    "sub": "콘셉트 중심의 여성 이너웨어\n(와이파이 사용 시 접속이 제한될 수 있습니다)",
+    "url": "https://sexykong.com/",
+    "packageName": "",
+    "logoText": "Sexykong",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 90
+  },
+  {
+    "title": "섹시펫",
+    "sub": "다양한 테마의 여성 이너웨어\n(와이파이 사용 시 접속이 제한될 수 있습니다)",
+    "url": "http://sexypet.co.kr/index.html",
+    "packageName": "",
+    "logoText": "Sexypet",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 89
+  },
+  {
+    "title": "쉬즈펫",
+    "sub": "다양한 콘셉트의 여성 이너웨어\n(와이파이 사용 시 접속이 제한될 수 있습니다)",
+    "url": "https://www.shezpet.com",
+    "packageName": "",
+    "logoText": "Shezpet",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 88
+  },
+  {
+    "title": "아라마루우",
+    "sub": "슬립·란제리·이벤트웨어 쇼핑몰",
+    "url": "https://aramaru-woo.com/",
+    "packageName": "",
+    "logoText": "Aramaru\nWoo",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 87
+  },
+  {
+    "title": "아시고",
+    "sub": "콘셉트 중심의 성인 패션 셀렉트숍\n(와이파이 사용 시 접속이 제한될 수 있습니다)",
+    "url": "https://asigo.kr/",
+    "packageName": "",
+    "logoText": "Asigo",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 86
+  },
+  {
+    "title": "쥬피앙",
+    "sub": "개성 있는 콘셉트의 코스튬·이너웨어\n(와이파이 사용 시 접속이 제한될 수 있습니다)",
+    "url": "https://jupian.co.kr/",
+    "packageName": "",
+    "logoText": "Jupian",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 85
+  },
+  {
+    "title": "코피팡",
+    "sub": "다양한 스타일의 여성 이너웨어\n(와이파이 사용 시 접속이 제한될 수 있습니다)",
+    "url": "https://kopipang.co.kr/",
+    "packageName": "",
+    "logoText": "Kopipang",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 84
+  },
+  {
+    "title": "핑크바니",
+    "sub": "테마형 여성 코스튬·이너웨어\n(와이파이 사용 시 접속이 제한될 수 있습니다)",
+    "url": "https://www.pinkbunny.co.kr/",
+    "packageName": "",
+    "logoText": "Pinkbunny",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 83
+  }
+]
