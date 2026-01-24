@@ -1,0 +1,211 @@
+[
+  {
+    "title": "렌시스",
+    "sub": "감각적인 컬러렌즈 컬렉션",
+    "url": "https://lenssis-ko.com/",
+    "packageName": "",
+    "logoText": "Lenssis",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 100
+  },
+  {
+    "title": "렌즈24",
+    "sub": "데일리 콘택트렌즈 컬렉션",
+    "url": "https://lens24.co.kr/",
+    "packageName": "",
+    "logoText": "Lens\n24",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 99
+  },
+  {
+    "title": "렌즈고고",
+    "sub": "다양한 스타일 렌즈 큐레이션",
+    "url": "https://www.lensgogo.me/",
+    "packageName": "com.coffye.lensgogo",
+    "logoText": "Lens\nGogo",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 98
+  },
+  {
+    "title": "렌즈링크",
+    "sub": "프리미엄 콘택트렌즈 컬렉션",
+    "url": "https://lenslink.co.kr/",
+    "packageName": "com.cafe24.ec.pluslensoutlet",
+    "logoText": "Lens\nLink",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 97
+  },
+  {
+    "title": "렌즈미",
+    "sub": "트렌디 컬러렌즈 컬렉션",
+    "url": "https://www.lens-me.com/shop/",
+    "packageName": "com.bmit.lensme",
+    "logoText": "Lens\nMe",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 96
+  },
+  {
+    "title": "렌즈베리",
+    "sub": "감성 컬러렌즈 컬렉션",
+    "url": "https://lensvery.com/",
+    "packageName": "",
+    "logoText": "Lens\nVery",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 95
+  },
+  {
+    "title": "렌즈아울렛",
+    "sub": "다양한 렌즈 라인업 컬렉션",
+    "url": "https://www.lensoutlet.co.kr/",
+    "packageName": "",
+    "logoText": "Lens\nOutlet",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 94
+  },
+  {
+    "title": "렌즈타운",
+    "sub": "데일리 착용 렌즈 컬렉션",
+    "url": "https://lenstown.co.kr/",
+    "packageName": "com.lenstown.android.to",
+    "logoText": "Lenstown",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 93
+  },
+  {
+    "title": "렌즈팝",
+    "sub": "컬러 포인트 렌즈 컬렉션",
+    "url": "https://lenspop.net/",
+    "packageName": "",
+    "logoText": "Lens\nPop",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 92
+  },
+  {
+    "title": "루킹굿",
+    "sub": "데일리 콘택트렌즈 컬렉션",
+    "url": "https://lookingood.co.kr/",
+    "packageName": "",
+    "logoText": "Look\nKingood",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 91
+  },
+  {
+    "title": "아이이야기",
+    "sub": "편안한 착용감의 렌즈 컬렉션",
+    "url": "https://www.eyeiyagi.co.kr/",
+    "packageName": "",
+    "logoText": "Eye\nIyagi",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 90
+  },
+  {
+    "title": "아큐브",
+    "sub": "글로벌 스탠다드 콘택트렌즈",
+    "url": "https://acuvue.co.kr/",
+    "packageName": "com.acuvue.ace",
+    "logoText": "Acuvue",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 89
+  },
+  {
+    "title": "아이돌렌즈",
+    "sub": "스타일 포인트 컬러렌즈",
+    "url": "https://www.i-dol.kr/",
+    "packageName": "",
+    "logoText": "I\nDol",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 88
+  },
+  {
+    "title": "오렌즈",
+    "sub": "트렌디 컬러렌즈 컬렉션",
+    "url": "https://o-lens.com/",
+    "packageName": "com.olens.apps",
+    "logoText": "O\nLens",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 87
+  },
+  {
+    "title": "오로라렌즈",
+    "sub": "은은한 컬러 포인트 렌즈",
+    "url": "https://o-lola.co.kr/",
+    "packageName": "com.cafe24.ec.plusinthework",
+    "logoText": "Olola",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 86
+  },
+  {
+    "title": "요즘뷰티렌즈",
+    "sub": "감각적인 데일리 렌즈 컬렉션",
+    "url": "https://myfipn.com/",
+    "packageName": "",
+    "logoText": "Myfipn",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 85
+  },
+  {
+    "title": "위드렌즈",
+    "sub": "편안한 데일리 착용 렌즈",
+    "url": "https://widlens.com/",
+    "packageName": "",
+    "logoText": "Widlens",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 84
+  },
+  {
+    "title": "코코뷰",
+    "sub": "자연스러운 컬러렌즈 컬렉션",
+    "url": "https://cocoview.co.kr/",
+    "packageName": "",
+    "logoText": "Coco\nView",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 83
+  },
+  {
+    "title": "클래시렌즈",
+    "sub": "클래식 무드 렌즈 컬렉션",
+    "url": "https://classi-lens.com/",
+    "packageName": "",
+    "logoText": "Classi\nLens",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 82
+  }
+]
