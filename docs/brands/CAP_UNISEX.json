@@ -1,0 +1,233 @@
+[
+  {
+    "title": "놀자판",
+    "sub": "캐주얼 패션과 데일리 아이템을 소개하는 온라인 스토어",
+    "url": "https://smartstore.naver.com/premi3r",
+    "packageName": "",
+    "logoText": "Nolja\nPan",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 100
+  },
+  {
+    "title": "뉴에라",
+    "sub": "스트리트 감성 모자와 의류를 선보이는 공식 스토어",
+    "url": "http://www.neweracapkorea.com/",
+    "packageName": "com.korea.newera",
+    "logoText": "Newera",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 99
+  },
+  {
+    "title": "니뜨",
+    "sub": "초보도 쉽게 즐기는 손뜨개 실·도안 전문 공간",
+    "url": "http://www.knitt.co.kr/",
+    "packageName": "com.mocam2.mocam_02_36",
+    "logoText": "Nitt",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 98
+  },
+  {
+    "title": "도토리모자",
+    "sub": "평화시장 기반 모자 전문 도매 및 제작 서비스",
+    "url": "http://dotoricap.co.kr/",
+    "packageName": "",
+    "logoText": "Dotoricap",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 97
+  },
+  {
+    "title": "동대문모자",
+    "sub": "다양한 스타일 모자와 계절용 아이템을 제공하는 곳",
+    "url": "https://smartstore.naver.com/dongdaemunmoja",
+    "packageName": "",
+    "logoText": "Dongdaemun\nmoja",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 96
+  },
+  {
+    "title": "루이엘",
+    "sub": "다양한 스타일의 디자이너·핸드메이드 모자를 선보이는 곳",
+    "url": "http://luiellemall.com/",
+    "packageName": "",
+    "logoText": "Luielle",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 95
+  },
+  {
+    "title": "불레부",
+    "sub": "기능성부터 클래식까지 다양한 모자와 액세서리를 선택할 수 있는 전문몰",
+    "url": "http://vulevumall.com",
+    "packageName": "com.cafe24.ec.plusvulevu2",
+    "logoText": "Vulevu",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 94
+  },
+  {
+    "title": "쎄라비",
+    "sub": "플리스·페도라·비니 등 폭넓은 헤드기어 상품을 갖춘 패션 헤드웨어 공간",
+    "url": "http://www.celavie.co.kr/",
+    "packageName": "com.makeshop.powerapp.MRPERFECT",
+    "logoText": "Celavie",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 93
+  },
+  {
+    "title": "아이러브캡",
+    "sub": "볼캡·벙거지·비니 등 다양한 모자 아이템을 갖춘 공간",
+    "url": "http://ilovecap.co.kr/",
+    "packageName": "",
+    "logoText": "Ilovecap",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 92
+  },
+  {
+    "title": "아이엠캡",
+    "sub": "빅사이즈부터 기본 캡까지 실용적인 캐주얼 캡을 만날 수 있는 곳",
+    "url": "https://iamcap.com/",
+    "packageName": "",
+    "logoText": "Iamcap",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 91
+  },
+  {
+    "title": "야나 뜨개실",
+    "sub": "손뜨개실·코바늘·대바늘 DIY 패키지와 실을 다루는 전문 공간",
+    "url": "http://yarn-a.com/",
+    "packageName": "",
+    "logoText": "YANA",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 90
+  },
+  {
+    "title": "언더컨트롤",
+    "sub": "비니를 포함한 헤드웨어와 시즌별 액세서리를 제안하는 스타일 공간",
+    "url": "https://undercontrol.co.kr/",
+    "packageName": "",
+    "logoText": "Under\ncontrol",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 89
+  },
+  {
+    "title": "엔터모자",
+    "sub": "을지로 평화시장 기반 캡·헌팅 스타일 제품을 다루는 모자 전문 공간",
+    "url": "https://www.enter-cap.co.kr/",
+    "packageName": "",
+    "logoText": "enter\ncap",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 88
+  },
+  {
+    "title": "엠엘비",
+    "sub": "MLB 정품 캡·비니 등 스포츠 감성 모자 아이템을 선보이는 공식몰",
+    "url": "https://www.mlb-korea.com/",
+    "packageName": "hk.com.nineyi.shop.s000015",
+    "logoText": "MLB",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 87
+  },
+  {
+    "title": "제이투알",
+    "sub": "캡·헌팅캡·버킷햇 등 다양한 모자 스타일을 제안하는 공간",
+    "url": "http://j2rmall.com/",
+    "packageName": "",
+    "logoText": "J2r",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 86
+  },
+  {
+    "title": "캡이요",
+    "sub": "볼캡·벙거지·비니 등 모자류를 다양하게 선보이는 곳",
+    "url": "https://www.capeyo.com/",
+    "packageName": "",
+    "logoText": "Capeyo",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 85
+  },
+  {
+    "title": "캡조아",
+    "sub": "자체 제작 캡·비니·벙거지 등 다양한 모자 스타일을 갖춘 공간",
+    "url": "https://capjoa.com/",
+    "packageName": "",
+    "logoText": "Capjoa",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 84
+  },
+  {
+    "title": "캡투햇",
+    "sub": "여러 종류의 캡·모자류를 취급하며 선택 폭이 넓은 온라인 공간",
+    "url": "https://captohat.com/",
+    "packageName": "",
+    "logoText": "Captohat",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 83
+  },
+  {
+    "title": "클립더문",
+    "sub": "볼캡·비니 등 헤드웨어와 액세서리 아이템을 선보이는 곳",
+    "url": "https://www.clipthemoon.com/",
+    "packageName": "",
+    "logoText": "Clipthe\nmoon",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 82
+  },
+  {
+    "title": "호텐",
+    "sub": "2013년 시작해 다양한 헤드웨어를 집중 취급하는 모자 편의점",
+    "url": "https://www.hoten.co.kr",
+    "packageName": "",
+    "logoText": "Hoten",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 81
+  },
+  {
+    "title": "화이트샌즈",
+    "sub": "미국 뉴멕시코의 하늘·모래·바람 감성을 담은 담백한 헤드웨어",
+    "url": "https://brand.naver.com/whitesands",
+    "packageName": "com.whitesands.byapps",
+    "logoText": "White\nsands",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 80
+  }
+]
