@@ -1,1 +1,178 @@
-
+[
+  {
+    "title": "61초",
+    "sub": "감각적인 디자인의 데일리 파자마",
+    "url": "https://www.61sec.shop/",
+    "packageName": "",
+    "logoText": "61sec",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 100
+  },
+  {
+    "title": "눕눕",
+    "sub": "포근함을 입는 감성 파자마",
+    "url": "https://noopnoop.co.kr/",
+    "packageName": "",
+    "logoText": "Noop Noop",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 99
+  },
+  {
+    "title": "드리밍유",
+    "sub": "포근한 휴식을 위한 감성 파자마",
+    "url": "https://dreamingu.kr/",
+    "packageName": "",
+    "logoText": "Dreamingu",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 98
+  },
+  {
+    "title": "루나루즈",
+    "sub": "감성적인 무드의 프리미엄 파자마",
+    "url": "https://lunaluzstudio.co.kr/",
+    "packageName": "",
+    "logoText": "Lunaluz",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 97
+  },
+  {
+    "title": "메이플라워",
+    "sub": "감성 가득한 데일리 파자마 컬렉션",
+    "url": "https://www.mayflower24.com/",
+    "packageName": "",
+    "logoText": "May Flower",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 96
+  },
+  {
+    "title": "쇼문",
+    "sub": "감각적인 디자인의 홈웨어 컬렉션",
+    "url": "https://showmoon.com/",
+    "packageName": "",
+    "logoText": "Show Moon",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 95
+  },
+  {
+    "title": "슬립슬랩",
+    "sub": "포근한 휴식을 위한 감성 홈웨어",
+    "url": "https://www.sleepslept.kr/",
+    "packageName": "",
+    "logoText": "Sleep Slept",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 94
+  },
+  {
+    "title": "오끼뜨",
+    "sub": "편안함과 디자인을 담은 홈웨어",
+    "url": "https://oggitt.com/",
+    "packageName": "",
+    "logoText": "Oggitt",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 93
+  },
+  {
+    "title": "오르시떼",
+    "sub": "감각적 디자인의 프리미엄 홈웨어",
+    "url": "https://orcite.co.kr/",
+    "packageName": "com.cafe24.ec.plusorcite2017",
+    "logoText": "Orcite",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 92
+  },
+  {
+    "title": "올썸",
+    "sub": "편안함과 스타일을 담은 홈웨어",
+    "url": "https://allsum.co.kr/",
+    "packageName": "com.cafe24.ec.plusallsum1",
+    "logoText": "Allsum",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 91
+  },
+  {
+    "title": "쥬니쥬",
+    "sub": "사랑스러운 무드의 데일리 파자마",
+    "url": "https://juuneedu.com/",
+    "packageName": "",
+    "logoText": "Juuneedu",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 90
+  },
+  {
+    "title": "투드리머스",
+    "sub": "포근한 감성으로 완성하는 데일리 파자마",
+    "url": "https://2dreamers.co.kr/",
+    "packageName": "",
+    "logoText": "2Dreamers",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 89
+  },
+  {
+    "title": "티세르",
+    "sub": "미니멀 감성의 고급 홈웨어",
+    "url": "https://teser.co.kr/",
+    "packageName": "",
+    "logoText": "Teser",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 88
+  },
+  {
+    "title": "핑크우드",
+    "sub": "감성적인 무드의 데일리 파자마",
+    "url": "https://pinkwood.co.kr/",
+    "packageName": "",
+    "logoText": "Pink Wood",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 87
+  },
+  {
+    "title": "해피데이",
+    "sub": "하루를 편안하게 마무리하는 파자마",
+    "url": "https://happyday-smile.com/",
+    "packageName": "",
+    "logoText": "Happy Day",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 86
+  },
+  {
+    "title": "허그미달링",
+    "sub": "포근함을 입는 감성 홈웨어",
+    "url": "https://hugmedarling.kr/",
+    "packageName": "com.hugmedarling2.byapps",
+    "logoText": "Hugme Darling",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 85
+  }
+]
