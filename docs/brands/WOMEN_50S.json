@@ -1,1 +1,178 @@
-
+[
+  {
+    "title": "금찌",
+    "sub": "중잔년 여성을 위한 프리미엄 감성 의류",
+    "url": "https://www.gumzzi.co.kr/",
+    "packageName": "com.looket.gumzzi",
+    "logoText": "Gumzzi",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 100
+  },
+  {
+    "title": "김여사",
+    "sub": "부드러운 터치감과 깔끔한 실루엣으로\n편안하게 입기 좋은 스타일",
+    "url": "http://www.hanq.co.kr/",
+    "packageName": "com.kimyeosa.byapps",
+    "logoText": "Kim\nYeosa",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 99
+  },
+  {
+    "title": "내추럴가든",
+    "sub": "자연스러운 실루엣의 편안한 데일리웨어",
+    "url": "https://naturalgarden.co.kr/",
+    "packageName": "com.byapps.linennatural",
+    "logoText": "natural\ngarden",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 98
+  },
+  {
+    "title": "데드라",
+    "sub": "중장년 여성을 위한 우아한 클래식 스타일",
+    "url": "http://www.dedra.co.kr/",
+    "packageName": "com.makeshop.powerapp.lsh7614",
+    "logoText": "Dedra",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 97
+  },
+  {
+    "title": "디얼마미",
+    "sub": "중장년 여성을 위한 단정한 데일리·생활한복 스타일",
+    "url": "http://www.dearmami.co.kr/",
+    "packageName": "com.dearmami.byapps",
+    "logoText": "Dearmami",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 96
+  },
+  {
+    "title": "로즈맘",
+    "sub": "편안한 착용감과 보온성을 강조한 중장년 데일리 홈웨어 스타일",
+    "url": "https://rosemom.co.kr/",
+    "packageName": "com.byapps.rosemadam",
+    "logoText": "Rosemom",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 95
+  },
+  {
+    "title": "마담4060",
+    "sub": "단정한 핏으로 일상에 잘 어울리는 스타일",
+    "url": "http://www.madam4060.com/",
+    "packageName": "com.makeshop.powerapp.schtak",
+    "logoText": "Madam\n4060",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 94
+  },
+  {
+    "title": "마담부띠끄",
+    "sub": "차분한 디자인으로 편안한 착용감 연출",
+    "url": "https://www.madamboutique.com/",
+    "packageName": "com.makeshop.powerapp.rmcr9",
+    "logoText": "Madam\nboutique",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 93
+  },
+  {
+    "title": "모슬린",
+    "sub": "단정한 핏으로 데일리 활용도 높은 스타일",
+    "url": "http://sooapparel.com/",
+    "packageName": "com.cafe24.ec.plusyk8736",
+    "logoText": "Muslin",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 92
+  },
+  {
+    "title": "바네사리찌",
+    "sub": "차분한 컬러와 정제된 실루엣의 우아한 스타일",
+    "url": "https://vanessarizzi.com/",
+    "packageName": "",
+    "logoText": "vanessa\nrizzi",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 91
+  },
+  {
+    "title": "봉쥬르마담",
+    "sub": "단정한 실루엣의 우아한 데일리 스타일",
+    "url": "http://www.bonjourmadame.co.kr/",
+    "packageName": "",
+    "logoText": "Bonjour\nMadame",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 90
+  },
+  {
+    "title": "빅맘",
+    "sub": "체형을 자연스럽게 감싸 편안하고 실용적인 데일리 스타일",
+    "url": "https://bigmom.co.kr/",
+    "packageName": "com.cafe24.bigmom",
+    "logoText": "Bigmom",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 89
+  },
+  {
+    "title": "쉬즈마담",
+    "sub": "중장년 데일리 우아한 여성 스타일",
+    "url": "https://www.shesmadam.com/",
+    "packageName": "com.byapps.shesmadam",
+    "logoText": "Shesmadam",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 88
+  },
+  {
+    "title": "쉬즈팝",
+    "sub": "편안한 실루엣의 내추럴 캐주얼 스타일",
+    "url": "http://m.shespop.com/",
+    "packageName": "com.cafe24.ec.plusshespop",
+    "logoText": "Shespop",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 87
+  },
+  {
+    "title": "신데렐라",
+    "sub": "트렌디한 중장년 여성들을 위한 의류",
+    "url": "https://ccinderella.com/",
+    "packageName": "com.app.ccinderella",
+    "logoText": "Ccinde\nRella",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 86
+  },
+  {
+    "title": "조이마담",
+    "sub": "중장년 여성을 위한 단정하고 편안한 데일리웨어",
+    "url": "https://www.joymadam.com/",
+    "packageName": "com.joymadam.byapps",
+    "logoText": "Joymadam",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 85
+  }
+]
