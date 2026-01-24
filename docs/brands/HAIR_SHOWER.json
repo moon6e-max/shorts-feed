@@ -658,5 +658,16 @@
     "photos": [],
     "enabled": true,
     "priority": 41
+  },
+  {
+    "title": "헤어플러스",
+    "sub": "단백질 케어로 건강하게 빛나는 모발을 완성하는 헤어 전문 공간",
+    "url": "https://www.hairplus.co.kr/",
+    "packageName": "",
+    "logoText": "Hairplus",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 41
   }
 ]
