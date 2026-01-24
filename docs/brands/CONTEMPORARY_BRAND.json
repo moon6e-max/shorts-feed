@@ -1,1 +1,277 @@
-123
+[
+  {
+    "title": "CP컴퍼니",
+    "sub": "기능성을 강조한 이탈리아\n컨템포러리 패션 브랜드",
+    "url": "https://www.cpcompany.com/ko-kr/",
+    "packageName": "",
+    "logoText": "CP\ncompany",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 100
+  },
+  {
+    "title": "골든구스",
+    "sub": "이탈리아 장인 정신과 빈티지 감성이\n어우러진 럭셔리 브랜드",
+    "url": "https://www.goldengoose.com/kr/ko",
+    "packageName": "",
+    "logoText": "golden\ngoose",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 99
+  },
+  {
+    "title": "닐 바렛",
+    "sub": "모던한 미니멀 감성의\n컨템포러리 패션 브랜드",
+    "url": "https://www.neilbarrett.com/",
+    "packageName": "",
+    "logoText": "Neilbar\nrett",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 98
+  },
+  {
+    "title": "디젤",
+    "sub": "이탈리아 감성의 개성 강한\n데님·스트리트 패션 브랜드",
+    "url": "https://kr.diesel.com/en/",
+    "packageName": "",
+    "logoText": "Diesel",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 97
+  },
+  {
+    "title": "렉토",
+    "sub": "모던 감성의 컨템포러리 패션 브랜드",
+    "url": "https://recto.co/",
+    "packageName": "",
+    "logoText": "Recto",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 96
+  },
+  {
+    "title": "로우클래식",
+    "sub": "미니멀한 감성의\n컨템포러리 패션 브랜드",
+    "url": "https://www.lowclassic.com/",
+    "packageName": "",
+    "logoText": "Low\nclassic",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 95
+  },
+  {
+    "title": "르17셉템버",
+    "sub": "절제된 감성의 컨템포러리\n패션 브랜드",
+    "url": "https://le17septembre.com/",
+    "packageName": "",
+    "logoText": "Le 17\nseptembre",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 94
+  },
+  {
+    "title": "마쥬",
+    "sub": "프렌치 시크 감성의 컨템포러리\n여성 패션 브랜드",
+    "url": "https://maje.kr/main/index.php",
+    "packageName": "",
+    "logoText": "Maje",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 93
+  },
+  {
+    "title": "메종키츠네",
+    "sub": "프렌치 감성과 라이프스타일을 담은\n컨템포러리 패션 브랜드",
+    "url": "https://maisonkitsune.com/kr/",
+    "packageName": "",
+    "logoText": "Maison\nkitsune",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 92
+  },
+  {
+    "title": "무스너클",
+    "sub": "프리미엄 기능성\n아우터웨어 브랜드",
+    "url": "https://www.mooseknucklescanada.com/us-en",
+    "packageName": "",
+    "logoText": "Moose\nknuckles",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 91
+  },
+  {
+    "title": "산드로",
+    "sub": "프렌치 시크 감성의\n컨템포러리 패션 브랜드",
+    "url": "https://sandro.kr/",
+    "packageName": "",
+    "logoText": "Sandro",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 90
+  },
+  {
+    "title": "세터",
+    "sub": "여유로운 감성의\n컨템포러리 캐주얼 브랜드",
+    "url": "https://www.satur.co.kr",
+    "packageName": "",
+    "logoText": "Satur",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 89
+  },
+  {
+    "title": "솔리드 옴므",
+    "sub": "모던하고 세련된\n남성 컨템포러리 패션 브랜드",
+    "url": "https://www.solidhomme.com/",
+    "packageName": "",
+    "logoText": "Solid\nhomme",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 88
+  },
+  {
+    "title": "스톤 아일랜드",
+    "sub": "기능성을 강조한\n이탈리아 컨템포러리 브랜드",
+    "url": "https://www.stoneisland.com/kr",
+    "packageName": "",
+    "logoText": "Stone\nisland",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 87
+  },
+  {
+    "title": "아더에러",
+    "sub": "독창적이고 유니크한 디자인의\n한국 컨템포러리 패션 브랜드",
+    "url": "https://www.adererror.com",
+    "packageName": "",
+    "logoText": "Ader\nerror",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 86
+  },
+  {
+    "title": "아미",
+    "sub": "파리 감성의 미니멀하고 세련된\n컨템포러리 패션 브랜드",
+    "url": "https://www.amiparis.com/kr/",
+    "packageName": "",
+    "logoText": "Ami",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 85
+  },
+  {
+    "title": "아크네",
+    "sub": "스웨덴 감성의 미니멀\n컨템포러리 패션 브랜드",
+    "url": "https://www.acnestudios.com/kr/ko/",
+    "packageName": "",
+    "logoText": "Acnes",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 84
+  },
+  {
+    "title": "아페쎄",
+    "sub": "프렌치 미니멀 감성의\n컨템포러리 패션 브랜드",
+    "url": "https://www.apc-korea.com/",
+    "packageName": "",
+    "logoText": "A.P.C",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 83
+  },
+  {
+    "title": "어콜드월",
+    "sub": "실험적이고 구조적인 감각의\n영국 컨템포러리 패션 브랜드",
+    "url": "https://a-cold-wall.com",
+    "packageName": "",
+    "logoText": "acold\nwall",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 82
+  },
+  {
+    "title": "엔더슨벨",
+    "sub": "감각적인 컨템포러리 패션 브랜드",
+    "url": "https://anderssonbell.com",
+    "packageName": "",
+    "logoText": "anderssonbell",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 81
+  },
+  {
+    "title": "우영미",
+    "sub": "파리 기반의 현대적이고 세련된\n컨템포러리 패션 브랜드",
+    "url": "https://wooyoungmi.com/",
+    "packageName": "",
+    "logoText": "woo\nyoungmi",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 80
+  },
+  {
+    "title": "코스",
+    "sub": "미니멀하고 모던한 디자인을 선보이는\n컨템포러리 패션 브랜드",
+    "url": "https://www.cos.com/ko-kr/index.html",
+    "packageName": "",
+    "logoText": "COS",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 79
+  },
+  {
+    "title": "포스트아카이브팩션",
+    "sub": "모던하고 유니크한 감성의\n컨템포러리 패션 브랜드",
+    "url": "https://postarchivefaction.com/collections/all",
+    "packageName": "",
+    "logoText": "post\narchive",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 78
+  },
+  {
+    "title": "폴 스미스",
+    "sub": "클래식에 유머 감각을 더한 영국\n컨템포러리 패션 브랜드",
+    "url": "https://www.shinsegaev.com/store/paulsmith",
+    "packageName": "",
+    "logoText": "PAUL\nSMITH",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 77
+  },
+  {
+    "title": "헬무트랭",
+    "sub": "미니멀하고 실험적인 감성의\n컨템포러리 패션 브랜드",
+    "url": "https://www.helmutlang.com/",
+    "packageName": "",
+    "logoText": "Hel\nmutlang",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 76
+  }
+]
