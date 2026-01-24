@@ -1,1 +1,215 @@
+[
+  {
+    "title": "120 브로",
+    "sub": "스트릿 감성 중심의 남성 캐주얼 의류 브랜드",
+    "url": "http://www.120bro.com/",
+    "packageName": "",
+    "logoText": "120\nbro",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 100
+  },
+  {
+    "title": "듬직",
+    "sub": "빅사이즈 중심의 남성 캐주얼 의류 브랜드",
+    "url": "https://smartstore.naver.com/dependable",
+    "packageName": "",
+    "logoText": "Deumjik",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 99
+  },
+  {
+    "title": "루스코",
+    "sub": "데일리 활용도 높은 남성 캐주얼 브랜드",
+    "url": "http://www.rusko.kr/",
+    "packageName": "com.makeshop.powerapp.mjdo2013",
+    "logoText": "Rusko",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 98
+  },
+  {
+    "title": "루이스",
+    "sub": "오버핏 중심의 남성 캐주얼·스트릿 의류 브랜드",
+    "url": "https://smartstore.naver.com/louis72",
+    "packageName": "",
+    "logoText": "Louis",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 97
+  },
+  {
+    "title": "베어릭",
+    "sub": "오버핏 스트릿 무드의 남성 캐주얼 브랜드",
+    "url": "https://bearick.co.kr/",
+    "packageName": "com.bearick.byapps",
+    "logoText": "",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 96
+  },
+  {
+    "title": "봉구네 옷장",
+    "sub": "꾸안꾸 스타일의 남성 캐주얼 브랜드",
+    "url": "https://bonggucloset.kr/",
+    "packageName": "com.cafe24.ec.plusdbrp",
+    "logoText": "bonggu\ncloset",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 95
+  },
+  {
+    "title": "부붐",
+    "sub": "개성 있는 스트릿 감성의 남성 캐주얼 의류 브랜드",
+    "url": "https://www.boovoom.com/index.html",
+    "packageName": "",
+    "logoText": "Boovoom",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 94
+  },
+  {
+    "title": "빅군",
+    "sub": "빅사이즈 중심의 남성 캐주얼·스트릿 의류 브랜드",
+    "url": "https://www.biggoon.co.kr/",
+    "packageName": "com.biggoon.byapps",
+    "logoText": "Biggoon",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 93
+  },
+  {
+    "title": "빅사이즈 클럽",
+    "sub": "빅사이즈 남성 캐주얼·스트릿 의류 브랜드",
+    "url": "http://www.bigsizeclub.co.kr/",
+    "packageName": "com.makeshop.powerapp.wltns7901",
+    "logoText": "Bigsize\nclub",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 92
+  },
+  {
+    "title": "빅엔조이",
+    "sub": "빅사이즈 중심의 남성 캐주얼 의류 브랜드",
+    "url": "https://www.bignjoy.com/",
+    "packageName": "com.makeshop.powerapp.bigsize",
+    "logoText": "Bignjoy",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 91
+  },
+  [
+  {
+    "title": "스타일 덤프",
+    "sub": "후드·팬츠 중심의 남성 캐주얼·스트릿 의류 브랜드",
+    "url": "https://styledump.co.kr/",
+    "packageName": "kr.co.styledump",
+    "logoText": "Style\ndump",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 90
+  },
+  {
+    "title": "스타일빅",
+    "sub": "빅사이즈 중심 루즈핏 캐주얼 의류 브랜드",
+    "url": "https://www.stylebig.com/index.html",
+    "packageName": "",
+    "logoText": "Stylebig",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 89
+  },
+  {
+    "title": "아이엠팻",
+    "sub": "빅사이즈 중심의 남성 캐주얼 의류 브랜드",
+    "url": "https://www.imfat.co.kr/index.html",
+    "packageName": "com.imfat.byapps",
+    "logoText": "I'm\nfat",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 88
+  },
+  {
+    "title": "오까네",
+    "sub": "트렌디한 스트릿 감성의 남성 의류 브랜드",
+    "url": "https://www.okkane.co.kr/",
+    "packageName": "com.okkane.byapps",
+    "logoText": "Okkane",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 87
+  },
+  {
+    "title": "우기브로",
+    "sub": "오버핏 중심의 남성 캐주얼·스트릿 의류 브랜드",
+    "url": "https://www.wookybro.com/index.html",
+    "packageName": "ccom.wookybro2.byapps",
+    "logoText": "Wookybro",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 86
+  },
+  {
+    "title": "워너빅",
+    "sub": "빅사이즈 중심의 남성 캐주얼·스트릿 의류 브랜드",
+    "url": "https://www.wannabig.co.kr/",
+    "packageName": "",
+    "logoText": "Wanna\nbig",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 85
+  },
+  {
+    "title": "작살힙합",
+    "sub": "힙합 감성 스트릿 무드의 남성 캐주얼 브랜드",
+    "url": "https://zaksal.co.kr/",
+    "packageName": "",
+    "logoText": "Zaksal",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 84
+  },
+  {
+    "title": "젠브로",
+    "sub": "베이직과 스트릿을 아우르는 남성 캐주얼 의류 브랜드",
+    "url": "https://www.zenbro.co.kr/index.html",
+    "packageName": "kr.co.smartskin.zenbro2014",
+    "logoText": "Zenbro",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 83
+  },
+  {
+    "title": "훈자야",
+    "sub": "빅사이즈 중심의 남성 캐주얼 의류 브랜드",
+    "url": "http://www.hoonjaya.com/",
+    "packageName": "com.byappsc.hoonjaya",
+    "logoText": "hoonjaya",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 82
+  }
+]
+
+]
 
