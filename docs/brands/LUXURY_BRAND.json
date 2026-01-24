@@ -1,16 +1,17 @@
 [
   {
-    "title": "겐조",
-    "sub": "대담한 색감과 패턴을 바탕으로 전개되는 패션 브랜드",
-    "url": "https://www.kenzo.com/",
-    "packageName": "",
-    "logoText": "Kenzo",
-    "logoUrl": "",
-
-    "photos": [],
-
-    "enabled": true,
-    "priority": 100
+  "title": "겐조",
+  "sub": "...",
+  "url": "https://www.kenzo.com/",
+  "packageName": "",
+  "logoText": "Kenzo",
+  "logoUrl": "",
+  "photos": [
+    "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTAxMzBfMjg4%2FMDAxNzM4MjI0OTYzMTE1.W7NA0hRAJOpgzpcGoXJVwnf_8ZacQuYhy-WKWqK0Miog.a6FVQM70hNH2mzzGCcNzyBiJ0uVzXyrAypM2zh3K9SQg.JPEG%2F%25B8%25CD.jpg&type=a340",
+    https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTAxMzBfMjg4%2FMDAxNzM4MjI0OTYzMTE1.W7NA0hRAJOpgzpcGoXJVwnf_8ZacQuYhy-WKWqK0Miog.a6FVQM70hNH2mzzGCcNzyBiJ0uVzXyrAypM2zh3K9SQg.JPEG%2F%25B8%25CD.jpg&type=a340
+  ],
+  "enabled": true,
+  "priority": 100
   },
   {
     "title": "고야드",
