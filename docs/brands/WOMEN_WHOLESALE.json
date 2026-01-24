@@ -1,0 +1,156 @@
+[
+  {
+    "title": "단하루",
+    "sub": "트렌드를 부담 없이 즐기는 감각적인 데일리 스타일",
+    "url": "http://danharoo.com/",
+    "packageName": "com.cafe24.ec.plusdanharoo",
+    "logoText": "Danharoo",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 100
+  },
+  {
+    "title": "도매갓",
+    "sub": "편안함과 실용성을 갖춘 데일리 스타일",
+    "url": "http://domegod.com/",
+    "packageName": "",
+    "logoText": "Domegod",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 99
+  },
+  {
+    "title": "또오룸",
+    "sub": "차분한 컬러와 미니멀한 실루엣의 데일리 무드",
+    "url": "https://ddooroom.com/",
+    "packageName": "",
+    "logoText": "Ddooroom",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 98
+  },
+  {
+    "title": "레씨",
+    "sub": "깔끔한 디자인과 실용성을 강조한 데일리 스타일",
+    "url": "http://www.lecb2b.com/",
+    "packageName": "",
+    "logoText": "Le.c",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 97
+  },
+  {
+    "title": "루시룩",
+    "sub": "여리한 무드와 트렌디한 실루엣의 데일리 스타일",
+    "url": "https://f4dome.com/",
+    "packageName": "",
+    "logoText": "Lucy\nLook",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 96
+  },
+  {
+    "title": "메이미",
+    "sub": "여성스러운 디테일을 살린 감성 데일리 스타일",
+    "url": "https://mayme.kr/",
+    "packageName": "",
+    "logoText": "Mayme",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 95
+  },
+  {
+    "title": "문엔리",
+    "sub": "담백한 디자인과 내추럴한 감성의 데일리 스타일",
+    "url": "http://www.moonnri.com/",
+    "packageName": "",
+    "logoText": "Moonnri",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 94
+  },
+  {
+    "title": "스타일",
+    "sub": "감각적인 무드와 편안함을 담은 데일리 스타일",
+    "url": "https://www.styledome.net/",
+    "packageName": "",
+    "logoText": "Styledome",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 93
+  },
+  {
+    "title": "온미",
+    "sub": "여리한 디테일이 돋보이는 데일리 무드",
+    "url": "http://onnme.com/",
+    "packageName": "",
+    "logoText": "Onnme",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 92
+  },
+  {
+    "title": "우미샵",
+    "sub": "편안한 착용감과 단정한 실루엣의 데일리 스타일",
+    "url": "http://woomishop.com/",
+    "packageName": "",
+    "logoText": "Woomi\nshop",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 91
+  },
+  {
+    "title": "웰리샵",
+    "sub": "편안한 착용감과 실용성을 중시한 데일리 스타일",
+    "url": "http://richcookie.cafe24.com/",
+    "packageName": "",
+    "logoText": "Welly\nshop",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 90
+  },
+  {
+    "title": "이노빌",
+    "sub": "깔끔한 무드의 감각적인 실루엣 데일리웨어 스타일",
+    "url": "http://innovill.com/",
+    "packageName": "com.makeshop.powerapp.juinnovill",
+    "logoText": "Innovill",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 89
+  },
+  {
+    "title": "제이스윗",
+    "sub": "러블리한 감성과 부드러운 실루엣의 데일리 스타일",
+    "url": "http://jsweet.co.kr/",
+    "packageName": "",
+    "logoText": "Jsweet",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 88
+  },
+  {
+    "title": "지컬렉션",
+    "sub": "단정한 실루엣과 클래식한 무드의 데일리 스타일",
+    "url": "http://www.gcol.co.kr/",
+    "packageName": "",
+    "logoText": "Gcolle\nction",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 87
+  }
+]
