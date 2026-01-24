@@ -1,0 +1,90 @@
+[
+  {
+    "title": "라쉬반",
+    "sub": "편안함과 기능성을 강조한 남성 언더웨어 전문 브랜드",
+    "url": "https://www.lashevan.com/index.html",
+    "packageName": "",
+    "logoText": "Lashevan",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 100
+  },
+  {
+    "title": "맨토닉",
+    "sub": "남성 퍼포먼스 언더웨어 브랜드",
+    "url": "https://www.mentonic.com/main/index.php",
+    "packageName": "",
+    "logoText": "Mentonic",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 99
+  },
+  {
+    "title": "메트로섹슈얼",
+    "sub": "프리미엄 남성 언더웨어 전문몰",
+    "url": "http://www.gift4man.co.kr/index.html",
+    "packageName": "",
+    "logoText": "MetroXual",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 98
+  },
+  {
+    "title": "슈럭",
+    "sub": "남성 데일리 언더웨어 브랜드",
+    "url": "https://www.shrug-color.com/category/shrug-set/61/",
+    "packageName": "",
+    "logoText": "Shrug",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 97
+  },
+  {
+    "title": "스틱쇼크",
+    "sub": "해외 남성 기능성 언더웨어 쇼핑몰",
+    "url": "https://stickshock.com/index.html",
+    "packageName": "",
+    "logoText": "Stick\nshock",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 96
+  },
+  {
+    "title": "언코티드",
+    "sub": "남성 라이프스타일 언더웨어 브랜드",
+    "url": "https://uncoated.co.kr/index.html",
+    "packageName": "",
+    "logoText": "Uncoated",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 95
+  },
+  {
+    "title": "에반크리스",
+    "sub": "남성 기능성 이너웨어·라이프웨어 브랜드",
+    "url": "https://www.evanchris.com/",
+    "packageName": "",
+    "logoText": "Evanchris",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 94
+  },
+  {
+    "title": "필라",
+    "sub": "휠라(FILA) 남성 언더웨어 라인",
+    "url": "https://www.fila.co.kr/main/underwear_m.asp",
+    "packageName": "",
+    "logoText": "Fila",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 93
+  }
+]
