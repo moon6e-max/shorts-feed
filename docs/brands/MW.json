@@ -1,1 +1,189 @@
-
+[
+  {
+    "title": "나인제트",
+    "sub": "남녀 캐주얼·애슬레저 감성 패션 브랜드",
+    "url": "https://ninezshop.co.kr/",
+    "packageName": "",
+    "logoText": "",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 100
+  },
+  {
+    "title": "누아클레",
+    "sub": "감각적 디자인으로 완성하는 모던 패션",
+    "url": "https://www.nuakle.com/",
+    "packageName": "",
+    "logoText": "Nuakle",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 99
+  },
+  {
+    "title": "데카트론",
+    "sub": "스포츠 라이프를 위한 실용적 퍼포먼스",
+    "url": "https://www.decathlon.co.kr/",
+    "packageName": "sg.decathlon.app",
+    "logoText": "Deca\nThlon",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 98
+  },
+  {
+    "title": "디프레임",
+    "sub": "미니멀 감성으로 완성하는 데일리 웨어",
+    "url": "https://dframe.kr/",
+    "packageName": "",
+    "logoText": "Dframe",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 97
+  },
+  {
+    "title": "레이지비",
+    "sub": "감각적인 애슬레저로 완성하는 데일리 웨어",
+    "url": "https://www.lazybee.co.kr/",
+    "packageName": "com.looket.exsnow",
+    "logoText": "Lazybee",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 96
+  },
+  {
+    "title": "빈케이지",
+    "sub": "트렌디 무드의 감각적인 데일리 패션",
+    "url": "https://vinkg.com/",
+    "packageName": "",
+    "logoText": "",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 95
+  },
+  {
+    "title": "세인트제임스",
+    "sub": "프렌치 감성의 클래식 스트라이프웨어",
+    "url": "https://www.saint-james.co.kr/",
+    "packageName": "",
+    "logoText": "Saint\nJames",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 94
+  },
+  {
+    "title": "스컬피그",
+    "sub": "퍼포먼스와 감각을 담은 애슬레저 웨어",
+    "url": "https://skullpig.com/",
+    "packageName": "com.skullpig.byapps",
+    "logoText": "Skull\nPig",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 93
+  },
+  {
+    "title": "안다르",
+    "sub": "프리미엄 애슬레저로 완성하는 라이프웨어",
+    "url": "https://andar.co.kr/index.html",
+    "packageName": "com.cafe24.ec.plusandar01",
+    "logoText": "Andar",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 92
+  },
+  {
+    "title": "엠씨엔핏",
+    "sub": "활동성을 살린 스포티 데일리 웨어",
+    "url": "https://mcnfit.co.kr/",
+    "packageName": "",
+    "logoText": "MCNFIT",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 91
+  },
+  {
+    "title": "엠페브",
+    "sub": "미니멀 감성의 트렌디 애슬레저",
+    "url": "https://mfav.co.kr/",
+    "packageName": "",
+    "logoText": "Mfav",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 90
+  },
+  {
+    "title": "윌슨",
+    "sub": "테니스·스포츠 전문 장비 & 의류몰",
+    "url": "https://kr.wilson.com/",
+    "packageName": "",
+    "logoText": "Wilson",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 89
+  },
+  {
+    "title": "유즈드바이타임",
+    "sub": "빈티지 감성으로 완성하는 유니크 스타일",
+    "url": "https://usedbytime.co.kr/",
+    "packageName": "",
+    "logoText": "Usedby\nTime",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 88
+  },
+  {
+    "title": "젝시믹스",
+    "sub": "퍼포먼스와 스타일을 겸비한 애슬레저",
+    "url": "https://www.xexymix.com/",
+    "packageName": "com.makeshop.powerapp.xexymix",
+    "logoText": "Xexymix",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 87
+  },
+  {
+    "title": "키네틱웍스",
+    "sub": "기능성과 스타일을 겸비한 액티브 웨어",
+    "url": "https://kineticworks.kr/",
+    "packageName": "",
+    "logoText": "Kinetic\nWorks",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 86
+  },
+  {
+    "title": "피그먼트",
+    "sub": "감각적 일상 스타일을 완성하는 데일리웨어",
+    "url": "https://pigment.co.kr/",
+    "packageName": "com.pigment.byapps",
+    "logoText": "Pigment",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 85
+  },
+  {
+    "title": "헤링본비치",
+    "sub": "감각적인 비치웨어 & 라이프웨어",
+    "url": "https://www.hrb.kr/",
+    "packageName": "",
+    "logoText": "HRD",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 84
+  }
+]
