@@ -1,0 +1,178 @@
+[
+  {
+    "title": "게스",
+    "sub": "GUESS 언더웨어",
+    "url": "https://guessunderwear.kr/",
+    "packageName": "com.cafe24.ec.plusguessunderwear",
+    "logoText": "GUESS",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 100
+  },
+  {
+    "title": "리투",
+    "sub": "데일리 감성 언더웨어 브랜드",
+    "url": "https://li2.co.kr/",
+    "packageName": "",
+    "logoText": "Li2",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 99
+  },
+  {
+    "title": "릴렉시즘",
+    "sub": "RELAXISM 언더웨어",
+    "url": "https://relaxism.co.kr/",
+    "packageName": "",
+    "logoText": "Relaxism",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 98
+  },
+  {
+    "title": "미언더",
+    "sub": "미니멀 감성의 남·여 언더웨어 전문몰",
+    "url": "https://meunder.com/index.html",
+    "packageName": "",
+    "logoText": "Meunder",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 97
+  },
+  {
+    "title": "비너스",
+    "sub": "편안함과 디자인을 모두 담은 남·여 이너웨어 전문몰",
+    "url": "https://www.venus-eshop.co.kr/w/Main",
+    "packageName": "kr.co.woorisonsoft.venuseshop",
+    "logoText": "Venus",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 96
+  },
+  {
+    "title": "비와이씨",
+    "sub": "BYC 남·여 언더웨어 라인",
+    "url": "https://www.byc.co.kr/",
+    "packageName": "com.nhncommerce.myapp.gd70s4gru9",
+    "logoText": "B Y C",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 95
+  },
+  {
+    "title": "빌랩",
+    "sub": "스포츠·기능성 속옷 브랜드",
+    "url": "https://www.bylap.com/",
+    "packageName": "",
+    "logoText": "Bylap",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 94
+  },
+  {
+    "title": "솔브",
+    "sub": "프리미엄 남·여 언더웨어 전문몰",
+    "url": "https://www.venus-eshop.co.kr/w/BrandProduct?brandname=SOLB",
+    "packageName": "kr.co.woorisonsoft.venuseshop",
+    "logoText": "SOLB",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 93
+  },
+  {
+    "title": "엘르이너웨어",
+    "sub": "미니멀 감성의 남·여 언더웨어 전문 브랜드",
+    "url": "https://elleinnerwear.kr/",
+    "packageName": "com.cafe24.ec.plusbs2korea",
+    "logoText": "Elle\ninnerwear",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 92
+  },
+  {
+    "title": "오드노멀",
+    "sub": "미니멀 감성의 남·여 이너웨어 전문몰",
+    "url": "https://www.oddnormal.co.kr/",
+    "packageName": "",
+    "logoText": "Odd\nnormal",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 91
+  },
+  {
+    "title": "위즈킴",
+    "sub": "남·여 데일리 이너웨어 전문몰",
+    "url": "http://wizkim.co.kr/main/index.php",
+    "packageName": "",
+    "logoText": "Wizkim",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 90
+  },
+  {
+    "title": "켈빈클라인",
+    "sub": "프리미엄 감성의 글로벌 속옷 브랜드",
+    "url": "https://www.calvinklein.co.kr/ko/home/",
+    "packageName": "com.calvinklein.calvinkleinapp",
+    "logoText": "Calvin\nklein",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 89
+  },
+  {
+    "title": "코데즈컴바인",
+    "sub": "베이직하고 실용적인 데일리 속옷 브랜드",
+    "url": "https://www.codes-combine.co.kr/",
+    "packageName": "com.cafe24.ec.pluscncom0812",
+    "logoText": "",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 88
+  },
+  {
+    "title": "키세",
+    "sub": "미니멀 럭셔리 이너웨어 브랜드",
+    "url": "https://qiseunderwear.com/",
+    "packageName": "",
+    "logoText": "Kise",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 87
+  },
+  {
+    "title": "테라우드",
+    "sub": "편안함 중심의 프리미엄 이너웨어 셀렉트숍",
+    "url": "https://terawood.co.kr/index.html",
+    "packageName": "",
+    "logoText": "Terawood",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 86
+  },
+  {
+    "title": "트라이",
+    "sub": "세련된 데일리 이너웨어 브랜드",
+    "url": "https://www.tryshop.co.kr/",
+    "packageName": "",
+    "logoText": "Tryshop",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 85
+  }
+]
