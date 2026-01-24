@@ -1,1 +1,167 @@
-
+[
+  {
+    "title": "레스테",
+    "sub": "미니멀 감성의 퍼포먼스웨어",
+    "url": "https://leste.kr/",
+    "packageName": "",
+    "logoText": "Leste",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 100
+  },
+  {
+    "title": "르바세",
+    "sub": "퍼포먼스를 위한 프리미엄 짐웨어",
+    "url": "https://levasse.kr/",
+    "packageName": "",
+    "logoText": "Levasse",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 99
+  },
+  {
+    "title": "머슬암드",
+    "sub": "근육 라인을 살린 퍼포먼스웨어",
+    "url": "https://musclearmed.com/",
+    "packageName": "",
+    "logoText": "Armed",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 98
+  },
+  {
+    "title": "바벨웍스",
+    "sub": "스트리트 감성의 퍼포먼스 짐웨어",
+    "url": "https://barbellworks.flexg.shop/",
+    "packageName": "",
+    "logoText": "Barbell Works",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 97
+  },
+  {
+    "title": "본투윈",
+    "sub": "강인한 무드를 담은 트레이닝웨어",
+    "url": "https://borntowin.kr/",
+    "packageName": "",
+    "logoText": "Born Towin",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 96
+  },
+  {
+    "title": "볼란테",
+    "sub": "스포티 감성의 트레이닝 웨어",
+    "url": "https://volantestore.com/",
+    "packageName": "",
+    "logoText": "Volante",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 95
+  },
+  {
+    "title": "비쥬안나",
+    "sub": "우아한 무드의 여성 데일리웨어",
+    "url": "https://www.bijouanna.co.kr/",
+    "packageName": "",
+    "logoText": "Bijou Anna",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 94
+  },
+  {
+    "title": "알브이디",
+    "sub": "짐과 스트릿을 잇는 애슬레저",
+    "url": "https://www.rvdfit.co.kr/",
+    "packageName": "",
+    "logoText": "RVD",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 93
+  },
+  {
+    "title": "에어릿",
+    "sub": "기능성을 살린 스포츠 짐웨어",
+    "url": "https://airitsports.com/",
+    "packageName": "com.airitsports.byapps",
+    "logoText": "Airit",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 92
+  },
+  {
+    "title": "에이치덱스",
+    "sub": "퍼포먼스를 완성하는 프리미엄 짐웨어",
+    "url": "https://hdex.co.kr/",
+    "packageName": "com.cafe24.ec.plusdfcorpo",
+    "logoText": "HDEX",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 91
+  },
+  {
+    "title": "퀸아울렛",
+    "sub": "트렌디 감성의 여성 패션 셀렉션",
+    "url": "https://www.queenoutlet.co.kr/",
+    "packageName": "",
+    "logoText": "Queen Outlet",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 90
+  },
+  {
+    "title": "파워",
+    "sub": "기능성과 활동성을 갖춘 퍼포먼스웨어",
+    "url": "https://powerofficial.co.kr/",
+    "packageName": "",
+    "logoText": "Power",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 89
+  },
+  {
+    "title": "프로키온",
+    "sub": "강인한 무드의 트레이닝웨어",
+    "url": "https://www.procyon2025.com/",
+    "packageName": "",
+    "logoText": "Procyon",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 88
+  },
+  {
+    "title": "프리덤",
+    "sub": "자유로운 움직임의 액티브웨어",
+    "url": "https://freedomwhatever.com/",
+    "packageName": "",
+    "logoText": "Freedom",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 87
+  },
+  {
+    "title": "피지컬가먼츠",
+    "sub": "헬스 퍼포먼스를 위한 기능성 짐웨어",
+    "url": "https://physicalgarments.com/",
+    "packageName": "",
+    "logoText": "Physical Garments",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 86
+  }
+]
