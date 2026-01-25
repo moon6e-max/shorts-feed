@@ -1,1 +1,77 @@
+{
+  "categories": [
+    {
+      "key": "W_FASHION",
+      "name": "여자패션",
+      "channels": [
+        { "url": "https://www.youtube.com/@HEYNEE103", "enabled": true },
+        { "url": "https://www.youtube.com/@celebfasshion", "enabled": true },
+        { "url": "https://www.youtube.com/@BoraClaire", "enabled": true },
+        { "url": "https://www.youtube.com/@bitnalyoung", "enabled": true },
+        { "url": "https://www.youtube.com/@로즈앤리", "enabled": true },
+        { "url": "https://www.youtube.com/@jiwonlog", "enabled": true },
+        { "url": "https://www.youtube.com/@fashion_the_ssong", "enabled": true },
+        { "url": "https://www.youtube.com/@bbeume", "enabled": true },
+        { "url": "https://www.youtube.com/@hiibeen", "enabled": true },
+        { "url": "https://www.youtube.com/@doyeong_2", "enabled": true },
+        { "url": "https://www.youtube.com/@힐썬", "enabled": true },
+        { "url": "https://www.youtube.com/@소신사장", "enabled": true },
+        { "url": "https://www.youtube.com/@stylist_unnie", "enabled": true },
+        { "url": "https://www.youtube.com/@fashionpanasia", "enabled": true },
+        { "url": "https://www.youtube.com/@STalkers", "enabled": true }     
+      ]
+    },
+    {
+      "key": "M_FASHION",
+      "name": "남자패션",
+      "channels": [
+        { "url": "https://www.youtube.com/@패션플래닛", "enabled": true },
+        { "url": "https://www.youtube.com/@Oat_Taku", "enabled": true },
+        { "url": "https://www.youtube.com/@패션튜브삭형", "enabled": true },
+        { "url": "https://www.youtube.com/@우연w", "enabled": true },
+        { "url": "https://www.youtube.com/@fitthesize", "enabled": true },
+        { "url": "https://www.youtube.com/@tubeot", "enabled": true },
+        { "url": "https://www.youtube.com/@Junos-Style", "enabled": true },
+        { "url": "https://www.youtube.com/@Nerdking_NEP", "enabled": true },
+        { "url": "https://www.youtube.com/@진격의중년", "enabled": true },
+        { "url": "https://www.youtube.com/@탈패션FASHION", "enabled": true },
+        { "url": "https://www.youtube.com/@깡스타일리스트", "enabled": true },
+        { "url": "https://www.youtube.com/@ClassyTV", "enabled": true }
+      ]
+    },
+    {
+      "key": "COSMETICS",
+      "name": "화장품",
+      "channels": [
+        { "url": "https://www.youtube.com/@Minning", "enabled": true },
+        { "url": "https://www.youtube.com/@happyrimmakeup", "enabled": true },
+        { "url": "https://www.youtube.com/@hyerim_official", "enabled": true },
+        { "url": "https://www.youtube.com/@세이영Sayyoung", "enabled": true },
+        { "url": "https://www.youtube.com/@jaymeeforyou", "enabled": true },
+        { "url": "https://www.youtube.com/@you_needn", "enabled": true },
+        { "url": "https://www.youtube.com/@ANDA", "enabled": true },
+        { "url": "https://www.youtube.com/@ssaybeauty", "enabled": true },
+        { "url": "https://www.youtube.com/@mongx2kim", "enabled": true },
+        { "url": "https://www.youtube.com/@중년뷰티_결Gyul", "enabled": true },
+        { "url": "https://www.youtube.com/@shinechorong", "enabled": true },
+        { "url": "https://www.youtube.com/@pibutenten", "enabled": true },
+        { "url": "https://www.youtube.com/@beautyacne_inssi", "enabled": true },
+        { "url": "https://www.youtube.com/@yootrue", "enabled": true },
+        { "url": "https://www.youtube.com/@in_bora_", "enabled": true }
+      ]
+    },
+    {
+      "key": "PERFUME",
+      "name": "향수",
+      "channels": [
+        { "url": "https://www.youtube.com/@danse_jin", "enabled": true },
+        { "url": "https://www.youtube.com/@ourmiji", "enabled": true },
+        { "url": "https://www.youtube.com/@jayssworld/videos", "enabled": true },
+        { "url": "https://www.youtube.com/@olnlor", "enabled": true },
+        { "url": "https://www.youtube.com/@ssensefragrance", "enabled": true },
+        { "url": "https://www.youtube.com/@perfumedirectortom", "enabled": true }
+      ]
+    }
+  ]
+}
 
