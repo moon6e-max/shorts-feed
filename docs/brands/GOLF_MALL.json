@@ -1,0 +1,57 @@
+[
+  {
+    "title": "ak골프",
+    "sub": "전국 오프라인 매장을 운영하는 골프 전문몰",
+    "url": "https://www.akgolf.co.kr/",
+    "packageName": "com.newriver.akgolf",
+    "logoText": "Ak\nGolf",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 100
+  },
+  {
+    "title": "골프넛츠",
+    "sub": "골프클럽과 용품을 판매하는 종합몰",
+    "url": "https://golfnuts.co.kr/",
+    "packageName": "com.app.golfnuts",
+    "logoText": "Golf\nNuts",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 99
+  },
+  {
+    "title": "골프존마켓",
+    "sub": "골프존에서 운영하는 공식 유통몰",
+    "url": "https://market.golping.com/",
+    "packageName": "com.golfzonretail",
+    "logoText": "Golf\nZon",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 98
+  },
+  {
+    "title": "키움골프",
+    "sub": "골프용품과 피팅 서비스를 제공하는 몰",
+    "url": "https://www.kiwoomgolf.co.kr/",
+    "packageName": "",
+    "logoText": "Kiwoom\nGolf",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 97
+  },
+  {
+    "title": "공치리골프",
+    "sub": "골프용품 쇼핑 앱 기반 서비스\n(홈페이지x)",
+    "url": "",
+    "packageName": "com.netclover.golf072",
+    "logoText": "072golf",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 96
+  }
+]
