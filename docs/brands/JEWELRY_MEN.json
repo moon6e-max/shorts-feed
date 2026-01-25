@@ -1,0 +1,79 @@
+[
+  {
+    "title": "노미네이션",
+    "sub": "이탈리아 감성으로 완성하는 커스터마이징 주얼리",
+    "url": "https://nominationkorea.com/index.html",
+    "packageName": "",
+    "logoText": "nomi\nnation",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 100
+  },
+  {
+    "title": "볼로메탈",
+    "sub": "메탈 텍스처로 포인트를 더하는 세련된 아이템",
+    "url": "http://volometal.com/shop/",
+    "packageName": "",
+    "logoText": "Volo\nMetal",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 99
+  },
+  {
+    "title": "스마트 보이",
+    "sub": "유니크한 디자인이 돋보이는 주얼리 아이템",
+    "url": "https://www.smart-boy.co.kr/",
+    "packageName": "",
+    "logoText": "Smart\nBoy",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 98
+  },
+  {
+    "title": "스털링워스",
+    "sub": "순은의 광채로 완성하는 감각적 주얼리",
+    "url": "http://www.sw925.com/",
+    "packageName": "",
+    "logoText": "Sterling\nWorth",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 97
+  },
+  {
+    "title": "실버메카",
+    "sub": "은 특유의 광채로 감각적 스타일을 더하는 곳",
+    "url": "http://silvermecca.co.kr/",
+    "packageName": "",
+    "logoText": "Silver\nMecca",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 96
+  },
+  {
+    "title": "실버팩토리",
+    "sub": "은 장인의 감성과 디테일이 돋보이는 공간",
+    "url": "https://silverfactory.shop/index.html",
+    "packageName": "",
+    "logoText": "Silver\nFactory",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 95
+  },
+  {
+    "title": "킹크로치",
+    "sub": "독창적 감성으로 완성하는 유니크 주얼리 컬렉션",
+    "url": "https://www.kingkroach.com/index.html",
+    "packageName": "",
+    "logoText": "King\nkroach",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 94
+  }
+]
