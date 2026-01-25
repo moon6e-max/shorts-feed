@@ -1,0 +1,134 @@
+[
+  {
+    "title": "1988",
+    "sub": "트렌디 감각으로 완성하는 유니크 키즈룩",
+    "url": "https://1988-store.com/",
+    "packageName": "",
+    "logoText": "1988",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 100
+  },
+  {
+    "title": "갓베이비",
+    "sub": "아이의 순수함을 담아낸 고급 키즈 컬렉션",
+    "url": "https://god-baby.kr/",
+    "packageName": "com.app.godbaby",
+    "logoText": "God\nBaby",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 99
+  },
+  {
+    "title": "리틀티니",
+    "sub": "아이 감성을 담아 편안함을 더하는 유아 케어",
+    "url": "https://littletini.co.kr/",
+    "packageName": "com.cafe24.ec.plustenthree",
+    "logoText": "Little\nTini",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 98
+  },
+  {
+    "title": "발레키즈",
+    "sub": "아이의 발레 무드를 완성하는 감성 아이템",
+    "url": "https://www.balletkids.co.kr/",
+    "packageName": "kr.co.smartskin.juun7",
+    "logoText": "Ballet\nKids",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 97
+  },
+  {
+    "title": "베베댕",
+    "sub": "유아의 하루를 편안함으로 채우는 데일리 감성",
+    "url": "https://www.bebedeng.co.kr/",
+    "packageName": "",
+    "logoText": "Bebedeng",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 96
+  },
+  {
+    "title": "베베르망",
+    "sub": "고급 소재로 완성하는 아이 데일리 필수 케어",
+    "url": "https://www.bebermang.com/",
+    "packageName": "kr.co.smartskin.monopino1",
+    "logoText": "Bebe\nRmang",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 95
+  },
+  {
+    "title": "베베쥬",
+    "sub": "아이에게 어울리는 감각적 스타일을 제안",
+    "url": "https://brand.naver.com/bebezoo",
+    "packageName": "",
+    "logoText": "Bebezoo",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 94
+  },
+  {
+    "title": "아림클로젯",
+    "sub": "스타일리시한 키즈룩을 제안하는 감성 컬렉션",
+    "url": "https://www.arimcloset.com/",
+    "packageName": "",
+    "logoText": "Arim\nCloset",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 93
+  },
+  {
+    "title": "에스더버니리틀",
+    "sub": "사랑스러운 디자인으로 채우는 키즈 스타일",
+    "url": "https://brand.naver.com/estherbunnylittle",
+    "packageName": "",
+    "logoText": "Estherbunny\nLittle",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 92
+  },
+  {
+    "title": "코튼봉",
+    "sub": "부드러운 원단으로 아이를 위한 데일리 케어",
+    "url": "https://smartstore.naver.com/cottonbong",
+    "packageName": "",
+    "logoText": "Cotton\nBong",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 91
+  },
+  {
+    "title": "키즈발레",
+    "sub": "발레 감성 가득한 아이 의류·용품 컬렉션",
+    "url": "https://www.kidsballetmall.com/",
+    "packageName": "",
+    "logoText": "Kids\nBallet",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 90
+  },
+  {
+    "title": "피카부",
+    "sub": "감각적인 디자인으로 눈길을 사로잡는 키즈 아이템",
+    "url": "https://peekabookorea.com/",
+    "packageName": "",
+    "logoText": "Peeka\nBoo",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 89
+  }
+]
