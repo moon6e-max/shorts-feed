@@ -1,0 +1,90 @@
+[
+  {
+    "title": "꾸미",
+    "sub": "귀엽고 깜직한 감성으로 채우는 키즈 스타일",
+    "url": "https://kkumi.co.kr/",
+    "packageName": "",
+    "logoText": "Kkumi",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 100
+  },
+  {
+    "title": "누아",
+    "sub": "모던 감각으로 빛나는 감성 키즈 웨어",
+    "url": "https://nua-store.co.kr/",
+    "packageName": "",
+    "logoText": "NUA",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 99
+  },
+  {
+    "title": "뉴키키",
+    "sub": "감각적 디자인으로 완성하는 키즈 데일리룩",
+    "url": "https://newkiki.com/",
+    "packageName": "com.cafe24.ec.plusnewkiki",
+    "logoText": "Newkiki",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 98
+  },
+  {
+    "title": "더사랑이",
+    "sub": "사랑스러운 감성으로 채우는 아이 스타일",
+    "url": "https://xn--9m1bk4f12jp4g.com/",
+    "packageName": "",
+    "logoText": "The\nLove",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 97
+  },
+  {
+    "title": "벨로",
+    "sub": "포근한 감성과 편안함으로 완성하는 키즈 웨어 컬렉션",
+    "url": "https://bellot.co.kr/",
+    "packageName": "",
+    "logoText": "Bellot",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 96
+  },
+  {
+    "title": "오즈키즈",
+    "sub": "트렌디한 감성과 편안함을 담은 아이 룩",
+    "url": "https://ozkiz.com/",
+    "packageName": "com.ozkiz.byapps",
+    "logoText": "Ozkiz",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 95
+  },
+  {
+    "title": "제니비니",
+    "sub": "데일리·키즈 웨어와 액세서리를 제안하는 키즈 패션 공간",
+    "url": "https://jenybiny.com/",
+    "packageName": "kr.co.smartskin.jenybiny",
+    "logoText": "Jeny\nBiny",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 94
+  },
+  {
+    "title": "쪼꼬미",
+    "sub": "귀엽고 세련된 포인트로 완성하는 키즈 스타일",
+    "url": "https://zzoggomi.com/",
+    "packageName": "",
+    "logoText": "Zzo\nGgomi",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 93
+  }
+]
