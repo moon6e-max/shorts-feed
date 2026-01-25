@@ -1,0 +1,123 @@
+[
+  {
+    "title": "그라운드랩",
+    "sub": "피부 장벽 케어 스킨케어 브랜드",
+    "url": "https://groundlab.co.kr/",
+    "packageName": "",
+    "logoText": "Ground\nLab",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 100
+  },
+  {
+    "title": "그라펜",
+    "sub": "남성 그루밍 전문 뷰티 브랜드",
+    "url": "https://www.grafen.co.kr/",
+    "packageName": "",
+    "logoText": "Grafen",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 99
+  },
+  {
+    "title": "다슈",
+    "sub": "남성 헤어·스타일링 전문 브랜드",
+    "url": "https://www.hairwax.co.kr/",
+    "packageName": "com.cafe24.ec.pluswaxmania1",
+    "logoText": "Dashu",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 98
+  },
+  {
+    "title": "닥터지",
+    "sub": "피부과 연구 기반 더모 브랜드",
+    "url": "https://www.dr-g.co.kr/",
+    "packageName": "kr.co.gwssmall.Dr.G",
+    "logoText": "Drg",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 97
+  },
+  {
+    "title": "랩시리즈",
+    "sub": "남성 전용 스킨케어 브랜드",
+    "url": "https://www.labseries.co.kr/",
+    "packageName": "",
+    "logoText": "Lab\nSeries",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 96
+  },
+  {
+    "title": "무슈제이",
+    "sub": "남성 스킨케어 중심 브랜드",
+    "url": "https://monsieurj.co.kr/",
+    "packageName": "",
+    "logoText": "Monsieur\nJ",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 95
+  },
+  {
+    "title": "미프",
+    "sub": "남성 피부 관리 스킨케어 브랜드",
+    "url": "https://mipkorea.com/",
+    "packageName": "",
+    "logoText": "Mip",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 94
+  },
+  {
+    "title": "비레디",
+    "sub": "남성 메이크업 전문 브랜드",
+    "url": "https://www.brdy-official.com/",
+    "packageName": "",
+    "logoText": "Brdy",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 93
+  },
+  {
+    "title": "비오템옴므",
+    "sub": "남성용 수분 케어 스킨케어",
+    "url": "https://www.biotherm.co.kr",
+    "packageName": "",
+    "logoText": "Bio\nTherm",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 92
+  },
+  {
+    "title": "오브제",
+    "sub": "남성 피부 관리 뷰티 브랜드",
+    "url": "https://obge.co.kr/",
+    "packageName": "",
+    "logoText": "Obge",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 91
+  },
+  {
+    "title": "정샘물",
+    "sub": "메이크업 아티스트 코스메틱",
+    "url": "https://www.jsmbeauty.com/",
+    "packageName": "com.makeshop.powerapp.jsmbeauty",
+    "logoText": "JSM",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 90
+  }
+]
