@@ -1,0 +1,101 @@
+[
+  {
+    "title": "그린피플",
+    "sub": "골프용품과 연습용품을 취급하는 전문몰",
+    "url": "https://greenpeople.biz/",
+    "packageName": "asia.greenpeople",
+    "logoText": "Green\nPeople",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 100
+  },
+  {
+    "title": "노리골프",
+    "sub": "골프클럽과 장비를 판매하는 쇼핑몰",
+    "url": "https://ucbgolf.cafe24.com/",
+    "packageName": "",
+    "logoText": "Nori",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 99
+  },
+  {
+    "title": "아화골프",
+    "sub": "골프용품과 액세서리를 유통하는 몰",
+    "url": "https://ahwagolfshop.com/",
+    "packageName": "",
+    "logoText": "Ahwa",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 98
+  },
+  {
+    "title": "지온골프",
+    "sub": "골프 연습용품을 전문으로 취급하는 몰",
+    "url": "http://xeeon.co.kr/",
+    "packageName": "",
+    "logoText": "Xeeon",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 97
+  },
+  {
+    "title": "체스골프",
+    "sub": "골프웨어와 용품을 함께 판매하는 브랜드몰",
+    "url": "http://www.ches.co.kr/",
+    "packageName": "com.makeshop.powerapp.ches",
+    "logoText": "Ches",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 96
+  },
+  {
+    "title": "코비스몰",
+    "sub": "다양한 골프용품을 취급하는 종합몰",
+    "url": "http://www.kovissmall.com/",
+    "packageName": "",
+    "logoText": "Kovis",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 95
+  },
+  {
+    "title": "타바타",
+    "sub": "연습기구와 퍼팅용품으로 유명한 브랜드",
+    "url": "http://tabatagolf.com/",
+    "packageName": "",
+    "logoText": "Tabata",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 94
+  },
+  {
+    "title": "투딘골프",
+    "sub": "골프클럽과 피팅 서비스를 제공하는 몰",
+    "url": "https://www.todingolf.com/",
+    "packageName": "",
+    "logoText": "Todin",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 93
+  },
+  {
+    "title": "한양골프",
+    "sub": "오랜 운영의 골프용품 전문 쇼핑몰",
+    "url": "https://hangolf.co.kr/",
+    "packageName": "",
+    "logoText": "Hanyang",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 92
+  }
+]
