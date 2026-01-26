@@ -29,7 +29,6 @@
     "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
 
     "enabled": true,
     "priority": 99
@@ -45,7 +44,6 @@
     "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
 
     "enabled": true,
     "priority": 98
@@ -61,7 +59,6 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
       
   "enabled": true,
   "priority": 97,
@@ -78,7 +75,7 @@
     "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
     "enabled": true,
     "priority": 96
   },
@@ -92,7 +89,7 @@
     "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
     "enabled": true,
     "priority": 95
   },
@@ -106,7 +103,7 @@
     "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
     "enabled": true,
     "priority": 94
   },
@@ -120,7 +117,7 @@
     "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
     "enabled": true,
     "priority": 93
   },
@@ -134,7 +131,7 @@
     "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
     "enabled": true,
     "priority": 92
   },
@@ -148,7 +145,7 @@
     "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
     "enabled": true,
     "priority": 91
   },
@@ -162,7 +159,7 @@
     "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
     "enabled": true,
     "priority": 90
   },
@@ -176,7 +173,7 @@
     "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
     "enabled": true,
     "priority": 89
   },
@@ -190,7 +187,7 @@
     "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
     "enabled": true,
     "priority": 87
   },
@@ -204,7 +201,7 @@
     "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
     "enabled": true,
     "priority": 86
   },
@@ -218,7 +215,7 @@
     "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
     "enabled": true,
     "priority": 85
   },
@@ -232,7 +229,7 @@
     "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
     "enabled": true,
     "priority": 84
   },
@@ -246,7 +243,7 @@
     "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
     "enabled": true,
     "priority": 83
   },
@@ -260,7 +257,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 82
 },
@@ -274,7 +271,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 81
 },
@@ -288,7 +285,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 80
 },
@@ -302,7 +299,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 79
 },
@@ -316,7 +313,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 78
 },
@@ -330,7 +327,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 77
 },
@@ -344,7 +341,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 76
 },
@@ -358,7 +355,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 75
 },
@@ -372,7 +369,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 74
 },
@@ -386,7 +383,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 73
 },
@@ -400,7 +397,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 72
 },
@@ -414,7 +411,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 71
 },
@@ -428,7 +425,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 70
 },
@@ -442,7 +439,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 69
 },
@@ -456,7 +453,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 68
 },
@@ -470,7 +467,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 67
 },
@@ -484,7 +481,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 66
 },
@@ -498,7 +495,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 65
 },
@@ -512,7 +509,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 64
 },
@@ -526,7 +523,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 63
 },
@@ -540,7 +537,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 62
 },
@@ -554,7 +551,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 61
 },
@@ -568,7 +565,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 60
 },
@@ -582,7 +579,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 59
 },
@@ -596,7 +593,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 58
 },
@@ -610,7 +607,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 57
 },
@@ -624,7 +621,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 56
 },
@@ -638,7 +635,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 55
 },
@@ -652,7 +649,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 54
 },
@@ -666,7 +663,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 53
 },
@@ -680,7 +677,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 52
 },
@@ -694,7 +691,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 51
 },
@@ -708,7 +705,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 50
 },
@@ -722,7 +719,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 49
 },
@@ -736,7 +733,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 48
 },
@@ -750,7 +747,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 47
 },
@@ -764,7 +761,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 46
 },
@@ -778,7 +775,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+   
   "enabled": true,
   "priority": 45
 },
@@ -792,7 +789,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 44
 },
@@ -806,7 +803,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 43
 },
@@ -820,7 +817,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 42
 },
@@ -834,7 +831,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 41
 },
@@ -848,7 +845,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 40
 },
@@ -862,7 +859,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 39
 },
@@ -876,7 +873,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 38
 },
@@ -890,7 +887,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 37,
   "mode": "WORLD",
@@ -906,7 +903,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 36
 },
@@ -920,7 +917,7 @@
   "mode": "WORLD",
     "tabKey": "LUXURY_BRAND",
     "path": "월드 > 명품",
-    "alias": "Kenzo 겐조",
+    
   "enabled": true,
   "priority": 35
 }
