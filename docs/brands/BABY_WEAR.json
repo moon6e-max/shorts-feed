@@ -9,7 +9,7 @@
     "photos": [],
     "enabled": true,
     "priority": 100,
-    "todayPick": true
+    
   },
   {
     "title": "갓베이비",
@@ -21,7 +21,7 @@
     "photos": [],
     "enabled": true,
     "priority": 99,
-    "todayPick": true
+    
   },
   {
     "title": "리틀티니",
@@ -33,7 +33,7 @@
     "photos": [],
     "enabled": true,
     "priority": 98,
-    "todayPick": true
+    
   },
   {
     "title": "발레키즈",
