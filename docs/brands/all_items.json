@@ -919,7 +919,7 @@
     "path": "월드 > 명품",
     
   "enabled": true,
-  "priority": 35
+  "priority": 35,
   "_memo": "여기까지가 명품이고 명품 최하단임"
 },
   {
@@ -1505,7 +1505,7 @@
     "tabKey": "SPORTS_BRAND",
     "path": "월드 > 스포츠",
     "enabled": true,
-    "priority": 57
+    "priority": 57,
     "_memo": "여기까지가 스포츠이고 명품 최하단임"    
   }
 
