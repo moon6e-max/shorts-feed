@@ -101,7 +101,8 @@
     "tabKey": "CASUAL_BRAND",
     "path": "월드 > 캐주얼",
     "enabled": true,
-    "priority": 100
+    "priority": 100,
+    "todayPick": true
   },
   {
     "title": "렌시스",
@@ -114,7 +115,8 @@
     "tabKey": "CONTACT_LENS",
     "path": "패션잡화 > 렌즈",
     "enabled": true,
-    "priority": 100
+    "priority": 100,
+    "todayPick": true
   },
   {
     "title": "CP컴퍼니",
