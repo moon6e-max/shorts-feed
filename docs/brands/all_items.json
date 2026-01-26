@@ -100,9 +100,9 @@
     "mode": "WORLD",
     "tabKey": "CASUAL_BRAND",
     "path": "월드 > 캐주얼",
+    "todayPick": true,
     "enabled": true,
-    "priority": 100,
-    "todayPick": true
+    "priority": 100
   },
   {
     "title": "렌시스",
@@ -114,9 +114,9 @@
     "mode": "HAT_HAIR_ACC",
     "tabKey": "CONTACT_LENS",
     "path": "패션잡화 > 렌즈",
+    "todayPick": true,
     "enabled": true,
-    "priority": 100,
-    "todayPick": true
+    "priority": 100
   },
   {
     "title": "CP컴퍼니",
@@ -128,6 +128,7 @@
     "mode": "WORLD",
     "tabKey": "CONTEMPORARY_BRAND",
     "path": "월드 > 컨템포러리",
+    "todayPick": true,
     "enabled": true,
     "priority": 100
   },
