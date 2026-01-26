@@ -8,7 +8,8 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 100
+    "priority": 100,
+    "todayPick": true
   },
   {
     "title": "갓베이비",
@@ -19,7 +20,8 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 99
+    "priority": 99,
+    "todayPick": true
   },
   {
     "title": "리틀티니",
@@ -30,7 +32,8 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 98
+    "priority": 98,
+    "todayPick": true
   },
   {
     "title": "발레키즈",
