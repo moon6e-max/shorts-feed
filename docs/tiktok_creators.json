@@ -1,1 +1,13 @@
-
+[
+  {
+    "platform": "TIKTOK",
+    "key": "tt_tull_bo",
+    "name": "@tull_bo",
+    "sub": "패션/코디",
+    "profileUrl": "https://www.tiktok.com/@tull_bo",
+    "avatarUrl": "",
+    "featured": [
+      { "title": "추천 1", "url": "https://www.tiktok.com/@tull_bo/video/xxxxx", "thumbUrl": "" }
+    ]
+  }
+]
