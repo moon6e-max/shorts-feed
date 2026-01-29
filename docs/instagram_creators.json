@@ -1,1 +1,13 @@
-
+[
+  {
+    "platform": "INSTAGRAM",
+    "key": "ig_lookbookkorea",
+    "name": "@look_book_korea",
+    "sub": "데일리 코디/룩북",
+    "profileUrl": "https://www.instagram.com/look_book_korea/",
+    "avatarUrl": "",
+    "featured": [
+      { "title": "추천 1", "url": "https://www.instagram.com/p/xxxxx/", "thumbUrl": "" }
+    ]
+  }
+]
