@@ -4,6 +4,9 @@
     "key": "tt_yemomile",
     "name": "@yemomile",
     "sub": "감성적인 데일리 패션 코디",
+    "openProfileEnabled": true,
+    "openProfileText": "프로필 열기",
+    "openProfileUrl": "https://www.tiktok.com/@yemomile",
     "profileUrl": "https://www.tiktok.com/@yemomile",
     "avatarUrl": "https://moon6e-max.github.io/shorts-feed/images/yemoma.jpg",
     "featured": [
@@ -26,6 +29,9 @@
     "key": "tt_step_block",
     "name": "@step_block",
     "sub": "STEP BLØCK 글로벌 패션",
+    "openProfileEnabled": true,
+    "openProfileText": "샵 바로가기",
+    "openProfileUrl": "https://shop.stepblockstore.com/",
     "profileUrl": "https://www.tiktok.com/@step_block_kr",
     "avatarUrl": "https://moon6e-max.github.io/shorts-feed/images/stepblock.jpg",
     "featured": [
@@ -46,6 +52,9 @@
     "key": "tt_jinhee0_e",
     "name": "@jinhee0_e",
     "sub": "귀엽고 성숙한 데일리 코디",
+    "openProfileEnabled": true,
+    "openProfileText": "프로필 열기",
+    "openProfileUrl": "https://www.tiktok.com/@jinhee0_e",
     "profileUrl": "https://www.tiktok.com/@jinhee0_e",
     "avatarUrl": "https://moon6e-max.github.io/shorts-feed/images/jinhee0_e1.jpg",
     "featured": [
@@ -66,6 +75,9 @@
     "key": "tt_jinhee0_e",
     "name": "@jinhee0_e",
     "sub": "귀엽고 성숙한 데일리 코디",
+    "openProfileEnabled": true,
+    "openProfileText": "프로필 열기",
+    "openProfileUrl": "https://www.tiktok.com/@jinhee0_e",
     "profileUrl": "https://www.tiktok.com/@jinhee0_e",
     "avatarUrl": "https://moon6e-max.github.io/shorts-feed/images/jinhee0_e1.jpg",
     "featured": [
