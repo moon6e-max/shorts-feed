@@ -22,8 +22,7 @@
   "enabled": true,
   "priority": 100,
     
-  "badge": "광고",     
-  "highlight": "YELLOW"
+  "badge": "광고"
   },
   {
     "title": "고야드",
@@ -50,7 +49,8 @@
     "photos": [],
 
     "enabled": true,
-    "priority": 98
+    "priority": 98,
+    "badge": "광고"
     
   },
     {
