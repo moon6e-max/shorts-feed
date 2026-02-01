@@ -11,11 +11,6 @@
     "avatarUrl": "https://moon6e-max.github.io/shorts-feed/images/hongjoyful.jpg",
     "ad": {
     "enabled": true,
-    "title": "OOO 쇼핑몰",
-    "sub": "가입 쿠폰 20% + 무료배송",
-    "imageUrl": "https://.../ad_logo_or_banner.png",
-    "clickUrl": "https://.../landing",
-    "buttonText": "혜택 받기"
     "featured": [
       { "title": "꾸민듯 안꾸민듯 편하지만 예쁜 스타일", "url": "https://www.instagram.com/p/DTnaU9ikSVH/", 
         "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/hongjoyful2.jpg" },
