@@ -1,13 +1,13 @@
 {
   "enabled": true,
   "type": "공지",
-  "chip": "안녕하세요 반갑습니다.",
-  "title": "설 연휴 배송 안내",
-  "desc": "2/8~2/10 주문은 2/11부터 순차 발송됩니다.",
+  "chip": "안녕하세요 개발자입니다.",
+  "title": "앱이 불편하시거나 뭔가 문의하고 싶으신분은",
+  "desc": "kim99543510@naver.com으로 문의주시면 성심성의껏 수정하도록 하겠습니다.",
   "primaryText": "자세히 보기",
   "secondaryText": "닫기",
   "action": "OPEN_URL",
-  "url": "https://www.naver.com",
-  "imageUrl": "https://.../promo.jpg",
+  "url": "",
+  "imageUrl": "",
   "brandIconUrl": "https://moon6e-max.github.io/shorts-feed/images/wode.png"
 }
