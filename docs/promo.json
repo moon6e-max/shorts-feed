@@ -1,10 +1,12 @@
 {
   "enabled": true,
-  "title": "공지 제목",
-  "desc": "공지 내용",
+  "type": "공지",
+  "chip": "안녕하세요 반갑습니다.",
+  "title": "설 연휴 배송 안내",
+  "desc": "2/8~2/10 주문은 2/11부터 순차 발송됩니다.",
   "primaryText": "자세히 보기",
   "secondaryText": "닫기",
   "action": "OPEN_URL",
   "url": "https://www.naver.com",
-  "imageUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTEyMDlfMTg2%2FMDAxNzY1MjExMjQ0MjM2.c36zi_SseRakRRS4wqI9w85hF7H_FI1haDx6xYPFih0g.4x6yDQna4kYEn3C8bxqma38JLDu1IyWPvOmr5ZW5OQgg.PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2025-12-09_%25BF%25C0%25C0%25FC_1.27.20.png&type=sc960_832"
+  "imageUrl": "https://.../promo.jpg"
 }
