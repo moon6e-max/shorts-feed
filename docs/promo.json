@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "title": "공지 제목",
+  "desc": "공지 내용",
+  "primaryText": "자세히 보기",
+  "secondaryText": "닫기",
+  "action": "OPEN_URL",
+  "url": "https://example.com",
+  "imageUrl": "https://.../notice.png"
+}
