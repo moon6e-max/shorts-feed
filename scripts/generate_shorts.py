@@ -45,16 +45,34 @@ def fetch_video_detail(video_id: str):
     """Shorts 개별 URL로 상세 메타(조회수/업로드 시간 등) 받아오기"""
     if not video_id:
         return None
+
     url = f"https://www.youtube.com/shorts/{video_id}"
-    cmd = ["yt-dlp", "--skip-download", "-j", url]
+
+    cmd = [
+        "yt-dlp",
+        "--skip-download",
+        "-j",
+        "--no-warnings",
+        "--geo-bypass",
+        "--extractor-args", "youtube:player_client=android",
+        url
+    ]
+
     p = subprocess.run(cmd, capture_output=True, text=True)
+
     if p.returncode != 0:
-        # 상세 못 받아도 치명적이진 않게 None 처리
+        # ✅ 실패 이유 로그 (Actions에서 확인 가능)
+        print("DETAIL FAIL:", video_id)
+        print("STDERR:", (p.stderr or "")[:500])
         return None
+
     try:
-        return json.loads(p.stdout.strip().splitlines()[-1])
-    except Exception:
+        last = p.stdout.strip().splitlines()[-1]
+        return json.loads(last)
+    except Exception as e:
+        print("DETAIL PARSE FAIL:", video_id, e)
         return None
+
 
 def format_views_ko(view_count):
     """예: 28340 -> '2.8만회' / 532 -> '532회' / 120000000 -> '1.2억회'"""
