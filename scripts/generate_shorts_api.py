@@ -141,7 +141,7 @@ def get_video_details(ids):
     r = requests.get(
         "https://www.googleapis.com/youtube/v3/videos",
         params={
-            division := "part": "snippet,statistics,contentDetails",
+            "part": "snippet,statistics,contentDetails",
             "id": ",".join(ids),
             "key": API_KEY
         },
