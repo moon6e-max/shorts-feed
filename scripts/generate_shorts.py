@@ -7,7 +7,7 @@ from pathlib import Path
 # 설정
 # ======================
 
-API_KEY = "unique-perigee-387707"   # ← 여기에 키 넣기
+API_KEY = "AIzaSyDHpNdYSA5RYpgZL1WqNiN02722uRBuDbA"   # ← 여기에 키 넣기
 MAX_ITEMS_PER_CHANNEL = 1
 
 KST = timezone(timedelta(hours=9))
