@@ -90,64 +90,43 @@ def format_views_ko(view_count):
         return f"{n/10_000:.1f}".rstrip("0").rstrip(".") + "만회"
     return f"{n/100_000_000:.1f}".rstrip("0").rstrip(".") + "억회"
 
-def time_ago_ko(ts):
-    """UNIX timestamp(초) -> '3시간 전' 같은 한국어 상대시간"""
-    if not ts:
-        return ""
-    try:
-        dt = datetime.fromtimestamp(int(ts), tz=timezone.utc).astimezone(KST)
-    except Exception:
-        return ""
+def normalize_item(x_flat: dict, detail: dict, source_url: str):
+    vid = x_flat.get("id") or x_flat.get("url")
 
-    now = datetime.now(KST)
-    diff = now - dt
-    sec = int(diff.total_seconds())
-    if sec < 0:
-        sec = 0
+    title = (detail.get("title") if detail else None) or x_flat.get("title") or ""
 
-    minute = 60
-    hour = 3600
-    day = 86400
+    uploader = ""
+    if detail:
+        uploader = detail.get("uploader") or detail.get("channel") or ""
+    if not uploader:
+        uploader = x_flat.get("uploader") or x_flat.get("channel") or ""
 
-    if sec < minute:
-        return "방금 전"
-    if sec < hour:
-        return f"{sec//minute}분 전"
-    if sec < day:
-        return f"{sec//hour}시간 전"
-    if sec < day * 30:
-        return f"{sec//day}일 전"
-    if sec < day * 365:
-        return f"{sec//(day*30)}개월 전"
-    return f"{sec//(day*365)}년 전"
+    # ✅ 조회수
+    view_count = detail.get("view_count") if detail else None
 
-# ✅ 조회수
-view_count = detail.get("view_count") if detail else None
+    # ✅ 시간 (fallback 포함)
+    ts = None
+    if detail:
+        ts = detail.get("timestamp") or detail.get("release_timestamp")
 
-# ✅ 시간 (fallback 포함)
-ts = None
-if detail:
-    ts = detail.get("timestamp") or detail.get("release_timestamp")
+        # upload_date fallback (YYYYMMDD → timestamp)
+        if not ts:
+            ud = detail.get("upload_date")
+            if ud and len(ud) == 8:
+                try:
+                    dt = datetime(
+                        int(ud[0:4]),
+                        int(ud[4:6]),
+                        int(ud[6:8]),
+                        0, 0, 0,
+                        tzinfo=timezone.utc
+                    )
+                    ts = int(dt.timestamp())
+                except Exception:
+                    ts = None
 
-    # upload_date fallback (YYYYMMDD → timestamp)
-    if not ts:
-        ud = detail.get("upload_date")
-        if ud and len(ud) == 8:
-            try:
-                dt = datetime(
-                    int(ud[0:4]),
-                    int(ud[4:6]),
-                    int(ud[6:8]),
-                    0, 0, 0,
-                    tzinfo=timezone.utc
-                )
-                ts = int(dt.timestamp())
-            except Exception:
-                ts = None
-
-# ✅ 로그 확인용
-print("NORMALIZE:", vid, "views=", view_count, "ts=", ts)
-
+    # ✅ 로그 확인용
+    print("NORMALIZE:", vid, "views=", view_count, "ts=", ts)
 
     return {
         "videoId": vid,
@@ -159,7 +138,6 @@ print("NORMALIZE:", vid, "views=", view_count, "ts=", ts)
         "viewsText": format_views_ko(view_count),
         "timeAgo": time_ago_ko(ts),
     }
-
 
 def main():
     sources = load_sources()
