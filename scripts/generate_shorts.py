@@ -121,23 +121,33 @@ def time_ago_ko(ts):
         return f"{sec//(day*30)}개월 전"
     return f"{sec//(day*365)}년 전"
 
-def normalize_item(x_flat: dict, detail: dict, source_url: str):
-    vid = x_flat.get("id") or x_flat.get("url")
+# ✅ 조회수
+view_count = detail.get("view_count") if detail else None
 
-    title = (detail.get("title") if detail else None) or x_flat.get("title") or ""
+# ✅ 시간 (fallback 포함)
+ts = None
+if detail:
+    ts = detail.get("timestamp") or detail.get("release_timestamp")
 
-    uploader = ""
-    if detail:
-        uploader = detail.get("uploader") or detail.get("channel") or ""
-    if not uploader:
-        uploader = x_flat.get("uploader") or x_flat.get("channel") or ""
+    # upload_date fallback (YYYYMMDD → timestamp)
+    if not ts:
+        ud = detail.get("upload_date")
+        if ud and len(ud) == 8:
+            try:
+                dt = datetime(
+                    int(ud[0:4]),
+                    int(ud[4:6]),
+                    int(ud[6:8]),
+                    0, 0, 0,
+                    tzinfo=timezone.utc
+                )
+                ts = int(dt.timestamp())
+            except Exception:
+                ts = None
 
-    # ✅ 먼저 변수 선언!
-    view_count = detail.get("view_count") if detail else None
-    ts = detail.get("timestamp") if detail else None
+# ✅ 로그 확인용
+print("NORMALIZE:", vid, "views=", view_count, "ts=", ts)
 
-    # ✅ 그 다음에 print
-    print("NORMALIZE:", vid, "views=", view_count, "ts=", ts)
 
     return {
         "videoId": vid,
