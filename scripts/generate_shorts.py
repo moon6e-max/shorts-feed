@@ -105,6 +105,7 @@ def time_ago_ko(ts):
 
 def normalize_item(x_flat: dict, detail: dict, source_url: str):
     vid = x_flat.get("id") or x_flat.get("url")
+
     title = (detail.get("title") if detail else None) or x_flat.get("title") or ""
 
     uploader = ""
@@ -112,11 +113,13 @@ def normalize_item(x_flat: dict, detail: dict, source_url: str):
         uploader = detail.get("uploader") or detail.get("channel") or ""
     if not uploader:
         uploader = x_flat.get("uploader") or x_flat.get("channel") or ""
-# ✅ 여기서 디버그 출력
-    print("NORMALIZE:", vid, "views=", view_count, "ts=", ts)
-    # 조회수/시간
+
+    # ✅ 먼저 변수 선언!
     view_count = detail.get("view_count") if detail else None
-    ts = detail.get("timestamp") if detail else None  # 보통 업로드 시각(초)
+    ts = detail.get("timestamp") if detail else None
+
+    # ✅ 그 다음에 print
+    print("NORMALIZE:", vid, "views=", view_count, "ts=", ts)
 
     return {
         "videoId": vid,
@@ -125,11 +128,10 @@ def normalize_item(x_flat: dict, detail: dict, source_url: str):
         "source": source_url,
         "url": f"https://www.youtube.com/shorts/{vid}" if vid else None,
         "thumbnail": f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg" if vid else None,
-
-        # ✅ 추가 필드
         "viewsText": format_views_ko(view_count),
         "timeAgo": time_ago_ko(ts),
     }
+
 
 def main():
     sources = load_sources()
