@@ -8,7 +8,7 @@ from pathlib import Path
 # ======================
 # 설정
 # ======================
-API_KEY = os.getenv("AIzaSyDHpNdYSA5RYpgZL1WqNiN02722uRBuDbA", "").strip()  # ✅ GitHub Secrets 권장
+API_KEY = os.getenv("YOUTUBE_API_KEY", "").strip()  # ✅ GitHub Secrets 권장
 MAX_ITEMS_PER_CHANNEL = 1
 
 KST = timezone(timedelta(hours=9))
