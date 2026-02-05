@@ -29,7 +29,10 @@ jobs:
       - name: Generate shorts.json
         run: |
           mkdir -p docs
-          python scripts/generate_shorts.py
+          python scripts/generate_shorts_api.py
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+
 
       - name: Commit and push if changed
         run: |
