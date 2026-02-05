@@ -112,7 +112,8 @@ def normalize_item(x_flat: dict, detail: dict, source_url: str):
         uploader = detail.get("uploader") or detail.get("channel") or ""
     if not uploader:
         uploader = x_flat.get("uploader") or x_flat.get("channel") or ""
-
+# ✅ 여기서 디버그 출력
+    print("NORMALIZE:", vid, "views=", view_count, "ts=", ts)
     # 조회수/시간
     view_count = detail.get("view_count") if detail else None
     ts = detail.get("timestamp") if detail else None  # 보통 업로드 시각(초)
