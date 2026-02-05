@@ -1,187 +1,147 @@
 import json
-import subprocess
+import requests
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-# 채널당 최신 N개
+# ======================
+# 설정
+# ======================
+
+API_KEY = "unique-perigee-387707"   # ← 여기에 키 넣기
 MAX_ITEMS_PER_CHANNEL = 1
 
 KST = timezone(timedelta(hours=9))
 
+# ======================
+
 def load_sources():
-    here = Path(__file__).resolve().parent          # scripts/
-    src = here / "sources.txt"                      # scripts/sources.txt
+    here = Path(__file__).resolve().parent
+    src = here / "sources.txt"
     lines = []
     if src.exists():
         for line in src.read_text(encoding="utf-8").splitlines():
             line = line.strip()
-            if not line or line.startswith("#"):
-                continue
-            lines.append(line)
+            if line and not line.startswith("#"):
+                lines.append(line)
     return lines
 
-def run_ytdlp_json_lines(url: str, limit: int, flat: bool):
-    cmd = ["yt-dlp", "--skip-download", "--playlist-end", str(limit), "-j"]
-    if flat:
-        cmd.insert(1, "--flat-playlist")
-    cmd.append(url)
 
-    p = subprocess.run(cmd, capture_output=True, text=True)
-    if p.returncode != 0:
-        raise RuntimeError(f"yt-dlp failed for {url}\nSTDERR:\n{p.stderr}")
-
-    items = []
-    for line in p.stdout.splitlines():
-        line = line.strip()
-        if not line:
-            continue
-        try:
-            items.append(json.loads(line))
-        except json.JSONDecodeError:
-            pass
-    return items
-
-def fetch_video_detail(video_id: str):
-    """Shorts 개별 URL로 상세 메타(조회수/업로드 시간 등) 받아오기"""
-    if not video_id:
-        return None
-
-    url = f"https://www.youtube.com/shorts/{video_id}"
-
-    cmd = [
-        "yt-dlp",
-        "--skip-download",
-        "-j",
-        "--no-warnings",
-        "--geo-bypass",
-        "--extractor-args", "youtube:player_client=android",
-        url
-    ]
-
-    p = subprocess.run(cmd, capture_output=True, text=True)
-
-    if p.returncode != 0:
-        # ✅ 실패 이유 로그 (Actions에서 확인 가능)
-        print("DETAIL FAIL:", video_id)
-        print("STDERR:", (p.stderr or "")[:500])
-        return None
-
+def format_views_ko(n):
     try:
-        last = p.stdout.strip().splitlines()[-1]
-        return json.loads(last)
-    except Exception as e:
-        print("DETAIL PARSE FAIL:", video_id, e)
-        return None
-
-
-def format_views_ko(view_count):
-    """예: 28340 -> '2.8만회' / 532 -> '532회' / 120000000 -> '1.2억회'"""
-    try:
-        n = int(view_count)
-    except Exception:
+        n = int(n)
+    except:
         return ""
 
     if n < 1000:
         return f"{n}회"
-    if n < 10_000:
-        # 1,234 -> 1.2천회 (원하면 그냥 1,234회로 바꿔도 됨)
+    if n < 10000:
         return f"{n/1000:.1f}".rstrip("0").rstrip(".") + "천회"
-    if n < 100_000_000:
-        return f"{n/10_000:.1f}".rstrip("0").rstrip(".") + "만회"
-    return f"{n/100_000_000:.1f}".rstrip("0").rstrip(".") + "억회"
+    if n < 100000000:
+        return f"{n/10000:.1f}".rstrip("0").rstrip(".") + "만회"
+    return f"{n/100000000:.1f}".rstrip("0").rstrip(".") + "억회"
 
-def normalize_item(x_flat: dict, detail: dict, source_url: str):
-    vid = x_flat.get("id") or x_flat.get("url")
 
-    title = (detail.get("title") if detail else None) or x_flat.get("title") or ""
+def time_ago_ko(published_at):
+    dt = datetime.fromisoformat(published_at.replace("Z","")).replace(tzinfo=timezone.utc).astimezone(KST)
+    now = datetime.now(KST)
+    diff = now - dt
+    sec = int(diff.total_seconds())
 
-    uploader = ""
-    if detail:
-        uploader = detail.get("uploader") or detail.get("channel") or ""
-    if not uploader:
-        uploader = x_flat.get("uploader") or x_flat.get("channel") or ""
+    if sec < 60: return "방금 전"
+    if sec < 3600: return f"{sec//60}분 전"
+    if sec < 86400: return f"{sec//3600}시간 전"
+    if sec < 86400*30: return f"{sec//86400}일 전"
+    if sec < 86400*365: return f"{sec//(86400*30)}개월 전"
+    return f"{sec//(86400*365)}년 전"
 
-    # ✅ 조회수
-    view_count = detail.get("view_count") if detail else None
 
-    # ✅ 시간 (fallback 포함)
-    ts = None
-    if detail:
-        ts = detail.get("timestamp") or detail.get("release_timestamp")
+def extract_channel_id(url):
+    if "/@" in url:
+        name = url.split("/@")[1].split("/")[0]
+        q = requests.get(
+            "https://www.googleapis.com/youtube/v3/search",
+            params={
+                "part": "snippet",
+                "q": name,
+                "type": "channel",
+                "key": API_KEY
+            }
+        ).json()
+        return q["items"][0]["snippet"]["channelId"]
+    return None
 
-        # upload_date fallback (YYYYMMDD → timestamp)
-        if not ts:
-            ud = detail.get("upload_date")
-            if ud and len(ud) == 8:
-                try:
-                    dt = datetime(
-                        int(ud[0:4]),
-                        int(ud[4:6]),
-                        int(ud[6:8]),
-                        0, 0, 0,
-                        tzinfo=timezone.utc
-                    )
-                    ts = int(dt.timestamp())
-                except Exception:
-                    ts = None
 
-    # ✅ 로그 확인용
-    print("NORMALIZE:", vid, "views=", view_count, "ts=", ts)
+def get_latest_shorts(channel_id):
+    r = requests.get(
+        "https://www.googleapis.com/youtube/v3/search",
+        params={
+            "part": "snippet",
+            "channelId": channel_id,
+            "order": "date",
+            "maxResults": MAX_ITEMS_PER_CHANNEL,
+            "type": "video",
+            "key": API_KEY
+        }
+    ).json()
 
-    return {
-        "videoId": vid,
-        "title": title,
-        "uploader": uploader,
-        "source": source_url,
-        "url": f"https://www.youtube.com/shorts/{vid}" if vid else None,
-        "thumbnail": f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg" if vid else None,
-        "viewsText": format_views_ko(view_count),
-        "timeAgo": time_ago_ko(ts),
-    }
+    return [x["id"]["videoId"] for x in r.get("items", [])]
+
+
+def get_video_details(ids):
+    r = requests.get(
+        "https://www.googleapis.com/youtube/v3/videos",
+        params={
+            "part": "snippet,statistics",
+            "id": ",".join(ids),
+            "key": API_KEY
+        }
+    ).json()
+
+    return r.get("items", [])
+
 
 def main():
     sources = load_sources()
-    if not sources:
-        raise RuntimeError("scripts/sources.txt 가 비어있거나 없습니다.")
 
     out = {
-        "generatedAt": datetime.now(timezone.utc).isoformat(),
+        "generatedAt": datetime.now(KST).isoformat(),
         "sources": sources,
         "items": []
     }
 
-    for url in sources:
-        # 1) 채널 shorts 목록에서 최신 N개 id만 빠르게
-        raw_flat = run_ytdlp_json_lines(url, MAX_ITEMS_PER_CHANNEL, flat=True)
-
-        for x in raw_flat:
-            vid = x.get("id") or x.get("url")
-            if not vid:
-                continue
-
-            # 2) 각 shorts 영상 상세 메타(조회수/시간) 가져오기
-            detail = fetch_video_detail(vid)
-
-            item = normalize_item(x, detail, url)
-            if item["videoId"]:
-                out["items"].append(item)
-
-    # 중복 제거
-    seen = set()
-    deduped = []
-    for it in out["items"]:
-        if it["videoId"] in seen:
+    for src in sources:
+        cid = extract_channel_id(src)
+        if not cid:
             continue
-        seen.add(it["videoId"])
-        deduped.append(it)
-    out["items"] = deduped
 
-    # Pages 배포 폴더 docs/
+        ids = get_latest_shorts(cid)
+        if not ids:
+            continue
+
+        details = get_video_details(ids)
+
+        for d in details:
+            vid = d["id"]
+            sn = d["snippet"]
+            st = d["statistics"]
+
+            out["items"].append({
+                "videoId": vid,
+                "title": sn["title"],
+                "uploader": sn["channelTitle"],
+                "source": src,
+                "url": f"https://www.youtube.com/shorts/{vid}",
+                "thumbnail": sn["thumbnails"]["high"]["url"],
+                "viewsText": format_views_ko(st.get("viewCount")),
+                "timeAgo": time_ago_ko(sn["publishedAt"])
+            })
+
     Path("docs").mkdir(exist_ok=True)
     with open("docs/shorts.json", "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
 
-    print(f"✅ Wrote docs/shorts.json ({len(out['items'])} items)")
+    print("✅ shorts.json generated:", len(out["items"]))
+
 
 if __name__ == "__main__":
     main()
