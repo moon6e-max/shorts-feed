@@ -1,10 +1,12 @@
 import json
 import subprocess
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-# 채널당 최신 1개만
+# 채널당 최신 N개
 MAX_ITEMS_PER_CHANNEL = 1
+
+KST = timezone(timedelta(hours=9))
 
 def load_sources():
     here = Path(__file__).resolve().parent          # scripts/
@@ -18,15 +20,12 @@ def load_sources():
             lines.append(line)
     return lines
 
-def run_ytdlp_json_lines(url: str, limit: int):
-    cmd = [
-        "yt-dlp",
-        "--flat-playlist",
-        "--skip-download",
-        "--playlist-end", str(limit),   # ✅ 최신 N개만
-        "-j",
-        url,
-    ]
+def run_ytdlp_json_lines(url: str, limit: int, flat: bool):
+    cmd = ["yt-dlp", "--skip-download", "--playlist-end", str(limit), "-j"]
+    if flat:
+        cmd.insert(1, "--flat-playlist")
+    cmd.append(url)
+
     p = subprocess.run(cmd, capture_output=True, text=True)
     if p.returncode != 0:
         raise RuntimeError(f"yt-dlp failed for {url}\nSTDERR:\n{p.stderr}")
@@ -42,18 +41,93 @@ def run_ytdlp_json_lines(url: str, limit: int):
             pass
     return items
 
-def normalize_item(x: dict, source_url: str):
-    vid = x.get("id") or x.get("url")
-    title = x.get("title") or ""
-    uploader = x.get("uploader") or x.get("channel") or ""  # 없으면 빈값
+def fetch_video_detail(video_id: str):
+    """Shorts 개별 URL로 상세 메타(조회수/업로드 시간 등) 받아오기"""
+    if not video_id:
+        return None
+    url = f"https://www.youtube.com/shorts/{video_id}"
+    cmd = ["yt-dlp", "--skip-download", "-j", url]
+    p = subprocess.run(cmd, capture_output=True, text=True)
+    if p.returncode != 0:
+        # 상세 못 받아도 치명적이진 않게 None 처리
+        return None
+    try:
+        return json.loads(p.stdout.strip().splitlines()[-1])
+    except Exception:
+        return None
+
+def format_views_ko(view_count):
+    """예: 28340 -> '2.8만회' / 532 -> '532회' / 120000000 -> '1.2억회'"""
+    try:
+        n = int(view_count)
+    except Exception:
+        return ""
+
+    if n < 1000:
+        return f"{n}회"
+    if n < 10_000:
+        # 1,234 -> 1.2천회 (원하면 그냥 1,234회로 바꿔도 됨)
+        return f"{n/1000:.1f}".rstrip("0").rstrip(".") + "천회"
+    if n < 100_000_000:
+        return f"{n/10_000:.1f}".rstrip("0").rstrip(".") + "만회"
+    return f"{n/100_000_000:.1f}".rstrip("0").rstrip(".") + "억회"
+
+def time_ago_ko(ts):
+    """UNIX timestamp(초) -> '3시간 전' 같은 한국어 상대시간"""
+    if not ts:
+        return ""
+    try:
+        dt = datetime.fromtimestamp(int(ts), tz=timezone.utc).astimezone(KST)
+    except Exception:
+        return ""
+
+    now = datetime.now(KST)
+    diff = now - dt
+    sec = int(diff.total_seconds())
+    if sec < 0:
+        sec = 0
+
+    minute = 60
+    hour = 3600
+    day = 86400
+
+    if sec < minute:
+        return "방금 전"
+    if sec < hour:
+        return f"{sec//minute}분 전"
+    if sec < day:
+        return f"{sec//hour}시간 전"
+    if sec < day * 30:
+        return f"{sec//day}일 전"
+    if sec < day * 365:
+        return f"{sec//(day*30)}개월 전"
+    return f"{sec//(day*365)}년 전"
+
+def normalize_item(x_flat: dict, detail: dict, source_url: str):
+    vid = x_flat.get("id") or x_flat.get("url")
+    title = (detail.get("title") if detail else None) or x_flat.get("title") or ""
+
+    uploader = ""
+    if detail:
+        uploader = detail.get("uploader") or detail.get("channel") or ""
+    if not uploader:
+        uploader = x_flat.get("uploader") or x_flat.get("channel") or ""
+
+    # 조회수/시간
+    view_count = detail.get("view_count") if detail else None
+    ts = detail.get("timestamp") if detail else None  # 보통 업로드 시각(초)
 
     return {
         "videoId": vid,
         "title": title,
         "uploader": uploader,
-        "source": source_url,  # ✅ 어떤 채널에서 왔는지 추적용
+        "source": source_url,
         "url": f"https://www.youtube.com/shorts/{vid}" if vid else None,
         "thumbnail": f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg" if vid else None,
+
+        # ✅ 추가 필드
+        "viewsText": format_views_ko(view_count),
+        "timeAgo": time_ago_ko(ts),
     }
 
 def main():
@@ -68,9 +142,18 @@ def main():
     }
 
     for url in sources:
-        raw = run_ytdlp_json_lines(url, MAX_ITEMS_PER_CHANNEL)
-        for x in raw:
-            item = normalize_item(x, url)
+        # 1) 채널 shorts 목록에서 최신 N개 id만 빠르게
+        raw_flat = run_ytdlp_json_lines(url, MAX_ITEMS_PER_CHANNEL, flat=True)
+
+        for x in raw_flat:
+            vid = x.get("id") or x.get("url")
+            if not vid:
+                continue
+
+            # 2) 각 shorts 영상 상세 메타(조회수/시간) 가져오기
+            detail = fetch_video_detail(vid)
+
+            item = normalize_item(x, detail, url)
             if item["videoId"]:
                 out["items"].append(item)
 
@@ -93,4 +176,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
