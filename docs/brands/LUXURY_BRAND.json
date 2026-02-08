@@ -12,7 +12,11 @@
   "path": "월드 > 명품",
   "alias": "Kenzo 겐조",
   
-  "photos": [],
+  "photos": [
+  "https://search.pstatic.net/common/?src=https%3A%2F%2Fshop-phinf.pstatic.net%2F20251011_289%2F1760157742295vDfCe_JPEG%2F112930526871113259_1144178665.jpg&type=sc960_832",
+  "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20191008_72%2F1570504946643NdXcC_JPEG%2F7865685276437806_1676792589.jpg&type=sc960_832"
+],
+
     
   "enabled": true,
   "priority": 100,
