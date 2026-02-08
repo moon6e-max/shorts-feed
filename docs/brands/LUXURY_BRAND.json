@@ -21,7 +21,7 @@
   "enabled": true,
   "priority": 100,
   "showImages": false,
-  "showGuideBox": true
+  "showGuideBox": true,
 
   "badge": "NEW"
   },
