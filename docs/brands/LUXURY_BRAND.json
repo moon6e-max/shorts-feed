@@ -20,7 +20,7 @@
     
   "enabled": true,
   "priority": 100,
-  "showImages": false,
+  "showImages": true,
   "showGuideBox": true,
 
   "badge": "NEW"
