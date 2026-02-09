@@ -39,7 +39,7 @@
     "logoText": "Goyard",
     "logoUrl": "",
 
-    "photos": [],
+    "photos": ["https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20191008_72%2F1570504946643NdXcC_JPEG%2F7865685276437806_1676792589.jpg&type=sc960_832"],
 
     "enabled": true,
     "priority": 99,
