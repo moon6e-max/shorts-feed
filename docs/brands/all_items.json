@@ -100,7 +100,6 @@
     "mode": "WORLD",
     "tabKey": "CASUAL_BRAND",
     "path": "월드 > 캐주얼",
-    "todayPick": true,
     "enabled": true,
     "priority": 100
   },
@@ -114,7 +113,7 @@
     "mode": "HAT_HAIR_ACC",
     "tabKey": "CONTACT_LENS",
     "path": "패션잡화 > 렌즈",
-    "todayPick": true,
+    
     "enabled": true,
     "priority": 100
   },
@@ -128,7 +127,7 @@
     "mode": "WORLD",
     "tabKey": "CONTEMPORARY_BRAND",
     "path": "월드 > 컨템포러리",
-    "todayPick": true,
+    
     "enabled": true,
     "priority": 100
   },
@@ -1221,6 +1220,7 @@
     "mode": "WOMEN",
     "tabKey": "WOMEN_30S",
     "path": "여자 > 30대",
+    "todayPick": true,  
     "enabled": true,
     "priority": 99
   },
@@ -3496,6 +3496,7 @@
     "mode": "MEN",
     "tabKey": "MEN_DAILY",
     "path": "남자 > 데일리",
+    "todayPick": true,
     "enabled": true,
     "priority": 95
   },
@@ -5303,6 +5304,7 @@
     "mode": "MEN",
     "tabKey": "MEN_TRENDY",
     "path": "남자 > 트렌디",
+    "todayPick": true,
     "enabled": true,
     "priority": 92
   },
@@ -9177,6 +9179,7 @@
     "mode": "WOMEN",
     "tabKey": "WOMEN_PETITE",
     "path": "여자 > 키작녀",
+    "todayPick": true,
     "enabled": true,
     "priority": 85
   },
@@ -10477,6 +10480,7 @@
     "mode": "WOMEN",
     "tabKey": "WOMEN_20S",
     "path": "여자 > 20대",
+    "todayPick": true,
     "enabled": true,
     "priority": 82
   },
@@ -10490,6 +10494,7 @@
     "mode": "WOMEN",
     "tabKey": "WOMEN_30S",
     "path": "여자 > 30대",
+    "todayPick": true,
     "enabled": true,
     "priority": 82
   },
@@ -11166,6 +11171,7 @@
     "mode": "MEN",
     "tabKey": "MEN_TRENDY",
     "path": "남자 > 트렌디",
+    "todayPick": true,
     "enabled": true,
     "priority": 80
   },
@@ -11257,6 +11263,7 @@
     "mode": "WOMEN",
     "tabKey": "WOMEN_20S",
     "path": "여자 > 20대",
+    "todayPick": true,
     "enabled": true,
     "priority": 80
   },
@@ -11530,6 +11537,7 @@
     "mode": "MEN",
     "tabKey": "MEN_DAILY",
     "path": "남자 > 데일리",
+    "todayPick": true,
     "enabled": true,
     "priority": 79
   },
@@ -12388,6 +12396,7 @@
     "mode": "WOMEN",
     "tabKey": "WOMEN_20S",
     "path": "여자 > 20대",
+    "todayPick": true,
     "enabled": true,
     "priority": 77
   },
@@ -15027,6 +15036,7 @@
     "mode": "WOMEN",
     "tabKey": "WOMEN_30S",
     "path": "여자 > 30대",
+    "todayPick": true,
     "enabled": true,
     "priority": 67
   },
@@ -15573,6 +15583,7 @@
     "mode": "WOMEN",
     "tabKey": "WOMEN_20S",
     "path": "여자 > 20대",
+    "todayPick": true,
     "enabled": true,
     "priority": 63
   },
@@ -16119,6 +16130,7 @@
     "mode": "WOMEN",
     "tabKey": "WOMEN_30S",
     "path": "여자 > 30대",
+    "todayPick": true,
     "enabled": true,
     "priority": 58
   },
