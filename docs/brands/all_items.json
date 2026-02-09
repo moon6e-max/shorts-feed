@@ -17416,8 +17416,21 @@
     "logoText": "Hera",
     "logoUrl": "",
     "mode": "COSMETICS",
-    "tabKey": "BEAUTY_CARE",
+    "tabKey": "WOMEN_20S",
     "path": "화장품 > 뷰티&케어",
+    "enabled": true,
+    "priority": 30
+  },
+  {
+    "title": "히찌",
+    "sub": "럭셔리 메이크업·스킨케어 브랜드",
+    "url": "https://hizzi.co.kr/",
+    "packageName": "",
+    "logoText": "Hizzi",
+    "logoUrl": "",
+    "mode": "WOMEN",
+    "tabKey": "BEAUTY_CARE",
+    "path": "여자 > 20대",
     "enabled": true,
     "priority": 30
   },
