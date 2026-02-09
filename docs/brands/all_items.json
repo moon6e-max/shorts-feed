@@ -17416,7 +17416,7 @@
     "logoText": "Hera",
     "logoUrl": "",
     "mode": "COSMETICS",
-    "tabKey": "WOMEN_20S",
+    "tabKey": "BEAUTY_CARE",
     "path": "화장품 > 뷰티&케어",
     "enabled": true,
     "priority": 30
@@ -17429,7 +17429,7 @@
     "logoText": "Hizzi",
     "logoUrl": "",
     "mode": "WOMEN",
-    "tabKey": "BEAUTY_CARE",
+    "tabKey": "WOMEN_20S",
     "path": "여자 > 20대",
     "enabled": true,
     "priority": 30
