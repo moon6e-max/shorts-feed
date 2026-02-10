@@ -121,6 +121,17 @@
     "priority": 900
   },
   {
+    "title": "마이클로드",
+    "sub": "가볍게 입기 좋은 스트릿 감성웨어",
+    "url": "https://smartstore.naver.com/myclothe",
+    "packageName": "",
+    "logoText": "Myclothe",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 899
+  },
+  {
     "title": "모던이프",
     "sub": "남성 미니멀 캐주얼 의류 브랜드",
     "url": "http://modernif.co.kr/",
