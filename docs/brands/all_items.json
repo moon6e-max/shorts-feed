@@ -1,5 +1,18 @@
 [
   {
+    "title": "메모",
+    "sub": "일상에서 자연스럽게 입는 캐주얼 스타일",
+    "url": "https://smartstore.naver.com/memostore",
+    "packageName": "",
+    "logoText": "Memo",
+    "logoUrl": "",
+    "mode": "MEN",
+    "tabKey": "MEN_DAILY",
+    "path": "남자 > 데일리",
+    "enabled": true,
+    "priority": 919
+  },
+  {
     "title": "나이브",
     "sub": "편안함과 무드를 담은 데일리 스타일",
     "url": "https://naiv.co.kr/",
