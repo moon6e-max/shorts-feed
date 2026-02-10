@@ -1,5 +1,18 @@
 [
   {
+    "title": "슬루",
+    "sub": "은은한 로맨틱 감성의 데일리웨어",
+    "url": "https://slou.shop/",
+    "packageName": "",
+    "logoText": "Slou",
+    "logoUrl": "",
+    "mode": "MEN",
+    "tabKey": "MEN_DAILY",
+    "path": "남자 > 데일리",
+    "enabled": true,
+    "priority": 889
+  },
+  {
     "title": "로즈앤리",
     "sub": "은은한 로맨틱 감성의 데일리웨어",
     "url": "https://dkfma3830.cafe24.com/",
@@ -10,7 +23,7 @@
     "tabKey": "WOMEN_20S",
     "path": "여자 > 20대",
     "enabled": true,
-    "priority": 949
+    "priority": 869
   },
   {
     "title": "마이클로드",
