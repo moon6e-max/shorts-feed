@@ -8,7 +8,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 100
+    "priority": 1000
   },
   {
     "title": "골든보이",
@@ -19,7 +19,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 99
+    "priority": 990
   },
   {
     "title": "도지",
@@ -30,7 +30,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 98
+    "priority": 980
   },
   {
     "title": "디서먼트",
@@ -41,7 +41,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 97
+    "priority": 970
   },
   {
     "title": "라쇼몽",
@@ -52,7 +52,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 96
+    "priority": 960
   },
   {
     "title": "로드워크",
@@ -63,7 +63,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 95
+    "priority": 950
   },
   {
     "title": "로즈앤로즈",
@@ -74,7 +74,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 94
+    "priority": 940
   },
   {
     "title": "르모드",
@@ -85,7 +85,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 93
+    "priority": 930
   },
   {
     "title": "모던이프",
@@ -96,7 +96,18 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 92
+    "priority": 920
+  },
+  {
+    "title": "메모",
+    "sub": "일상에서 자연스럽게 입는 캐주얼 스타일",
+    "url": "https://smartstore.naver.com/memostore",
+    "packageName": "",
+    "logoText": "Moeo",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 919
   },
   {
     "title": "바이도",
@@ -107,7 +118,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 91
+    "priority": 910
   },
   {
     "title": "브이아이피맨",
@@ -118,7 +129,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 90
+    "priority": 900
   },
   {
     "title": "빈세앙",
@@ -129,7 +140,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 89
+    "priority": 890
   },
   {
     "title": "언더70",
@@ -140,7 +151,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 88
+    "priority": 880
   },
   {
     "title": "업노멀",
@@ -151,7 +162,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 87
+    "priority": 870
   },
   {
     "title": "에드앤마이너스",
@@ -162,7 +173,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 86
+    "priority": 860
   },
   {
     "title": "에이제트",
@@ -173,7 +184,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 85
+    "priority": 850
   },
   {
     "title": "오더클로젯",
@@ -184,7 +195,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 84
+    "priority": 840
   },
   {
     "title": "이그넌트",
@@ -195,7 +206,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 83
+    "priority": 830
   },
   {
     "title": "자비노",
@@ -206,7 +217,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 82
+    "priority": 820
   },
   {
     "title": "제라스포츠",
@@ -217,7 +228,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 81
+    "priority": 810
   },
   {
     "title": "지구본",
@@ -228,7 +239,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 80
+    "priority": 800
   },
   {
     "title": "칸투칸",
@@ -239,7 +250,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 79
+    "priority": 790
   },
   {
     "title": "콜른",
@@ -250,7 +261,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 78
+    "priority": 780
   },
   {
     "title": "페르메논",
@@ -261,7 +272,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 77
+    "priority": 770
   },
   {
     "title": "핫코드",
@@ -272,7 +283,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 76
+    "priority": 760
   },
   {
     "title": "해피어스",
@@ -283,7 +294,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 75
+    "priority": 750
   },
   {
     "title": "홀리인코드",
@@ -294,7 +305,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 74
+    "priority": 740
   },
   {
     "title": "휴클로젯",
@@ -305,7 +316,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 73
+    "priority": 730
   },
   {
     "title": "히썸",
@@ -316,7 +327,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 72
+    "priority": 720
   }
 ]
 
