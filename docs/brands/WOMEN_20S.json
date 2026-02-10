@@ -156,13 +156,24 @@
   {
     "title": "로라로라",
     "sub": "러블리하면서도 힙한 무드의 겨울\n아우터·니트 중심 스타일",
-    "url": "https://www.rolarola.com/main/index.php",
+    "url": "https://www.rolarola.com/",
     "packageName": "com.rolarola.magicapp",
     "logoText": "Rolarola",
     "logoUrl": "",
     "photos": [],
     "enabled": true,
     "priority": 870
+  },
+  {
+    "title": "로즈앤리",
+    "sub": "은은한 로맨틱 감성의 데일리웨어",
+    "url": "https://dkfma3830.cafe24.com/",
+    "packageName": "",
+    "logoText": "Rose&Lee",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 869
   },
   {
     "title": "로미스토리",
