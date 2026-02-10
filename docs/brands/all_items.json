@@ -1,5 +1,18 @@
 [
   {
+    "title": "나이브",
+    "sub": "편안함과 무드를 담은 데일리 스타일",
+    "url": "https://naiv.co.kr/",
+    "packageName": "",
+    "logoText": "Naiv",
+    "logoUrl": "",
+    "mode": "WOMEN",
+    "tabKey": "WOMEN_20S",
+    "path": "여자 > 20대",
+    "enabled": true,
+    "priority": 949
+  },
+  {
     "title": "에스에스룸",
     "sub": "차분한 색감의 빈티지 데일리 아이템",
     "url": "https://ssroom.co.kr/",
