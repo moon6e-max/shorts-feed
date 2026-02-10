@@ -1,5 +1,18 @@
 [
   {
+    "title": "로즈앤리",
+    "sub": "은은한 로맨틱 감성의 데일리웨어",
+    "url": "https://dkfma3830.cafe24.com/",
+    "packageName": "",
+    "logoText": "Rose&Lee",
+    "logoUrl": "",
+    "mode": "WOMEN",
+    "tabKey": "WOMEN_20S",
+    "path": "여자 > 20대",
+    "enabled": true,
+    "priority": 949
+  },
+  {
     "title": "마이클로드",
     "sub": "가볍게 입기 좋은 스트릿 감성웨어",
     "url": "https://smartstore.naver.com/myclothe",
