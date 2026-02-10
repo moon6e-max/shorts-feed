@@ -8,7 +8,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 100
+    "priority": 1000
   },
   {
     "title": "나비올라",
@@ -19,7 +19,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 99
+    "priority": 990
   },
   {
     "title": "네츄럴모모",
@@ -30,7 +30,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 98
+    "priority": 980
   },
   {
     "title": "닌나난나",
@@ -41,7 +41,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 97
+    "priority": 970
   },
   {
     "title": "다니러브",
@@ -52,7 +52,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 96
+    "priority": 960
   },
   {
     "title": "더옷장",
@@ -63,7 +63,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 95
+    "priority": 950
   },
   {
     "title": "더무드",
@@ -74,7 +74,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 94
+    "priority": 940
   },
   {
     "title": "도드리",
@@ -85,7 +85,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 93
+    "priority": 930
   },
   {
     "title": "럭시퀸",
@@ -96,7 +96,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 92
+    "priority": 920
   },
   {
     "title": "로로텐",
@@ -107,7 +107,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 91
+    "priority": 910
   },
   {
     "title": "마리앙플러스",
@@ -118,7 +118,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 90
+    "priority": 900
   },
   {
     "title": "마이시즌",
@@ -129,7 +129,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 89
+    "priority": 890
   },
   {
     "title": "매크리by이쁜걸",
@@ -140,7 +140,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 88
+    "priority": 880
   },
   {
     "title": "모니카룸",
@@ -151,7 +151,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 87
+    "priority": 870
   },
   {
     "title": "모델로",
@@ -162,7 +162,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 86
+    "priority": 860
   },
   {
     "title": "무드인슬로우",
@@ -173,7 +173,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 85
+    "priority": 850
   },
   {
     "title": "민지 콩",
@@ -184,7 +184,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 84
+    "priority": 840
   },
   {
     "title": "바이로그인",
@@ -195,7 +195,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 83
+    "priority": 830
   },
   {
     "title": "바이정수",
@@ -206,7 +206,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 82
+    "priority": 820
   },
   {
     "title": "벨르마",
@@ -217,7 +217,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 81
+    "priority": 810
   },
   {
     "title": "비바루비",
@@ -228,7 +228,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 80
+    "priority": 800
   },
   {
     "title": "빅너스",
@@ -239,7 +239,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 79
+    "priority": 790
   },
   {
     "title": "빅사이즈 사랑해요",
@@ -250,7 +250,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 78
+    "priority": 780
   },
   {
     "title": "빌드",
@@ -261,7 +261,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 77
+    "priority": 770
   },
   {
     "title": "사라172",
@@ -272,7 +272,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 76
+    "priority": 760
   },
   {
     "title": "스타일온미",
@@ -283,7 +283,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 75
+    "priority": 750
   },
   {
     "title": "슬로우리스트",
@@ -294,7 +294,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 74
+    "priority": 740
   },
   {
     "title": "안나플러스",
@@ -305,7 +305,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 73
+    "priority": 730
   },
   {
     "title": "어반라인",
@@ -316,7 +316,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 72
+    "priority": 720
   },
   {
     "title": "에피스걸",
@@ -327,7 +327,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 71
+    "priority": 710
   },
   {
     "title": "와니와니",
@@ -338,7 +338,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 70
+    "priority": 700
   },
   {
     "title": "위쉬몰",
@@ -349,7 +349,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 69
+    "priority": 690
   },
   {
     "title": "제이드몽",
@@ -360,7 +360,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 68
+    "priority": 680
   },
   {
     "title": "조아맘",
@@ -371,7 +371,18 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 67
+    "priority": 670
+  },
+  {
+    "title": "커밍투유",
+    "sub": "단아한 무드의 여성 데일리웨어",
+    "url": "https://comingtoyoo.co.kr/",
+    "packageName": "",
+    "logoText": "Coming\nToyoo",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 669
   },
   {
     "title": "코코마랑",
@@ -382,7 +393,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 66
+    "priority": 660
   },
   {
     "title": "코코베이지",
@@ -393,7 +404,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 65
+    "priority": 650
   },
   {
     "title": "코코블랙",
@@ -404,7 +415,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 64
+    "priority": 640
   },
   {
     "title": "코코제인",
@@ -415,7 +426,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 63
+    "priority": 630
   },
   {
     "title": "페네트로",
@@ -426,7 +437,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 62
+    "priority": 620
   },
   {
     "title": "플러스플러스",
@@ -437,7 +448,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 61
+    "priority": 610
   },
   {
     "title": "해브앤해브",
@@ -448,7 +459,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 60
+    "priority": 600
   },
   {
     "title": "헬렌",
@@ -459,7 +470,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 59
+    "priority": 590
   },
   {
     "title": "히프나틱",
@@ -470,6 +481,6 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 58
+    "priority": 580
   }
 ]
