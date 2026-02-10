@@ -242,6 +242,17 @@
     "priority": 800
   },
   {
+    "title": "에스에스룸",
+    "sub": "차분한 색감의 빈티지 데일리 아이템",
+    "url": "https://ssroom.co.kr/",
+    "packageName": "",
+    "logoText": "SSroom",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 799
+  },
+  {
     "title": "옷잘입는남자",
     "sub": "체형에 맞춘 정갈한 남성 스타일 제안",
     "url": "https://5zalnam.com/",
