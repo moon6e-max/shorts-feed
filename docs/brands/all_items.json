@@ -1,7 +1,20 @@
 [
   {
+    "title": "그레이레이즈",
+    "sub": "레이어드 감성이 살아있는 여성 데일리룩",
+    "url": "https://www.greyraise.com/",
+    "packageName": "",
+    "logoText": "Slou",
+    "logoUrl": "",
+    "mode": "WOMEN",
+    "tabKey": "WOMEN_20S",
+    "path": "여자 > 20대",
+    "enabled": true,
+    "priority": 979
+  },
+  {
     "title": "슬루",
-    "sub": "은은한 로맨틱 감성의 데일리웨어",
+    "sub": "미니멀 · 차분 · 남성 중심 데일리웨어",
     "url": "https://slou.shop/",
     "packageName": "",
     "logoText": "Slou",
