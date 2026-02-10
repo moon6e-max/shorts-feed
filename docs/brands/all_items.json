@@ -1,10 +1,23 @@
 [
   {
+    "title": "하오",
+    "sub": "단정한 실루엣의 남성 클래식웨어",
+    "url": "https://haokan.co.kr/",
+    "packageName": "",
+    "logoText": "Haokan",
+    "logoUrl": "",
+    "mode": "MEN",
+    "tabKey": "MEN_DAILY",
+    "path": "남자 > 데일리",
+    "enabled": true,
+    "priority": 979
+  },
+  {
     "title": "그레이레이즈",
     "sub": "레이어드 감성이 살아있는 여성 데일리룩",
     "url": "https://www.greyraise.com/",
     "packageName": "",
-    "logoText": "Slou",
+    "logoText": "Greyraise",
     "logoUrl": "",
     "mode": "WOMEN",
     "tabKey": "WOMEN_20S",
