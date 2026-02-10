@@ -1,10 +1,23 @@
 [
   {
+    "title": "스텝블록",
+    "sub": "데일리로 입기 좋은 스트릿 무드 아이템",
+    "url": "https://stepblockstore.com/",
+    "packageName": "",
+    "logoText": "Stepblock",
+    "logoUrl": "",
+    "mode": "MEN",
+    "tabKey": "MEN_TRENDY",
+    "path": "남자 > 트렌디",
+    "enabled": true,
+    "priority": 839
+  },
+  {
     "title": "361°",
     "sub": "기능성과 활동성을 중시하는\n중국 스포츠웨어 브랜드",
     "url": "https://www.361usa.com/",
     "packageName": "com.uitapps.threesixtyoneec",
-    "logoText": 361,
+    "logoText": "361",
     "logoUrl": "",
     "mode": "WORLD",
     "tabKey": "SPORTS_BRAND",
