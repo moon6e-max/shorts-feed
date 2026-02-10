@@ -66,6 +66,17 @@
     "priority": 950
   },
   {
+    "title": "나이브",
+    "sub": "편안함과 무드를 담은 데일리 스타일",
+    "url": "https://naiv.co.kr/",
+    "packageName": "",
+    "logoText": "Naiv",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 949
+  },
+  {
     "title": "나나살롱",
     "sub": "세련된 감성으로 완성하는 여성 데일리 패션",
     "url": "http://www.nanasalon.com/",
