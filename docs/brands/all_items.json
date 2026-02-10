@@ -1,5 +1,18 @@
 [
   {
+    "title": "마이클로드",
+    "sub": "가볍게 입기 좋은 스트릿 감성웨어",
+    "url": "https://smartstore.naver.com/myclothe",
+    "packageName": "",
+    "logoText": "Myclothe",
+    "logoUrl": "",
+    "mode": "MEN",
+    "tabKey": "MEN_TRENDY",
+    "path": "남자 > 트렌디",
+    "enabled": true,
+    "priority": 949
+  },
+  {
     "title": "원오브유",
     "sub": "부담 없이 입기 좋은 여성 감성룩",
     "url": "https://smartstore.naver.com/oneofyou_kr",
