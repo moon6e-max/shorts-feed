@@ -1,5 +1,18 @@
 [
   {
+    "title": "레브도르",
+    "sub": "라인을 살린 트렌디 여성 스타일",
+    "url": "https://revedor.co.kr/",
+    "packageName": "",
+    "logoText": "Revedor",
+    "logoUrl": "",
+    "mode": "WOMEN",
+    "tabKey": "WOMEN_20S",
+    "path": "여자 > 20대",
+    "enabled": true,
+    "priority": 879
+  },
+  {
     "title": "하오칸",
     "sub": "단정한 실루엣의 남성 클래식웨어",
     "url": "https://haokan.co.kr/",
@@ -10,7 +23,7 @@
     "tabKey": "MEN_DAILY",
     "path": "남자 > 데일리",
     "enabled": true,
-    "priority": 979
+    "priority": 769
   },
   {
     "title": "그레이레이즈",
