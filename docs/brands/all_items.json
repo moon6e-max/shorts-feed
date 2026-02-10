@@ -1,5 +1,18 @@
 [
   {
+    "title": "에스에스룸",
+    "sub": "차분한 색감의 빈티지 데일리 아이템",
+    "url": "https://ssroom.co.kr/",
+    "packageName": "",
+    "logoText": "SSroom",
+    "logoUrl": "",
+    "mode": "MEN",
+    "tabKey": "MEN_TRENDY",
+    "path": "남자 > 트렌디",
+    "enabled": true,
+    "priority": 839
+  },
+  {
     "title": "스텝블록",
     "sub": "데일리로 입기 좋은 스트릿 무드 아이템",
     "url": "https://stepblockstore.com/",
