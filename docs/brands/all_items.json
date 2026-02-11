@@ -10,6 +10,7 @@
     "tabKey": "WOMEN_30S",
     "path": "여자 > 30대",
     "enabled": true,
+    "spin": true,
     "priority": 669
   },
   {
