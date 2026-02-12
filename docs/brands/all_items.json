@@ -8845,6 +8845,7 @@
     "tabKey": "WOMEN_50S",
     "path": "여자 > 50대",
     "enabled": true,
+    "spin": true,
     "priority": 86
   },
   {
@@ -12934,6 +12935,7 @@
     "tabKey": "WOMEN_PETITE",
     "path": "여자 > 키작녀",
     "enabled": true,
+    "spin": true,
     "priority": 76
   },
   {
