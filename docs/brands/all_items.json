@@ -11,6 +11,7 @@
     "path": "여자 > 30대",
     "enabled": true,
     "spin": true,
+    "hot": true,
     "priority": 669
   },
   {
@@ -24,6 +25,7 @@
     "tabKey": "WOMEN_20S",
     "path": "여자 > 20대",
     "enabled": true,
+    "hot": true,
     "priority": 879
   },
   {
