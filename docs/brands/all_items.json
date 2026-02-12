@@ -1183,6 +1183,7 @@
     "tabKey": "MEN_TRENDY",
     "path": "남자 > 트렌디",
     "enabled": true,
+    "spin": true,
     "priority": 99
   },
   {
@@ -8323,6 +8324,7 @@
     "tabKey": "WOMEN_30S",
     "path": "여자 > 30대",
     "enabled": true,
+    "spin": true,
     "priority": 87
   },
   {
@@ -13582,6 +13584,7 @@
     "tabKey": "WOMEN_30S",
     "path": "여자 > 30대",
     "enabled": true,
+    "spin": true,
     "priority": 74
   },
   {
@@ -13790,6 +13793,7 @@
     "tabKey": "MEN_TRENDY",
     "path": "남자 > 트렌디",
     "enabled": true,
+    "spin": true,
     "priority": 73
   },
   {
@@ -14531,6 +14535,7 @@
     "tabKey": "MEN_TRENDY",
     "path": "남자 > 트렌디",
     "enabled": true,
+    "spin": true,
     "priority": 70
   },
   {
@@ -17355,6 +17360,7 @@
     "tabKey": "WOMEN_20S",
     "path": "여자 > 20대",
     "enabled": true,
+    "spin": true,
     "priority": 38
   },
   {
