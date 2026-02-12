@@ -8,6 +8,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
+    "spin": true,
     "priority": 100
   },
   {
