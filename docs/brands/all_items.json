@@ -12,7 +12,7 @@
     "enabled": true,
     "spin": true,
     "hot": true,
-    "new": true,
+    "isNew": true,
     "priority": 669
   },
   {
