@@ -12,7 +12,9 @@
     "enabled": true,
     "spin": true,
     "hot": true,
+    "hotRank": 100,
     "isNew": true,
+    "newRank": 100
     "priority": 669
   },
   {
@@ -27,6 +29,7 @@
     "path": "여자 > 20대",
     "enabled": true,
     "hot": true,
+    "hotRank": 110,
     "priority": 879
   },
   {
