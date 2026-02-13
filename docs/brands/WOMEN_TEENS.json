@@ -130,16 +130,5 @@
     "photos": [],
     "enabled": true,
     "priority": 74
-  },
-  {
-    "title": "히니크",
-    "sub": "여성을 위한 슬림핏·여리한 실루엣의 섹시 캐주얼 데일리룩 브랜드",
-    "url": "https://henique.co.kr/",
-    "packageName": "com.henique.byapps",
-    "logoText": "Henique",
-    "logoUrl": "",
-    "photos": [],
-    "enabled": true,
-    "priority": 73
   }
 ]
