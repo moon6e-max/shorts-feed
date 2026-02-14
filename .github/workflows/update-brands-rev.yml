@@ -1,0 +1,28 @@
+name: Update Brands Rev
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  bump:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Increase rev
+        run: |
+          if [ -f brands/rev.txt ]; then
+            REV=$(cat brands/rev.txt)
+          else
+            REV=0
+          fi
+          NEW=$((REV+1))
+          echo $NEW > brands/rev.txt
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add brands/rev.txt
+          git commit -m "Bump brands rev"
+          git push
