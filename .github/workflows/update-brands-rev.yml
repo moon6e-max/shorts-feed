@@ -14,20 +14,21 @@ jobs:
 
       - name: Increase rev
         run: |
-          mkdir -p brands
-          if [ -f brands/rev.txt ]; then
-            REV=$(cat brands/rev.txt)
+          mkdir -p docs/brands
+          FILE="docs/brands/rev.txt"
+          if [ -f "$FILE" ]; then
+            REV=$(cat "$FILE")
           else
             REV=0
           fi
           NEW=$((REV+1))
-          echo $NEW > brands/rev.txt
+          echo "$NEW" > "$FILE"
+          echo "rev => $NEW"
 
       - name: Commit & Push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add brands/rev.txt
+          git add docs/brands/rev.txt
           git commit -m "Bump brands rev" || echo "no changes"
           git push
-
