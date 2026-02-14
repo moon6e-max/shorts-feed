@@ -711,8 +711,8 @@
     "priority": 100
   },
   {
-    "title": "게스",
-    "sub": "GUESS 언더웨어",
+    "title": "게스(언더웨어)",
+    "sub": "편안함 중심의 이너웨어",
     "url": "https://guessunderwear.kr/",
     "packageName": "com.cafe24.ec.plusguessunderwear",
     "logoText": "GUESS",
