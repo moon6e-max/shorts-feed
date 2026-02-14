@@ -11,10 +11,6 @@
     "path": "여자 > 30대",
     "enabled": true,
     "spin": true,
-    "hot": true,
-    "hotRank": 100,
-    "isNew": true,
-    "newRank": 100,
     "priority": 669
   },
   {
@@ -3076,6 +3072,8 @@
     "tabKey": "MW",
     "path": "남&녀 > 공용",
     "enabled": true,
+    "hot": true,
+    "hotRank": 109,
     "priority": 96
   },
   {
@@ -5456,6 +5454,8 @@
     "tabKey": "MEN_DAILY",
     "path": "남자 > 데일리",
     "enabled": true,
+    "isNew": true,
+    "newRank": 100,
     "priority": 92
   },
   {
@@ -8161,6 +8161,8 @@
     "tabKey": "MW",
     "path": "남&녀 > 공용",
     "enabled": true,
+    "hot": true,
+    "hotRank": 108,
     "priority": 87
   },
   {
@@ -9164,6 +9166,8 @@
     "tabKey": "MW",
     "path": "남&녀 > 공용",
     "enabled": true,
+    "hot": true,
+    "hotRank": 107,
     "priority": 85
   },
   {
@@ -9619,6 +9623,8 @@
     "tabKey": "MEN_DAILY",
     "path": "남자 > 데일리",
     "enabled": true,
+    "isNew": true,
+    "newRank": 96,
     "priority": 84
   },
   {
@@ -11443,6 +11449,8 @@
     "tabKey": "WOMEN_PETITE",
     "path": "여자 > 키작녀",
     "enabled": true,
+    "hot": true,
+    "hotRank": 106,
     "priority": 80
   },
   {
@@ -12810,6 +12818,8 @@
     "tabKey": "MEN_TRENDY",
     "path": "남자 > 트렌디",
     "enabled": true,
+    "isNew": true,
+    "newRank": 99,
     "priority": 76
   },
   {
@@ -13788,6 +13798,8 @@
     "path": "남자 > 트렌디",
     "enabled": true,
     "spin": true,
+    "isNew": true,
+    "newRank": 98,
     "priority": 73
   },
   {
@@ -14517,6 +14529,8 @@
     "path": "남자 > 트렌디",
     "enabled": true,
     "spin": true,
+    "isNew": true,
+    "newRank": 97,
     "priority": 70
   },
   {
