@@ -9,23 +9,44 @@ permissions:
 jobs:
   bump:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
-      - name: Increase ops rev
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Increase ops rev (banners + promo)
         run: |
           mkdir -p docs
           FILE="docs/rev_ops.txt"
-          if [ -f "$FILE" ]; then REV=$(cat "$FILE"); else REV=0; fi
-          NEW=$((REV+1))
-          echo "$NEW" > "$FILE"
-          echo "ops rev => $NEW"
+
+          # 기본값
+          B=0
+          P=0
+
+          # 파일이 있으면 기존값 읽기
+          if [ -f "$FILE" ]; then
+            B=$(grep -E '^banners=' "$FILE" | head -n1 | cut -d= -f2)
+            P=$(grep -E '^promo=' "$FILE" | head -n1 | cut -d= -f2)
+
+            # 값이 비어있으면 0 처리
+            B=${B:-0}
+            P=${P:-0}
+          fi
+
+          NEWB=$((B+1))
+          NEWP=$((P+1))
+
+          printf "banners=%s\npromo=%s\n" "$NEWB" "$NEWP" > "$FILE"
+
+          echo "OPS REV UPDATED"
+          echo "banners=$NEWB"
+          echo "promo=$NEWP"
 
       - name: Commit & Push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add docs/rev_ops.txt
-          git commit -m "Bump ops rev" || echo "no changes"
+          git commit -m "Bump ops rev" || echo "No changes"
           git push
 
