@@ -11,6 +11,7 @@ jobs:
 
       - name: Increase rev
         run: |
+          mkdir -p brands
           if [ -f brands/rev.txt ]; then
             REV=$(cat brands/rev.txt)
           else
