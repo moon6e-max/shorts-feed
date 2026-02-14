@@ -28,3 +28,4 @@ jobs:
           git add docs/rev_ops.txt
           git commit -m "Bump ops rev" || echo "no changes"
           git push
+
