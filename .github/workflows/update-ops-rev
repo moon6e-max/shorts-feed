@@ -1,0 +1,34 @@
+name: Update OPS Rev (banner/promo/event)
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  bump:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Increase ops rev
+        run: |
+          mkdir -p docs
+          FILE="docs/rev_ops.txt"
+          if [ -f "$FILE" ]; then
+            REV=$(cat "$FILE")
+          else
+            REV=0
+          fi
+          NEW=$((REV+1))
+          echo "$NEW" > "$FILE"
+          echo "ops rev => $NEW"
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add docs/rev_ops.txt
+          git commit -m "Bump ops rev" || echo "no changes"
+          git push
