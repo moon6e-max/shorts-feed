@@ -1,1 +1,2 @@
-3
+banners=1
+promo=1
