@@ -1,2 +1,1 @@
-banners=18
-promo=18
+
