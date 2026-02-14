@@ -1,4 +1,4 @@
-name: Update OPS Rev (banner/promo/event)
+name: Update OPS Rev
 
 on:
   workflow_dispatch: {}
@@ -16,11 +16,7 @@ jobs:
         run: |
           mkdir -p docs
           FILE="docs/rev_ops.txt"
-          if [ -f "$FILE" ]; then
-            REV=$(cat "$FILE")
-          else
-            REV=0
-          fi
+          if [ -f "$FILE" ]; then REV=$(cat "$FILE"); else REV=0; fi
           NEW=$((REV+1))
           echo "$NEW" > "$FILE"
           echo "ops rev => $NEW"
