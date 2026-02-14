@@ -165,17 +165,6 @@
     "priority": 86
   },
   {
-    "title": "아뜨랑스",
-    "sub": "로맨틱하고 단정한 오피스·데이트룩 중심의 여성 의류 브랜드",
-    "url": "https://attrangs.co.kr/",
-    "packageName": "co.kr.attrangs.byapps",
-    "logoText": "Attrangs",
-    "logoUrl": "",
-    "photos": [],
-    "enabled": true,
-    "priority": 85
-  },
-  {
     "title": "에이와비",
     "sub": "베이직한 니트·데일리웨어를 중심으로 한 성인 여성 브랜드",
     "url": "https://www.awab.co.kr/",
