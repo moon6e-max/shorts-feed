@@ -1,4 +1,4 @@
-banners=18
+banners=19
 promo=18
 ig_creators=9
 tt_creators=9
