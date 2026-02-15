@@ -9,10 +9,8 @@ permissions:
 jobs:
   bump:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Increase ops rev (banners + promo + creators)
         run: |
@@ -22,29 +20,30 @@ jobs:
           # 기본값
           B=0
           P=0
-          C=0
+          IG=0
+          TT=0
 
           # 파일이 있으면 기존값 읽기
           if [ -f "$FILE" ]; then
-            B=$(grep -E '^banners=' "$FILE" | head -n1 | cut -d= -f2)
-            P=$(grep -E '^promo=' "$FILE" | head -n1 | cut -d= -f2)
-            C=$(grep -E '^creators=' "$FILE" | head -n1 | cut -d= -f2)
-
-            B=${B:-0}
-            P=${P:-0}
-            C=${C:-0}
+            B=$(grep -E '^banners=' "$FILE" | head -n1 | cut -d= -f2); B=${B:-0}
+            P=$(grep -E '^promo=' "$FILE"   | head -n1 | cut -d= -f2); P=${P:-0}
+            IG=$(grep -E '^ig_creators=' "$FILE" | head -n1 | cut -d= -f2); IG=${IG:-0}
+            TT=$(grep -E '^tt_creators=' "$FILE" | head -n1 | cut -d= -f2); TT=${TT:-0}
           fi
 
           NEWB=$((B+1))
           NEWP=$((P+1))
-          NEWC=$((C+1))
+          NEWIG=$((IG+1))
+          NEWTT=$((TT+1))
 
-          printf "banners=%s\npromo=%s\ncreators=%s\n" "$NEWB" "$NEWP" "$NEWC" > "$FILE"
+          printf "banners=%s\npromo=%s\nig_creators=%s\ntt_creators=%s\n" \
+            "$NEWB" "$NEWP" "$NEWIG" "$NEWTT" > "$FILE"
 
           echo "OPS REV UPDATED"
           echo "banners=$NEWB"
           echo "promo=$NEWP"
-          echo "creators=$NEWC"
+          echo "ig_creators=$NEWIG"
+          echo "tt_creators=$NEWTT"
 
       - name: Commit & Push
         run: |
