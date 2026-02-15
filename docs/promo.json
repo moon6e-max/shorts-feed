@@ -1,13 +1,13 @@
 {
   "enabled": true,
-  "type": "공지",
-  "chip": "안녕하세요 개발자입니다.",
-  "title": "앱 관려 문의",
-  "desc": "kim99543510@naver.com으로 문의주시면 \n성심성의껏 수정하도록 하겠습니다.감사합니다^^",
+  "type": "종 이 상 자",
+  "chip": "튼튼한 수제 키링",
+  "title": "페이퍼 키링",
+  "desc": "가볍고 튼튼한 핸드메이드 키링(주문제작 가능!)",
   "primaryText": "자세히 보기",
   "secondaryText": "닫기",
   "action": "OPEN_URL",
   "url": "https://www.naver.com/",
   "imageUrl": "https://moon6e-max.github.io/shorts-feed/images/kmh1.jpg",
-  "brandIconUrl": "https://moon6e-max.github.io/shorts-feed/images/wode.png"
+  "brandIconUrl": "https://smartstore.naver.com/withjongi"
 }
