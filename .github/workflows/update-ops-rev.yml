@@ -1,7 +1,19 @@
 name: Update OPS Rev
 
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      target:
+        description: "Which rev to bump?"
+        required: true
+        default: "all"
+        type: choice
+        options:
+          - all
+          - banners
+          - promo
+          - ig_creators
+          - tt_creators
 
 permissions:
   contents: write
@@ -12,18 +24,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Increase ops rev (banners + promo + creators)
+      - name: Increase ops rev (selective)
         run: |
           mkdir -p docs
           FILE="docs/rev_ops.txt"
+          TARGET="${{ github.event.inputs.target }}"
 
-          # 기본값
-          B=0
-          P=0
-          IG=0
-          TT=0
+          B=0; P=0; IG=0; TT=0
 
-          # 파일이 있으면 기존값 읽기
           if [ -f "$FILE" ]; then
             B=$(grep -E '^banners=' "$FILE" | head -n1 | cut -d= -f2); B=${B:-0}
             P=$(grep -E '^promo=' "$FILE"   | head -n1 | cut -d= -f2); P=${P:-0}
@@ -31,24 +39,24 @@ jobs:
             TT=$(grep -E '^tt_creators=' "$FILE" | head -n1 | cut -d= -f2); TT=${TT:-0}
           fi
 
-          NEWB=$((B+1))
-          NEWP=$((P+1))
-          NEWIG=$((IG+1))
-          NEWTT=$((TT+1))
+          bump() { echo $(( $1 + 1 )); }
+
+          if [ "$TARGET" = "all" ] || [ "$TARGET" = "banners" ]; then B=$(bump "$B"); fi
+          if [ "$TARGET" = "all" ] || [ "$TARGET" = "promo" ]; then P=$(bump "$P"); fi
+          if [ "$TARGET" = "all" ] || [ "$TARGET" = "ig_creators" ]; then IG=$(bump "$IG"); fi
+          if [ "$TARGET" = "all" ] || [ "$TARGET" = "tt_creators" ]; then TT=$(bump "$TT"); fi
 
           printf "banners=%s\npromo=%s\nig_creators=%s\ntt_creators=%s\n" \
-            "$NEWB" "$NEWP" "$NEWIG" "$NEWTT" > "$FILE"
+            "$B" "$P" "$IG" "$TT" > "$FILE"
 
-          echo "OPS REV UPDATED"
-          echo "banners=$NEWB"
-          echo "promo=$NEWP"
-          echo "ig_creators=$NEWIG"
-          echo "tt_creators=$NEWTT"
+          echo "OPS REV UPDATED: $TARGET"
+          cat "$FILE"
 
       - name: Commit & Push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add docs/rev_ops.txt
-          git commit -m "Bump ops rev" || echo "No changes"
+          git commit -m "Bump ops rev (${{ github.event.inputs.target }})" || echo "No changes"
           git push
+
