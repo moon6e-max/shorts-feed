@@ -1,2 +1,2 @@
-banners=2
-promo=2
+banners=3
+promo=3
