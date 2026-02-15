@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "type": "공지",
   "chip": "안녕하세요 개발자입니다.",
   "title": "앱 관려 문의",
