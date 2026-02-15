@@ -1,4 +1,4 @@
-banners=14
-promo=14
-ig_creators=5
-tt_creators=5
+banners=15
+promo=15
+ig_creators=6
+tt_creators=6
