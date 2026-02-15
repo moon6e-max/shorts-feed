@@ -1,3 +1,3 @@
-banners=7
-promo=7
-creators=4
+banners=8
+promo=8
+creators=5
