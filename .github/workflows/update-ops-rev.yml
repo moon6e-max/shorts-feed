@@ -14,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Increase ops rev (banners + promo)
+      - name: Increase ops rev (banners + promo + creators)
         run: |
           mkdir -p docs
           FILE="docs/rev_ops.txt"
@@ -22,25 +22,29 @@ jobs:
           # 기본값
           B=0
           P=0
+          C=0
 
           # 파일이 있으면 기존값 읽기
           if [ -f "$FILE" ]; then
             B=$(grep -E '^banners=' "$FILE" | head -n1 | cut -d= -f2)
             P=$(grep -E '^promo=' "$FILE" | head -n1 | cut -d= -f2)
+            C=$(grep -E '^creators=' "$FILE" | head -n1 | cut -d= -f2)
 
-            # 값이 비어있으면 0 처리
             B=${B:-0}
             P=${P:-0}
+            C=${C:-0}
           fi
 
           NEWB=$((B+1))
           NEWP=$((P+1))
+          NEWC=$((C+1))
 
-          printf "banners=%s\npromo=%s\n" "$NEWB" "$NEWP" > "$FILE"
+          printf "banners=%s\npromo=%s\ncreators=%s\n" "$NEWB" "$NEWP" "$NEWC" > "$FILE"
 
           echo "OPS REV UPDATED"
           echo "banners=$NEWB"
           echo "promo=$NEWP"
+          echo "creators=$NEWC"
 
       - name: Commit & Push
         run: |
@@ -49,4 +53,3 @@ jobs:
           git add docs/rev_ops.txt
           git commit -m "Bump ops rev" || echo "No changes"
           git push
-
