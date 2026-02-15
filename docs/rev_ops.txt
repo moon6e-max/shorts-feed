@@ -1,2 +1,3 @@
-banners=3
-promo=3
+banners=4
+promo=4
+creators=1
