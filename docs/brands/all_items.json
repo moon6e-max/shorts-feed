@@ -1,5 +1,19 @@
 [
   {
+    "title": "사구일공",
+    "sub": "패션이 쉬워지는 순간",
+    "url": "https://4910.kr/",
+    "packageName": "com.ablycorp.aglo",
+    "logoText": "4910",
+    "logoUrl": "",
+    "mode": "MALL",
+    "tabKey": "MALL_MEN",
+    "path": "셀렉트샵 > 쇼핑몰",
+    "enabled": true,
+    "spin": true,
+    "priority": 999
+  },
+  {
     "title": "커밍투유",
     "sub": "라인을 살린 트렌디 여성 스타일",
     "url": "https://comingtoyoo.co.kr/",
