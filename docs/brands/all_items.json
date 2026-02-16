@@ -7,8 +7,8 @@
     "logoText": "Eatwearlive",
     "logoUrl": "",
     "mode": "WOMEN",
-    "tabKey": "WOMEN_30S",
-    "path": "여자 > 30대",
+    "tabKey": "WOMEN_20S",
+    "path": "여자 > 20대",
     "enabled": true,
     "spin": true,
     "priority": 999
