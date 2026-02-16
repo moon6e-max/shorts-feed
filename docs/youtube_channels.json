@@ -4,7 +4,7 @@
       "key": "W_FASHION",
       "name": "여자패션",
       "channels": [
-        { "url": "https://www.youtube.com/@HEYNEE103", "enabled": true },
+        { "url": "https://www.youtube.com/@HEYNEE103","channelId":"UCxxxx", "enabled": true },
         { "url": "https://www.youtube.com/@celebfasshion", "enabled": true },
         { "url": "https://www.youtube.com/@BoraClaire", "enabled": true },
         { "url": "https://www.youtube.com/@bitnalyoung", "enabled": true },
