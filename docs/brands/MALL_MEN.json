@@ -11,17 +11,6 @@
     "priority": 1000
   },
   {
-    "title": "29CM",
-    "sub": "감각적인 셀렉션으로 완성하는 라이프 스타일",
-    "url": "https://www.29cm.co.kr/",
-    "packageName": "com.the29cm.app29cm",
-    "logoText": "29CM",
-    "logoUrl": "",
-    "photos": [],
-    "enabled": true,
-    "priority": 1000
-  },
-  {
     "title": "사구일공",
     "sub": "패션이 쉬워지는 순간",
     "url": "https://4910.kr/",
