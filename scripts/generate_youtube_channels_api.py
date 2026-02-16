@@ -140,6 +140,7 @@ def main():
 
         if out_channels:
             out["categories"].append({
+                "key": (cat.get("key") or "").strip(),
                 "name": name,
                 "channels": out_channels
             })
