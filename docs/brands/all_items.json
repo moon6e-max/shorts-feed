@@ -1,7 +1,7 @@
 [
   {
     "title": "잇웨어리브",
-    "sub": "미리준비하는 계절",
+    "sub": "미리준비하는 계절 코디",
     "url": "https://eatwearlive.co.kr/",
     "packageName": "",
     "logoText": "Eatwearlive",
@@ -11,7 +11,7 @@
     "path": "여자 > 20대",
     "enabled": true,
     "spin": true,
-    "priority": 999
+    "priority": 550
   },
   {
     "title": "사구일공",
