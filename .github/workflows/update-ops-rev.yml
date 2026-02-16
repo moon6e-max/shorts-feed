@@ -14,6 +14,7 @@ on:
           - promo
           - ig_creators
           - tt_creators
+          - event_popup
 
 permissions:
   contents: write
@@ -30,13 +31,14 @@ jobs:
           FILE="docs/rev_ops.txt"
           TARGET="${{ github.event.inputs.target }}"
 
-          B=0; P=0; IG=0; TT=0
+          B=0; P=0; IG=0; TT=0; EV=0
 
           if [ -f "$FILE" ]; then
             B=$(grep -E '^banners=' "$FILE" | head -n1 | cut -d= -f2); B=${B:-0}
             P=$(grep -E '^promo=' "$FILE"   | head -n1 | cut -d= -f2); P=${P:-0}
             IG=$(grep -E '^ig_creators=' "$FILE" | head -n1 | cut -d= -f2); IG=${IG:-0}
             TT=$(grep -E '^tt_creators=' "$FILE" | head -n1 | cut -d= -f2); TT=${TT:-0}
+            EV=$(grep -E '^event_popup=' "$FILE"| head -n1 | cut -d= -f2); EV=${EV:-0}
           fi
 
           bump() { echo $(( $1 + 1 )); }
@@ -45,9 +47,10 @@ jobs:
           if [ "$TARGET" = "all" ] || [ "$TARGET" = "promo" ]; then P=$(bump "$P"); fi
           if [ "$TARGET" = "all" ] || [ "$TARGET" = "ig_creators" ]; then IG=$(bump "$IG"); fi
           if [ "$TARGET" = "all" ] || [ "$TARGET" = "tt_creators" ]; then TT=$(bump "$TT"); fi
+          if [ "$TARGET" = "all" ] || [ "$TARGET" = "event_popup" ]; then EV=$(bump "$EV"); fi
 
           printf "banners=%s\npromo=%s\nig_creators=%s\ntt_creators=%s\n" \
-            "$B" "$P" "$IG" "$TT" > "$FILE"
+            "$B" "$P" "$IG" "$TT" "$EV" > "$FILE"
 
           echo "OPS REV UPDATED: $TARGET"
           cat "$FILE"
