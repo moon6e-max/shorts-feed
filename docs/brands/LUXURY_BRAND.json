@@ -32,6 +32,38 @@
   "badge": "NEW"
   },
   {
+  "title": "겐조",
+  "sub": "대담한 색감과 패턴을 바탕으로 전개되는 패션 브랜드",
+  "url": "https://www.kenzo.com/",
+  "packageName": "",
+  "logoText": "Kenzo",
+  "logoUrl": "",
+  
+  "mode": "WORLD",
+  "tabKey": "LUXURY_BRAND",
+  "path": "월드 > 명품",
+  "alias": "Kenzo 겐조",
+  
+  "photos": [
+  "https://moon6e-max.github.io/shorts-feed/images/all1.png",
+  "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20191008_72%2F1570504946643NdXcC_JPEG%2F7865685276437806_1676792589.jpg&type=sc960_832",
+    "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20191008_72%2F1570504946643NdXcC_JPEG%2F7865685276437806_1676792589.jpg&type=sc960_832",
+    "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20191008_72%2F1570504946643NdXcC_JPEG%2F7865685276437806_1676792589.jpg&type=sc960_832",
+    "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20191008_72%2F1570504946643NdXcC_JPEG%2F7865685276437806_1676792589.jpg&type=sc960_832",
+    "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20191008_72%2F1570504946643NdXcC_JPEG%2F7865685276437806_1676792589.jpg&type=sc960_832",
+    "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20191008_72%2F1570504946643NdXcC_JPEG%2F7865685276437806_1676792589.jpg&type=sc960_832",
+    "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20191008_72%2F1570504946643NdXcC_JPEG%2F7865685276437806_1676792589.jpg&type=sc960_832"
+],
+
+    
+  "enabled": true,
+  "priority": 100,
+  "showImages": false,
+  "showGuideBox": true,
+
+  "badge": "NEW"
+  },
+  {
     "title": "고야드",
     "sub": "가죽 제품을 중심으로 전개되는 프랑스 브랜드",
     "url": "https://www.goyard.com/kr_ko/",
