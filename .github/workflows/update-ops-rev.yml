@@ -49,8 +49,9 @@ jobs:
           if [ "$TARGET" = "all" ] || [ "$TARGET" = "tt_creators" ]; then TT=$(bump "$TT"); fi
           if [ "$TARGET" = "all" ] || [ "$TARGET" = "event_popup" ]; then EV=$(bump "$EV"); fi
 
-          printf "banners=%s\npromo=%s\nig_creators=%s\ntt_creators=%s\n" \
-            "$B" "$P" "$IG" "$TT" "$EV" > "$FILE"
+          printf "banners=%s\npromo=%s\nig_creators=%s\ntt_creators=%s\nevent_popup=%s\n" \
+          "$B" "$P" "$IG" "$TT" "$EV" > "$FILE"
+
 
           echo "OPS REV UPDATED: $TARGET"
           cat "$FILE"
