@@ -2,8 +2,8 @@ name: Update shorts.json daily
 
 on:
   schedule:
-    - cron: "10 0 * * *"
-  workflow_dispatch:
+    - cron: "10 0 * * *"   # UTC 00:10 = KST 09:10
+  workflow_dispatch: {}
 
 permissions:
   contents: write
@@ -32,15 +32,58 @@ jobs:
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
 
+      # ✅ shorts.json 변경 여부 확인
+      - name: Check if shorts.json changed
+        id: diff
+        run: |
+          git add docs/shorts.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes in shorts.json"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "shorts.json changed"
+          fi
 
+      # ✅ 변경된 경우에만 rev_ops.txt의 shorts= 값을 +1
+      - name: Bump shorts rev in rev_ops.txt (only if changed)
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          FILE="docs/rev_ops.txt"
+          mkdir -p docs
+
+          # 파일 없으면 기본 생성 (기존 키들 포함)
+          if [ ! -f "$FILE" ]; then
+            echo "banners=0" > "$FILE"
+            echo "promo=0" >> "$FILE"
+            echo "ig_creators=0" >> "$FILE"
+            echo "tt_creators=0" >> "$FILE"
+            echo "event_popup=0" >> "$FILE"
+            echo "shorts=0" >> "$FILE"
+          fi
+
+          # shorts 값 읽기 (없으면 0)
+          S=$(grep -E '^shorts=' "$FILE" | head -n1 | cut -d= -f2); S=${S:-0}
+          NEW=$((S+1))
+
+          # shorts= 라인 교체 or 추가
+          if grep -qE '^shorts=' "$FILE"; then
+            sed -i "s/^shorts=.*/shorts=${NEW}/" "$FILE"
+          else
+            echo "shorts=${NEW}" >> "$FILE"
+          fi
+
+          echo "shorts rev => ${NEW}"
+          echo "---- rev_ops.txt ----"
+          cat "$FILE"
+
+      # ✅ 변경된 경우에만 커밋/푸시
       - name: Commit and push if changed
+        if: steps.diff.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/shorts.json
-          if git diff --cached --quiet; then
-            echo "No changes."
-          else
-            git commit -m "Update shorts.json"
-            git push
-          fi
+          git add docs/shorts.json docs/rev_ops.txt
+          git commit -m "Update shorts.json (bump shorts rev)"
+          git push
+
