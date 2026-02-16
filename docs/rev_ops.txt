@@ -2,3 +2,7 @@ banners=34
 promo=23
 ig_creators=26
 tt_creators=19
+banners=1
+promo=
+ig_creators=
+tt_creators=
