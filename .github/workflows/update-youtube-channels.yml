@@ -58,7 +58,7 @@ jobs:
           fi
       
           # yt_channels 값 읽기 (없으면 0)
-          Y=$(grep -E '^yt_channels=' "$FILE" | head -n1 | cut -d= -f2); Y=${Y:-0}
+          Y=$(grep -E '^yt_channels=' "$FILE" | head -n1 | cut -d= -f2 || true); Y=${Y:-0}
           NEW=$((Y+1))
       
           # yt_channels 라인 교체 or 추가
