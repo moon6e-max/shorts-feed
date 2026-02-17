@@ -48,20 +48,19 @@ jobs:
         if: steps.diff.outputs.changed == 'true'
         shell: bash
         run: |
-          set -e
           FILE="docs/rev_ops.txt"
           mkdir -p docs
       
-          # rev_ops.txt 없으면 기본 생성 (here-doc 대신 printf 사용)
+          # 파일 없으면 생성
           if [ ! -f "$FILE" ]; then
             printf "banners=0\npromo=0\nig_creators=0\ntt_creators=0\nevent_popup=0\nshorts=0\nyt_channels=0\n" > "$FILE"
           fi
       
-          # yt_channels 값 읽기 (없으면 0)
-          Y=$(grep -E '^yt_channels=' "$FILE" | head -n1 | cut -d= -f2 || true); Y=${Y:-0}
+          # ✅ 없으면 0으로 간주 (grep 실패해도 죽지 않게)
+          Y=$(grep -E '^yt_channels=' "$FILE" | head -n1 | cut -d= -f2 || true)
+          Y=${Y:-0}
           NEW=$((Y+1))
       
-          # yt_channels 라인 교체 or 추가
           if grep -qE '^yt_channels=' "$FILE"; then
             sed -i "s/^yt_channels=.*/yt_channels=${NEW}/" "$FILE"
           else
@@ -69,5 +68,4 @@ jobs:
           fi
       
           echo "yt_channels rev => ${NEW}"
-          echo "---- rev_ops.txt ----"
           cat "$FILE"
