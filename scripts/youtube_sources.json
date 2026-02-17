@@ -1,0 +1,12 @@
+{
+  "categories": [
+    {
+      "key": "fashion",
+      "name": "패션",
+      "channels": [
+        { "enabled": true, "url": "https://www.youtube.com/@heynee103" },
+        { "enabled": true, "url": "https://www.youtube.com/@yemomile" }
+      ]
+    }
+  ]
+}
