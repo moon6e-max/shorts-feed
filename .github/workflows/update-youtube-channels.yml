@@ -1,9 +1,7 @@
-name: Update youtube_channels.json daily
+name: Update youtube_channels.json (manual)
 
 on:
-  schedule:
-    - cron: "20 0 * * *"   # 매일 09:20 KST (UTC 00:20)
-  workflow_dispatch:
+  workflow_dispatch: {}
 
 permissions:
   contents: write
@@ -12,31 +10,80 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install deps
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests
 
       - name: Generate youtube_channels.json
         run: |
+          mkdir -p docs
           python scripts/generate_youtube_channels.py
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
 
+      # ✅ youtube_channels.json 변경 체크
+      - name: Check if youtube_channels.json changed
+        id: diff
+        run: |
+          git add docs/youtube_channels.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes in youtube_channels.json"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "youtube_channels.json changed"
+          fi
+
+      # ✅ 변경된 경우에만 rev_ops.txt 의 yt_channels= +1
+      - name: Bump yt_channels rev in rev_ops.txt (only if changed)
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          FILE="docs/rev_ops.txt"
+          mkdir -p docs
+
+          # rev_ops.txt 없으면 기본 생성
+          if [ ! -f "$FILE" ]; then
+            cat > "$FILE" << 'EOF'
+            banners=0
+            promo=0
+            ig_creators=0
+            tt_creators=0
+            event_popup=0
+            shorts=0
+            yt_channels=0
+            EOF
+                      fi
+
+          # yt_channels 값 읽기 (없으면 0)
+          Y=$(grep -E '^yt_channels=' "$FILE" | head -n1 | cut -d= -f2); Y=${Y:-0}
+          NEW=$((Y+1))
+
+          # yt_channels 라인 교체 or 추가
+          if grep -qE '^yt_channels=' "$FILE"; then
+            sed -i "s/^yt_channels=.*/yt_channels=${NEW}/" "$FILE"
+          else
+            echo "yt_channels=${NEW}" >> "$FILE"
+          fi
+
+          echo "yt_channels rev => ${NEW}"
+          echo "---- rev_ops.txt ----"
+          cat "$FILE"
+
+      # ✅ 변경된 경우에만 커밋/푸시
       - name: Commit and push if changed
+        if: steps.diff.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/youtube_channels.json
-          if git diff --cached --quiet; then
-            echo "No changes."
-          else
-            git commit -m "Update youtube_channels.json"
-            git push
-          fi
+          git add docs/youtube_channels.json docs/rev_ops.txt
+          git commit -m "Update youtube_channels.json (bump yt_channels rev)"
+          git push
