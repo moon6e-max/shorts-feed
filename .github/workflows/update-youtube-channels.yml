@@ -44,8 +44,7 @@ jobs:
           fi
 
       # ✅ 변경된 경우에만 rev_ops.txt 의 yt_channels= +1
-      - name: Bump yt_channels rev in rev_ops.txt (only if changed)
-        if: steps.diff.outputs.changed == 'true'
+      - name: Ensure yt_channels key exists in rev_ops.txt
         shell: bash
         run: |
           FILE="docs/rev_ops.txt"
@@ -56,16 +55,10 @@ jobs:
             printf "banners=0\npromo=0\nig_creators=0\ntt_creators=0\nevent_popup=0\nshorts=0\nyt_channels=0\n" > "$FILE"
           fi
       
-          # ✅ 없으면 0으로 간주 (grep 실패해도 죽지 않게)
-          Y=$(grep -E '^yt_channels=' "$FILE" | head -n1 | cut -d= -f2 || true)
-          Y=${Y:-0}
-          NEW=$((Y+1))
-      
-          if grep -qE '^yt_channels=' "$FILE"; then
-            sed -i "s/^yt_channels=.*/yt_channels=${NEW}/" "$FILE"
+          # yt_channels 라인이 없으면 추가
+          if ! grep -qE '^yt_channels=' "$FILE"; then
+            echo "yt_channels=0" >> "$FILE"
+            echo "Added yt_channels=0"
           else
-            echo "yt_channels=${NEW}" >> "$FILE"
+            echo "yt_channels already exists"
           fi
-      
-          echo "yt_channels rev => ${NEW}"
-          cat "$FILE"
