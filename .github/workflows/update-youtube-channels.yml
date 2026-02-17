@@ -46,44 +46,28 @@ jobs:
       # ✅ 변경된 경우에만 rev_ops.txt 의 yt_channels= +1
       - name: Bump yt_channels rev in rev_ops.txt (only if changed)
         if: steps.diff.outputs.changed == 'true'
+        shell: bash
         run: |
+          set -e
           FILE="docs/rev_ops.txt"
           mkdir -p docs
-
-          # rev_ops.txt 없으면 기본 생성
+      
+          # rev_ops.txt 없으면 기본 생성 (here-doc 대신 printf 사용)
           if [ ! -f "$FILE" ]; then
-            cat > "$FILE" << 'EOF'
-            banners=0
-            promo=0
-            ig_creators=0
-            tt_creators=0
-            event_popup=0
-            shorts=0
-            yt_channels=0
-            EOF
-                      fi
-
+            printf "banners=0\npromo=0\nig_creators=0\ntt_creators=0\nevent_popup=0\nshorts=0\nyt_channels=0\n" > "$FILE"
+          fi
+      
           # yt_channels 값 읽기 (없으면 0)
           Y=$(grep -E '^yt_channels=' "$FILE" | head -n1 | cut -d= -f2); Y=${Y:-0}
           NEW=$((Y+1))
-
+      
           # yt_channels 라인 교체 or 추가
           if grep -qE '^yt_channels=' "$FILE"; then
             sed -i "s/^yt_channels=.*/yt_channels=${NEW}/" "$FILE"
           else
             echo "yt_channels=${NEW}" >> "$FILE"
           fi
-
+      
           echo "yt_channels rev => ${NEW}"
           echo "---- rev_ops.txt ----"
           cat "$FILE"
-
-      # ✅ 변경된 경우에만 커밋/푸시
-      - name: Commit and push if changed
-        if: steps.diff.outputs.changed == 'true'
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/youtube_channels.json docs/rev_ops.txt
-          git commit -m "Update youtube_channels.json (bump yt_channels rev)"
-          git push
