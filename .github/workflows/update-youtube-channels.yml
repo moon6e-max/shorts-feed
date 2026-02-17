@@ -26,7 +26,7 @@ jobs:
       - name: Generate youtube_channels.json
         run: |
           mkdir -p docs
-          python scripts/generate_youtube_channels.py
+          python scripts/generate_youtube_channels_api.py
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
 
