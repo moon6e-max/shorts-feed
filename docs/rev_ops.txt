@@ -4,4 +4,4 @@ ig_creators=26
 tt_creators=19
 event_popup=3
 shorts=3
-yt_channels=2
+yt_channels=3

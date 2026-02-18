@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-02-18T16:48:14.058183+09:00",
+  "generatedAt": "2026-02-18T17:14:05.560382+09:00",
   "categories": [
     {
-      "key": "fashion",
+      "key": "fashion_women",
       "name": "여자",
       "channels": [
         {
@@ -112,6 +112,321 @@
           "description": "- 성균관대 의상학 전공\n- 패션 의류 쇼핑몰 18년차 MD & 대표\n- 5년차 패션 유튜버 \n\n비지니스 협업 문의 📩\nsoshintv@naver.com\n",
           "avatarUrl": "https://yt3.ggpht.com/iToUaGIEkblK5C53EzHUFP1YBGRU7kdEHxv7Vx8fHdRr5YWQkicm1Efel7izKaKP-ScaNSqOkA=s800-c-k-c0x00ffffff-no-rj",
           "subscriberCount": 850000
+        }
+      ]
+    },
+    {
+      "key": "fashion_men",
+      "name": "남자",
+      "channels": [
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@패션플래닛",
+          "channelId": "UC9vu2JsuE7g-1r9HkYkOopw",
+          "title": "패션플래닛",
+          "description": "쉽게 입자! 남자 패션\n\nContact : fashion.planet@pulsecorp.co.kr\n\n",
+          "avatarUrl": "https://yt3.ggpht.com/95ntEiBl1cqqyMSoXiNCKF-x0Zkz5VgXOMpVCf6P3u5Ucn-AEYJB2R4jds7JH1lXytaBOFM=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 367000
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@Oat_Taku",
+          "channelId": "UCSpGGoQVePqgPhNOcaFh2KA",
+          "title": "회사다니는 옷타쿠",
+          "description": "제가 좋아하는 패션과 경험을 얘기합니다.\n\n비즈니스 또는 모든 문의\nsogno0216@gmail.com\n",
+          "avatarUrl": "https://yt3.ggpht.com/9ozY3BiTgejyS-eEdowTJNawBKMpRqJAtocgHePtgB3Jv_8cFtbt77_t1BKlSm5koZSu9gA-m6g=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 52600
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@패션튜브삭형",
+          "channelId": "UCJdZej-O_M69bB4M6aiiLcw",
+          "title": "패션튜브삭형",
+          "description": "✅미니멀 취향의 깔끔함을 담아 소개하겠습니다\n✅한양대학교 경영학/의류학 전공\n✅패션 트렌드, 스타일링 TIP, 쇼핑정보 꿀팁\n✅패션 초보자를 위한 옷 잘 입는법 & 아이템 추천\n\n대한민국 모든 남성들이 옷을 잘 입는 날까지 노력하겠습니다!\n",
+          "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_neit_841a8Hd8mBWlTVrFf7ZrhDJTdb25wyPPr1w2nxjE=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 237000
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@우연w",
+          "channelId": "UC8xZ195JyTVET8kUcnl1i4Q",
+          "title": "우연 WOOYEON",
+          "description": "175cm / 67kg\n\nContact: wooyeonwish@onthelook.co.kr\n",
+          "avatarUrl": "https://yt3.ggpht.com/-TBeO87KWUOwZSv87XhdCFFL0URhZjbV7yc7OL8lzRovRQCx0uRvm3koUCM5_dkHy6Cm68keJEg=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 187000
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@fitthesize",
+          "channelId": "UCKWv0ScT6PpZcpg7ivUVWLA",
+          "title": "핏더사이즈",
+          "description": "2030 남자의 라이프스타일 컨텐츠를 다루는 채널입니다",
+          "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_nlnrtH750xT2CLOLRSz0fSpnRF1sObSQmBOiJdJ286Hf8=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 751000
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@tubeot",
+          "channelId": "UCe1uwdbYEuFHjVzEIwDZBAA",
+          "title": " 옷튜브 Ι 쉬운 남자패션",
+          "description": "영상 추천제품 아래에 있습니다 클릭하세요!\n\n\n",
+          "avatarUrl": "https://yt3.ggpht.com/7IAWD8MCmnSL_v902Fkj73dz-xu0uoM-hcmzKB3ahUDxLa_G493-2WwoGDNv3fYnHRkOt1QH=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 31300
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@Junos-Style",
+          "channelId": "UCwDk93ghDNt3zbOjwq2z7kg",
+          "title": "주노쓰 JUNO 's",
+          "description": "주노쓰의 브이로그 패션 스타일 채널\n\n\n#패션 \n#브이로그\n#남자코디 \n#남자패션 \n\n\n\n",
+          "avatarUrl": "https://yt3.ggpht.com/k_d1qpGI-2cA1YMuW2bSbqc7BLdV7QZcMMOBXYXjr8UIfiJ1sy7V_2YiGv_B2qkC3U5O76jukUU=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 83500
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@Nerdking_NEP",
+          "channelId": "UCWgkZKlOeBTlO9H1y5tb-PQ",
+          "title": "너드킹 Nerd King",
+          "description": "너드들의 희망 교과서를 지향하는 너드탈출프로젝트! 남성 패션유튜브 채널! \n\n✉️비지니스 문의 : nerdking.nep@gmail.com",
+          "avatarUrl": "https://yt3.ggpht.com/BYU87OGJXvpzKs8c-3h8058LafSCwi_OS2hJwaobt4NxxWm46jN-ENps8RjjSfUo7luMgX9Dm1E=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 63800
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@진격의중년",
+          "channelId": "UCAh91oMMTGuD0rdGfvFNEFA",
+          "title": "진격의중년 - 패션으로 달라지다",
+          "description": "중년남성을 위한 실용적인 패션 스타일링 채널, 진격의 중년.\n무대 의상 디자이너로 22년간 활동한 의상학 전공자가\n중년 남성의 체형과 분위기에 맞는 ‘존재감 있는 스타일’을 제안합니다.\n\n무대에서 옷은 단순한 의상이 아니라, 사람의 존재를 드러내는 언어였습니다.\n그 경험을 바탕으로, 이제는 무대가 아닌 여러분의 일상 속에서\n‘보이는 멋’이 아닌 ‘느껴지는 품격’을 완성해드립니다.\n\n진격의 중년 스타일링은\n✔ 체형을 보완하는 비율 중심 코디\n✔ 인상과 분위기에 어울리는 현실적 조합\n✔ 과하지 않은 세련됨, 덜어내는 멋\n을 핵심으로 합니다.\n\n비싼 옷이 아니어도, 화려하지 않아도\n자신에게 맞는 균형과 분위기를 찾는 것이 진짜 스타일입니다.\n지금보다 더 괜찮은 ‘나’를 만나고 싶다면,\n진격의 중년과 함께하세요.\n\n👔 주요 콘텐츠\n* 40~60대 남성 체형별 스타일링\n* 비율 좋아보이는 남자 코디 공식\n* 브랜드 비교 & 현실적 코디 팁\n* 중년 남성 패션 실수 피하는 법\n",
+          "avatarUrl": "https://yt3.ggpht.com/JsMJC7hfqbkOhK1mW6kiqgzuha2NMnPj4z7tChvZ0U6aBUSUcUpwNup0oEg7HLYR7dH3YjczUyw=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 10300
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@탈패션FASHION",
+          "channelId": "UCvz69hskxi36eFq0rzUj_PA",
+          "title": "탈패션 FASHION",
+          "description": "멤버십 가입 & 오래입는 가성비 옷 추천\n탈패션 FASHION 보물찾기\n\nbusiness : talfashionoffice@gmail.com\n",
+          "avatarUrl": "https://yt3.ggpht.com/-LMB1QvwebGgZGnkB8hXvwpE7odYIHCGs_mJFYyZsQZqHRofE_YXw8Q2mjxkY52H0xMF67NCAg=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 146000
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@깡스타일리스트",
+          "channelId": "UC8a6z7i9qypp9PqJ_0HhBrw",
+          "title": "깡스타일리스트",
+          "description": "관리하는 남자 스타일리스트 '깡' 입니다. \n패션과 헤어 관리에 미쳐 있으며, \n남자에 관한 모든것을 리뷰하고 진심으로 영상을 만듭니다. \n\n#패션\n#그루밍\n#헤어\n#브이로그 \n\n",
+          "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_nMCxF-upAvw_U-9gLBjDf1YhmmKpnJ6RpJRHj4-sGQ2g=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 1180000
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@ClassyTV",
+          "channelId": "UCJCNS4-1Bff7H2fzuUCZzig",
+          "title": "클래씨 ClassyTV",
+          "description": "시간이 지나도 가치가 변하지 않는 것들을 리뷰합니다.\nMen's Lifestyle / Fashion / Grooming / Manners 컨텐츠를 통해\n'모든 남자의 자신감'을 책임지는 크리에이터입니다🎬\n\n📧jswk3@naver.com\n",
+          "avatarUrl": "https://yt3.ggpht.com/ppjjPWawLhC1WiZRofJw5Y6J1uj1huyhyLNIUlsakqFTXR1vApwzeH3VXNcoQuPJxvwI7vSRuQ=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 536000
+        }
+      ]
+    },
+    {
+      "key": "cosmetics",
+      "name": "화장품",
+      "channels": [
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@Minning",
+          "channelId": "UCiAzDHGJTIjlXZZKj9aErWw",
+          "title": "미닝 Minning",
+          "description": "뷰티•패션 덕후의 꿀정보 공유💖 퍼스널컬러자격증 보유/봄라이트\n♡✧。°₊·ˈ∗♡∗ˈ‧₊°。✧♡。°₊·ˈ∗♡∗ˈ‧₊°。✧♡\n\n봄라이트•뷰티•패션•꿀팁&추천템•일상\n퍼스널컬러 컨설턴트 자격증 보유\n정샘물아카데미 수료\n\n❣︎ Instagram @min.ing\n💌 minning@waffent.com\n\n안녕하세요! 크리에이터 미닝입니다 :^)\n다양한 뷰티 컨텐츠와 더불어 일상,\n제가 좋아하는 모든 것들을 담아가고 있어요!\n꼼꼼함, 세심함을 기반으로 한 많은 정보들과 함께\n저의 항상 밝고 발랄한 모습, 털털한 모습 속 친근한 매력을\n느낄 수 있는 영상으로 찾아올게요💖\n\n오늘도 우리 의미있는 하루 보내요! \n\n언제나 여러분과 활발하게 소통하고 싶은 미닝입니당\n구독과 댓글부탁드리고 SNS도 놀러오세요😊\n\n\n\n",
+          "avatarUrl": "https://yt3.ggpht.com/weQok8LxpChOHtrC6RIwFoCtjuL0PzK1eq9F2LYJJt5fFeKackvR2DjF4ytWzFQWYiuY2ByMWg=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 58100
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@happyrimmakeup",
+          "channelId": "UCvOA4iVyEXF_W-YkzAACtrA",
+          "title": "Happyrim혜림쌤",
+          "description": "@happyrim  혜림쌤과 함께하는 makeup",
+          "avatarUrl": "https://yt3.ggpht.com/_pgZSYJD8ZlIR-P6kXwQpW2KdBLpMs_QS7GojhaJB2Kq_FZs6Zs0dfpwh9SI2yKuoLkVc7_N=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 274000
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@hyerim_official",
+          "channelId": "UCYuMEcmNpz03jmS9DSNJexw",
+          "title": "혜리미 HYERIMI",
+          "description": "뷰티리뷰 · 메이크업 · 청담샵 · ASMR · 여행 · 패션까지 🎀\n*⁀➷ hyerimiofficial@naver.com\n\n˚₊·—̳͟͞͞♡ 혜림시티 캡틴 스피킹 ✈\n평범함은 거부하는 다채로운 자아의 소유자, 혜리미⋰˚✩\n오늘은 청담에서, 내일은 세계 어딘가에서—\n신상 뷰티템 리뷰부터 메이크업 · 패션 · ASMR · 여행까지,\n저만의 취향을 찾아가는 여정에 초대합니다\n\n",
+          "avatarUrl": "https://yt3.ggpht.com/NoCuWPaIZ3-B9Mx2k5J6tOMuCLIgvV5SBTtQEIitGNgj4eGBMq_SsFu46HqJwUbt-sXu2tmC3A=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 73100
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@세이영Sayyoung",
+          "channelId": "UCcM_RMZxkIiSmnjx_hOKkDQ",
+          "title": "세이영Sayyoung",
+          "description": "세이영과 함께 취향을 발견하는 공간🧐\n명품ㅣ향수ㅣ뷰티 리뷰함니당~~~\n\n💌인스타 @saennng\n💌협찬 및 광고 문의 sayyoung.official@gmail.com",
+          "avatarUrl": "https://yt3.ggpht.com/ToerTTqu3HPzsQxtNKke0XLKc-LFcujTB8mxvaA-cjFRIVWCrbRHXGSHP0tgs-rE9JlX15RkZA=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 55500
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@jaymeeforyou",
+          "channelId": "UClJNgnMWzvEzJuLcpH7m4vQ",
+          "title": "제이미포유 Jaymeeforyou",
+          "description": "너네를 웃게하는 난 뷰티유튜버계의 요정",
+          "avatarUrl": "https://yt3.ggpht.com/46ybCxWFd4D-h_ZjhHPiKusM7DOJxAfovsUIj8u0IEAIEvRfpr3NtV7sVKYDNBkcSDsN29X1=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 410000
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@you_needn",
+          "channelId": "UC57_jVZTM427hTqYMXf7utA",
+          "title": "You need 윤이든",
+          "description": "안녕하세요. 뷰티 크리에이터 윤이든입니다 : )\n\nE-mail : youneedn@lefericreator.com\n\ninstagram : you_needn_",
+          "avatarUrl": "https://yt3.ggpht.com/HL5fWvLmtqaKskzurEP-WcSWjixBBwbuxwzOv2C53wn403V_uZHUrawJpZfw6DW04mOSHlo5FA=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 218000
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@ANDA",
+          "channelId": "UCn_fZLXut_Tj9-QihG_9l0g",
+          "title": "안다 ANDA",
+          "description": "멋쟁이 뷰튜버 ⸝⋆⊹🩰\n\n📧 anda960518@gmail.com\n*비즈니스는 해당 메일로만 진행합니다",
+          "avatarUrl": "https://yt3.ggpht.com/A3h2vP4Z6pbOaHYiLx0D4Qf2V-hkV5NIYDjqBBnCNYcI2bBC0AItnJ6ZT-1_NPUj-c5sIzisnw=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 1540000
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@ssaybeauty",
+          "channelId": "UC5BqeEsHJnYM4O4xvWJK3Cg",
+          "title": "쎄이 SSAY",
+          "description": "다이소 뷰티&올리브영 신상리뷰•뷰티 꿀팁 맛집✨\n전직 뷰티마케터 출신💻\n23호 가을뮤트🍂\n\ncontact📩sehui413@naver.com\ninsta @ssay_bbu",
+          "avatarUrl": "https://yt3.ggpht.com/fGjgxOoe90RiuV96ecoeU7a2ble_0pcvbcnUOLtLkuTRhV-exArIF8j-M3UMgOpl_IomUXiJUg=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 6100
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@mongx2kim",
+          "channelId": "UCoCxuPrH7NwbBprRjSD2IKw",
+          "title": "호기심대장 김몽몽  𝐦𝐨𝐧𝐠𝐦𝐨𝐧𝐠",
+          "description": "궁금한건 절대 못참음👊🏻 \n천방지축 어리둥절 빙글빙글 돌아가는 김몽몽 채널💥\n\n💌Business: mongx2kim@gmail.com\nInstagram : @mongx2__e\n",
+          "avatarUrl": "https://yt3.ggpht.com/ANXRkgNL89YcPVVZchoI4EeepIkUrW70auCHqo2DENoTpvUhQAxUJ_jqOolv0MwJgsi-0sa33g=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 25400
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@중년뷰티_결Gyul",
+          "channelId": "UCNTQXQgt-O3jPeEV7JwhOKA",
+          "title": "중년뷰티 결Gyul",
+          "description": "전직 20년차 승무원, 지금은 뷰티 유튜버 ⭐\n여자들의 평생 숙제를 쉽고 확실하게 알려드려요! 💕\n",
+          "avatarUrl": "https://yt3.ggpht.com/b0LR_3RE3NI-3lghjN3A-RSLRSWGzBNS2kSmuCTOiHDK_CKpa18EsuKf_XFqBekRqD7d9qeACSI=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 38300
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@shinechorong",
+          "channelId": "UCTICUvHPtv381x-mXoZt7eQ",
+          "title": "빛초롱 chorong",
+          "description": "안녕하세요♡\n10대 크리에이터 윤빛초롱이라고 합니다!\n채널에 방문해주셔서 감사드려요₊˚⊹ ᰔ\n\n인스타그램_ @choro_ng.137\n\n문의♡\nshinechorong@treasurehunter.co.kr",
+          "avatarUrl": "https://yt3.ggpht.com/yKpl7-o50uyO8jhKXYb3Y9IOKzV_yWwl0vJUeTQOrL-zL5y5jrIEoeBW0URnrLaF-aenuiBM=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 188000
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@pibutenten",
+          "channelId": "UCxA9k7UJz50ZJPa5aUGf7fw",
+          "title": "피부가 예뻐지는 10분 · 피부텐텐",
+          "description": "피부과 전문의가 전하는 예뻐지는 정보!\n피부에 대한 모든 것을\n알기 쉽고 재미있게 전달해드립니다. \n피부가 예뻐지는 10분 · 피부텐텐 입니다!\n\n#피부에진심을담다 #피부에대한모든것 #피부과전문의\n",
+          "avatarUrl": "https://yt3.ggpht.com/PefAMGaUv-o7M01_0sDVjYqjE0WhQ7KJ_Y-VMMS5FZjz3bygNH_RQ7iHz-z8QuGOq-HhdSlQihc=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 326000
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@beautyacne_inssi",
+          "channelId": "UCrlUlicedicJ5mlibqC62Eg",
+          "title": "뷰드름 유튜버 인씨",
+          "description": "@incworld 트러블+모공+요철, 현실적인 피부고민을 갖고 있어요🤍\nincworld@goldenwhales.co.kr\n\n",
+          "avatarUrl": "https://yt3.ggpht.com/oKy1i_TqOsdpsf0fBgoPhkw3R2g98PFM_b75evkYOp7WxDdfYLgrSzEnH50bE6lF_De4CvBQEA=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 561000
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@yootrue",
+          "channelId": "UCH2mJnztSdNh8ADp2KmtUMQ",
+          "title": "Yoo True",
+          "description": "유트루의 첫번째 채널! 💄\n함께 메이크업하는 뷰티채널이에용 :)\n\n브이로그 채널 : yoovlog\n라이브 채널 : YOOTRUE ON AIR\n",
+          "avatarUrl": "https://yt3.ggpht.com/6TmTrJy7IO4AknZfn3EASdK3va1Qx8tvQLg5cvo2StdpieSXDFJjP24w7No-9DWkB3DDFdToXAY=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 591000
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@in_bora_",
+          "channelId": "UCUrCIBJ3ScRAOLgPElscZqA",
+          "title": "INBORA인보라",
+          "description": "메이크업 트렌드를 책임지는 분석메이크업 전문가💜 \n(ft.뷰티팁,패션,브이로그)\n\nmail : inbora@dmil.kr\ninsta : @in_bora_\n",
+          "avatarUrl": "https://yt3.ggpht.com/dv_57vt_azNHqyoz51Z7BqoaRiVbrznUo7yAEifICnCv6X0ITlsdj3XgFY8McI8CUekOZ71J=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 534000
+        }
+      ]
+    },
+    {
+      "key": "perfume",
+      "name": "향수",
+      "channels": [
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@danse_jin",
+          "channelId": "UCzuVLt12gtYVshSV7s-JfZQ",
+          "title": "춤추는선진이",
+          "description": "향덕 코덕 다재다능 무용과 언니 \"춤추는선진이\" 💃🏻\n향기,뷰티,일상 크리에이터 💡\n\n향기와 뷰티 꿀템 소개에 진심임..❤️\n구독하고 평생 보쟈~🫶🏻\n",
+          "avatarUrl": "https://yt3.ggpht.com/BE4d84XqrgpZQ-1AoKp6kTaMaTkvOrpWqaDl6WCb80tQeyw_hw2STxne7Cod5N-lPNvhzii-QqI=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 143000
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@ourmiji",
+          "channelId": "UC_kjGxlP5hcygXNm_WM1xiw",
+          "title": "미지의세계 MIJI",
+          "description": "향기 전문 채널",
+          "avatarUrl": "https://yt3.ggpht.com/bQLvUEbf_BNW757HHf-qCg4zOLUdOv2HQXGfObYecdKjEZyWG4C4HdT1Gt510D-WoT6s2GtHELs=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 113000
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@jayssworld/videos",
+          "channelId": "UCtmKBGPjzQzJFbhJa9klk2g",
+          "title": "제이스퍼퓸 Jayss World",
+          "description": "디자이너 & 니치 향수 전문 향튜버입니다. \n국내에 없는 니치 하우스도 많이 다루고 있어요!\n후각은 지극히 주관적인 감각 기관이고 개인의 경험에 따라 다르게 느껴지니 재밌게 봐주세요.\n많이 부족하지만 즐겨 볼 만한 향수 유튜버가 될 테니 지켜봐 주세요!\n감사합니다!\n\n\n",
+          "avatarUrl": "https://yt3.ggpht.com/_ngqgQFzTTItApkEF7gopUwjY4bwr6AimAhLFySFsYJY5WdNn8goOFNSkUa7gGiw2zj5QzmZ=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 8730
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@olnlor",
+          "channelId": "UCHu-GEtpWZn7PjxmG5sUsWg",
+          "title": "olnlor 이시아 / 시아로그",
+          "description": "❋ unboxing my taste ❋ 취향 기록장 / 향수, 스타일링, 관리, 선물추천⋆｡°✩",
+          "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_mH6OSTquz81vh5ItzNzN8lR6YfSN1OHMhmZP97NQibyQ=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 122000
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@ssensefragrance",
+          "channelId": "UCrJj3H9h8FFZHn-MIGwwT2g",
+          "title": "쎈스쟁이 ssense fragrance",
+          "description": "⚡ www.ssensefragrance.com ⚡\n\n반갑습니다 쎈스쟁이 입니다\n\n처음 시작은 향수에 대한 '갈증' 이었습니다.\n조금 더 다양한 향수를 경험 해보고 싶었고\n남들과는 '다른' 향수를 뿌리고 싶었습니다.\n\n그래서 시작한 유튜브 채널.\n우연한 기회에 파리에서 날라온 이메일.\n\n\n항상 감사드리는 구독자님들과 함께 그 짜릿한\n경험을 나누고 싶었습니다\n\n그 '갈증'을 여러분들과 같이 해소 하고자\n온라인샵을 열게 됐습니다.\n\n정말 정말 감사드립니다\n\n직접 경험해보고 느낀 향수에 대한\n정보와 이야기들을 여러분들께 솔직하게\n전달 해드리고 싶습니다.\n\n---------------------------------------------------------------------------------\n\nSITE : www.ssensefragrance.com\n\nE-MAIL : ssensefragrance@gmail.com\n\nINS : ssensefragrance\n\nCAFE : https://cafe.naver.com/ssenstyle",
+          "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_kK7EiwfIu1Qy6RG3AiI9KLgGLZB51C8wstyYHqMLXNfQ=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 73500
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@perfumedirectortom",
+          "channelId": "UCWOkVBkx4DTXvkF7N28lBZg",
+          "title": "퍼퓸디렉터 톰",
+          "description": "퍼퓸디렉터 톰과 함께 향기로운 향기의 세계로 빠져보세요!",
+          "avatarUrl": "https://yt3.ggpht.com/ijNMkdDJmX-kgeOhEBs7CQzW-0nWkRyGlRJXUwX7iBEXyl06HSR0KL3V9rGNwsn-31Un9yuIwTs=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 49600
         }
       ]
     }
