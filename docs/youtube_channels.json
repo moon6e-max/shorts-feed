@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-02-18T16:42:00.891675+09:00",
+  "generatedAt": "2026-02-18T16:48:14.058183+09:00",
   "categories": [
     {
       "key": "fashion",
-      "name": "패션",
+      "name": "여자",
       "channels": [
         {
           "enabled": true,
@@ -22,6 +22,96 @@
           "description": "따라할만한 셀럽들의 패션을 소개해요\n\n📌광고문의\n💌 snowball.celebfashion@gmail.com\n\nAICOMPANY@C7XP6K\nCONSALAD@JB44VFW\n",
           "avatarUrl": "https://yt3.ggpht.com/J-IC9w6vYzCIrnhZyfTctyaTExEwGMr1n1Tk8w6IUEGLwXqHMemM1Lehcr5dTsJ2KXlUFFCYZA=s800-c-k-c0x00ffffff-no-rj",
           "subscriberCount": 47800
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@BoraClaire",
+          "channelId": "UCSrRZH9QT6li5PIAv0r_6QA",
+          "title": "Bora Claire (보라끌레르)",
+          "description": "반가워요- 여러분😍 패션디자이너, 패션유튜버 보라끌레르입니다 ~ \n",
+          "avatarUrl": "https://yt3.ggpht.com/Fkgwu1iakB179W1GAZNt0ueUk_dFvwtrg-sU5g1NNKfYFLapNiSttrBut-3uht5SmP4yDXfvbw=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 764000
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@bitnalyoung",
+          "channelId": "UCjRvHe_g83l5XsK9XSXLAwQ",
+          "title": "빛날 영* bitnal young",
+          "description": "취향 공유 *⋆˚｡⁺ . Insta : bitnal.young ♡\n\n\n✉️ contact : bitnalyoung@lefericreator.com\n🔍 instagram : bitnal.young \n\n\n\n",
+          "avatarUrl": "https://yt3.ggpht.com/WCvd8HLHrfelZjaGaexyqVDl3-etlUBmiMde-bBoxGSqIYbwyHIru5aTAwd1z5spC9stwXDaf20=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 138000
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@로즈앤리",
+          "channelId": "UCB7dcrakJDEj-5WQMFuFGxg",
+          "title": "로즈앤리",
+          "description": "에이블리/인스타/틱톡 : “로즈앤리”\nCAP966@AICOMPANY",
+          "avatarUrl": "https://yt3.ggpht.com/KH-jDu0bGO07bKPgs9CvCwLh1j33Mvi2xQ_SoYlHIrIPMvvFU8F04a95t70FLYBbfFeTAr9rKSs=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 6790
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@jiwonlog",
+          "channelId": "UCQurgaNqT_F7MoaiMvWeHaA",
+          "title": "지원로그 jiwonlog",
+          "description": "소소하게 옷장 취향 공유해요♡\n\n𝘾𝙤𝙣𝙩𝙖𝙘𝙩 \n1234seeya@gmail.com\n\n𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢\nhttps://www.instagram.com/jionyiy\n\n🚪👀추천템 한 눈에 보기\nhttps://s.zigzag.kr/zip/jwnlog\n",
+          "avatarUrl": "https://yt3.ggpht.com/y-6QWHgtEdLyEVWOY2t2mfS4SfEujG2i_1zMuaXQLY7FCzM55rkRhbvZu7WNHK0Va5YG4b8Gow=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 28700
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@fashion_the_ssong",
+          "channelId": "UCX4P0iYaQx8YueLcn6o63Ew",
+          "title": "패션애완쏭",
+          "description": "안녕하세요 쏭자매 입니다-💗",
+          "avatarUrl": "https://yt3.ggpht.com/M1wc131mMPGYHxqqsFT1qWjbVHQsJ0cxMejO7wYOW6sP5aPWbjTitn8Sy11s8Eipbl9IBcFX=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 102000
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@bbeume",
+          "channelId": "UCNGDUa6e3zHJQqV0wkxYa6w",
+          "title": "쁨이bbeume",
+          "description": "사랑하는 것들을 공유해요₊‧˚ ‧ 🌷",
+          "avatarUrl": "https://yt3.ggpht.com/49po3jIMYEvQ8sliWoeVhT1Veak7MhzYpT5hdyLSidQ79IwrqUG1Anv5H1yiKCdTKWCEfw0ZBA=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 163000
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@hiibeen",
+          "channelId": "UCgtgC3Q2UBytpJooOCq4DJg",
+          "title": "하이빈hibeen",
+          "description": "chaechae723@naver.com",
+          "avatarUrl": "https://yt3.ggpht.com/e6g3EBCUXjWgQHycKHwQXvkwOUuUEomhwhNSvER6s5_keYF0PY653BSgMpH-MvOVviEdZRiL=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 30300
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@doyeong_2",
+          "channelId": "UCw_VHcLeiSSXA8SSk0dbwkA",
+          "title": "도영도영이",
+          "description": "패션과 여행을 사랑하는 브이로거🫧\n\nInstagram ID : doyeong_ _2\n비즈니스 문의 : doyeong222@dmil.kr",
+          "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_la4HwkxJzSNOj3ZBHNQr1CHWRVRKSaLY8KAIw0humTVHg=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 962000
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@힐썬",
+          "channelId": "UCJwKOiG9ng-JyUzoE85o1ug",
+          "title": "힐썬 _ 중년에도 예쁨주의보",
+          "description": "오늘이 예쁘기 가장 좋은 나이 ☀️\n50대, 60대에도 예쁘고 싶은 우리 엄마들을 위한 패션 이야기.\n딸과 함께 쇼핑하고, 수다 떨며 찾는 '나를 위한 옷 한 벌'\n아름다웠고 앞으로도 아름다울 당신을 위해 힐썬이 함께합니다. \n",
+          "avatarUrl": "https://yt3.ggpht.com/ANRaALpC6bxJglhqxKxUfsY_obLcm2DXW-XJeQj2BYlAm4UGcHFSpvDork1xgroPP7VQLcceO4s=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 9360
+        },
+        {
+          "enabled": true,
+          "url": "https://www.youtube.com/@소신사장",
+          "channelId": "UC_gkwRB-p1JrOzzJk7PBKDQ",
+          "title": "소신사장 SoshinTV",
+          "description": "- 성균관대 의상학 전공\n- 패션 의류 쇼핑몰 18년차 MD & 대표\n- 5년차 패션 유튜버 \n\n비지니스 협업 문의 📩\nsoshintv@naver.com\n",
+          "avatarUrl": "https://yt3.ggpht.com/iToUaGIEkblK5C53EzHUFP1YBGRU7kdEHxv7Vx8fHdRr5YWQkicm1Efel7izKaKP-ScaNSqOkA=s800-c-k-c0x00ffffff-no-rj",
+          "subscriberCount": 850000
         }
       ]
     }
