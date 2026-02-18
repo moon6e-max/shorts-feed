@@ -5,7 +5,17 @@
       "name": "여자",
       "channels": [
         { "enabled": true, "url": "https://www.youtube.com/@HEYNEE103" },
-        { "enabled": true, "url": "https://www.youtube.com/@celebfasshion" }
+        { "enabled": true, "url": "https://www.youtube.com/@celebfasshion" },
+        { "enabled": true, "url": "https://www.youtube.com/@BoraClaire" },
+        { "enabled": true, "url": "https://www.youtube.com/@bitnalyoung" },
+        { "enabled": true, "url": "https://www.youtube.com/@로즈앤리" },
+        { "enabled": true, "url": "https://www.youtube.com/@jiwonlog" },
+        { "enabled": true, "url": "https://www.youtube.com/@fashion_the_ssong" },
+        { "enabled": true, "url": "https://www.youtube.com/@bbeume" },
+        { "enabled": true, "url": "https://www.youtube.com/@hiibeen" },
+        { "enabled": true, "url": "https://www.youtube.com/@doyeong_2" },
+        { "enabled": true, "url": "https://www.youtube.com/@힐썬" },
+        { "enabled": true, "url": "https://www.youtube.com/@소신사장" }        
       ]
     }
   ]
