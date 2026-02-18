@@ -2,7 +2,7 @@
   "categories": [
     {
       "key": "fashion",
-      "name": "패션",
+      "name": "여자",
       "channels": [
         { "enabled": true, "url": "https://www.youtube.com/@HEYNEE103" },
         { "enabled": true, "url": "https://www.youtube.com/@celebfasshion" }
