@@ -43,18 +43,18 @@ jobs:
             echo "youtube_channels.json changed"
           fi
 
-      # ✅ 변경된 경우에만 rev_ops.txt 의 yt_channels= +1
+      # ✅ rev_ops.txt에 yt_channels 키가 없으면 '최초 1회'로 추가 (변경 없어도 수행)
       - name: Ensure yt_channels key exists in rev_ops.txt
         shell: bash
         run: |
           FILE="docs/rev_ops.txt"
           mkdir -p docs
-      
+
           # 파일 없으면 생성
           if [ ! -f "$FILE" ]; then
             printf "banners=0\npromo=0\nig_creators=0\ntt_creators=0\nevent_popup=0\nshorts=0\nyt_channels=0\n" > "$FILE"
           fi
-      
+
           # yt_channels 라인이 없으면 추가
           if ! grep -qE '^yt_channels=' "$FILE"; then
             echo "yt_channels=0" >> "$FILE"
@@ -62,3 +62,45 @@ jobs:
           else
             echo "yt_channels already exists"
           fi
+
+          echo "---- rev_ops.txt (after ensure) ----"
+          cat "$FILE"
+
+      # ✅ youtube_channels.json이 실제로 바뀐 경우에만 yt_channels 값을 +1
+      - name: Bump yt_channels rev in rev_ops.txt (only if youtube_channels.json changed)
+        if: steps.diff.outputs.changed == 'true'
+        shell: bash
+        run: |
+          FILE="docs/rev_ops.txt"
+
+          # grep 매칭 실패해도 죽지 않게 || true
+          Y=$(grep -E '^yt_channels=' "$FILE" | head -n1 | cut -d= -f2 || true)
+          Y=${Y:-0}
+          NEW=$((Y+1))
+
+          if grep -qE '^yt_channels=' "$FILE"; then
+            sed -i "s/^yt_channels=.*/yt_channels=${NEW}/" "$FILE"
+          else
+            echo "yt_channels=${NEW}" >> "$FILE"
+          fi
+
+          echo "yt_channels rev => ${NEW}"
+          echo "---- rev_ops.txt (after bump) ----"
+          cat "$FILE"
+
+      # ✅ youtube_channels.json 또는 rev_ops.txt 둘 중 하나라도 바뀌면 커밋/푸시
+      - name: Commit and push if changed (youtube_channels.json or rev_ops.txt)
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add docs/youtube_channels.json docs/rev_ops.txt
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Update youtube_channels.json (ensure/bump yt_channels rev)"
+          git push
