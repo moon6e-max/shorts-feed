@@ -7166,19 +7166,6 @@
     "priority": 89
   },
   {
-    "title": "모던이프",
-    "sub": "남성 미니멀 캐주얼 의류 브랜드",
-    "url": "http://modernif.co.kr/",
-    "packageName": "com.cafe24.ec.plusaffirm2104",
-    "logoText": "Modernif",
-    "logoUrl": "",
-    "mode": "MEN",
-    "tabKey": "MEN_TRENDY",
-    "path": "남자 > 트렌디",
-    "enabled": true,
-    "priority": 89
-  },
-  {
     "title": "윌슨",
     "sub": "테니스·스포츠 전문 장비 & 의류몰",
     "url": "https://kr.wilson.com/",
