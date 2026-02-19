@@ -1,5 +1,19 @@
 [
   {
+    "title": "썸모어힐",
+    "sub": "꾸미지 않아도 완성되는 미니멀 무드",
+    "url": "https://m.somemorehill.co.kr/",
+    "packageName": "",
+    "logoText": "somemorehill",
+    "logoUrl": "",
+    "mode": "WOMEN",
+    "tabKey": "WOMEN_30S",
+    "path": "여자 > 30대",
+    "enabled": true,
+    "spin": true,
+    "priority": 739
+  },
+  {
     "title": "잇웨어리브",
     "sub": "미리준비하는 계절 코디",
     "url": "https://eatwearlive.co.kr/",
