@@ -1,5 +1,19 @@
 [
   {
+    "title": "파인땡큐",
+    "sub": "데일리룩부터 깔끔한 하객룩까지",
+    "url": "https://fine-thankyou.com/",
+    "packageName": "com.finethankyou.byapps",
+    "logoText": "Finethankyou",
+    "logoUrl": "",
+    "mode": "WOMEN",
+    "tabKey": "WOMEN_30S",
+    "path": "여자 > 30대",
+    "enabled": true,
+    "spin": true,
+    "priority": 619
+  },
+  {
     "title": "썸모어힐",
     "sub": "꾸미지 않아도 완성되는 미니멀 무드",
     "url": "https://m.somemorehill.co.kr/",
