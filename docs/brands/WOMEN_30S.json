@@ -319,6 +319,17 @@
     "priority": 730
   },
   {
+    "title": "악녀일기",
+    "sub": "대한민국 악녀들을 위한 패션 다이어리",
+    "url": "https://baddiary.com/",
+    "packageName": "kr.co.smartskin.minhye3",
+    "logoText": "aknyeoilgy",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 729
+  },
+  {
     "title": "어반라인",
     "sub": "절제된 디자인으로 완성한 데일리 아우터 셀렉션",
     "url": "https://urban-line.co.kr/",
