@@ -184,5 +184,36 @@
       { "title": "애기 엄마지만 이쁘게 입고싶어요 💖", "url": "https://www.instagram.com/reel/DQLVF5Zknvd/", 
         "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all9.png" }
          ]
+  },
+  {
+    "platform": "Instagram",
+    "key": "ig_finethankyou_official",
+    "name": "finethankyou",
+    "sub": "하객룩, 데일리룩 | 파인땡큐(finethankyou)",
+    "openProfileEnabled": true,
+    "openProfileText": "SHOP 바로가기",
+    "openProfileUrl": "https://fine-thankyou.com/",
+    "profileUrl": "https://www.instagram.com/finethankyou_official/reels/",
+    "avatarUrl": "https://moon6e-max.github.io/shorts-feed/images/allw.png",
+    "featured": [
+      { "title": "귀여운 후쿠오카 코디 모아보기🐻🤍🤍", "url": "https://www.instagram.com/reel/DBbZB3iqX63/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all1.png" },
+      { "title": "주문폭주인 “청순실크밴딩팬츠” 영상으로 만나보세요🤍🕊️", "url": "https://www.instagram.com/reel/DKY1YrqO95F/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all2.png" },
+      { "title": "3주째 판매 1위 중인 블라우스! 주문량 미쳤어요.. :)", "url": "https://www.instagram.com/reel/DUsvEmjiYdE/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all3.png" },
+      { "title": "소피 치즈밴딩스커트 오픈!!🧀💌🖤", "url": "https://www.instagram.com/reel/DUo0792ElRd/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all4.png" },
+      { "title": "개인적으루 너무 맘에 든 코디💭🤍🫶🏻", "url": "https://www.instagram.com/reel/DUU-r2JidhF/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all5.png" },
+      { "title": "에겐녀는 이렇게 입어🦢🤍", "url": "https://www.instagram.com/reel/DUPz7nIiV_W/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all6.png" },
+      { "title": "주문폭주중인 삿포로코디☃️", "url": "https://www.instagram.com/reel/DSUSkrYCWEk/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all7.png" },
+      { "title": "핏 예쁘게 사는 윈터 코디법 ❄️✨", "url": "https://www.instagram.com/reel/DRwPZmhiWrF/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all8.png" },
+      { "title": "🫶🏻한 번 보면 평생 써먹는 컬러 조합 코디 모음zip💌", "url": "https://www.instagram.com/reel/DQqq8KBkvNO/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all9.png" }
+         ]
   }
 ]
