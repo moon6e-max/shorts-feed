@@ -3,3 +3,4 @@ promo=23
 ig_creators=28
 tt_creators=19
 event_popup=3
+shorts=1
