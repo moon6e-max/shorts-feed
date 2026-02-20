@@ -12,16 +12,7 @@
   "path": "월드 > 명품",
   "alias": "Kenzo 겐조",
   
-  "photos": [
-  "https://moon6e-max.github.io/shorts-feed/images/all1.png",
-  "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20191008_72%2F1570504946643NdXcC_JPEG%2F7865685276437806_1676792589.jpg&type=sc960_832",
-    "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20191008_72%2F1570504946643NdXcC_JPEG%2F7865685276437806_1676792589.jpg&type=sc960_832",
-    "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20191008_72%2F1570504946643NdXcC_JPEG%2F7865685276437806_1676792589.jpg&type=sc960_832",
-    "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20191008_72%2F1570504946643NdXcC_JPEG%2F7865685276437806_1676792589.jpg&type=sc960_832",
-    "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20191008_72%2F1570504946643NdXcC_JPEG%2F7865685276437806_1676792589.jpg&type=sc960_832",
-    "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20191008_72%2F1570504946643NdXcC_JPEG%2F7865685276437806_1676792589.jpg&type=sc960_832",
-    "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20191008_72%2F1570504946643NdXcC_JPEG%2F7865685276437806_1676792589.jpg&type=sc960_832"
-],
+  "photos": [],
 
     
   "enabled": true,
@@ -39,7 +30,7 @@
     "logoText": "Goyard",
     "logoUrl": "",
 
-    "photos": ["https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20191008_72%2F1570504946643NdXcC_JPEG%2F7865685276437806_1676792589.jpg&type=sc960_832"],
+    "photos": [],
 
     "enabled": true,
     "priority": 99,
