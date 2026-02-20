@@ -1,7 +1,5 @@
 banners=36
 promo=23
-ig_creators=27
+ig_creators=28
 tt_creators=19
 event_popup=3
-yt_channels=1
-shorts=1
