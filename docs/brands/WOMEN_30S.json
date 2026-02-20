@@ -451,6 +451,17 @@
     "priority": 620
   },
   {
+    "title": "파인땡큐",
+    "sub": "데일리룩부터 깔끔한 하객룩까지",
+    "url": "https://fine-thankyou.com/",
+    "packageName": "com.finethankyou.byapps",
+    "logoText": "fine-thankyou",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 619
+  },
+  {
     "title": "플러스플러스",
     "sub": "편안한 핏과 실용성을 강조한 데일리 코디",
     "url": "https://www.plusplus.kr/index.html",
