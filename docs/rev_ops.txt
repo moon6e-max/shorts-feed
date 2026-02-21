@@ -1,6 +1,5 @@
 banners=36
 promo=23
-ig_creators=29
+ig_creators=30
 tt_creators=19
 event_popup=3
-shorts=1
