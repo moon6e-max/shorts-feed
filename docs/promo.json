@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "type": "종 이 상 자",
-  "chip": "튼튼한 수제 키링",
-  "title": "페이퍼 키링",
-  "desc": "가볍고 튼튼한 핸드메이드 키링(주문제작 가능!)",
+  "type": "S H E I N",
+  "chip": "✨ 요즘 인기 패션",
+  "title": "지금 많이 찾는 스타일",
+  "desc": "합리적인 가격으로 지금 쇼핑하기!",
   "primaryText": "자세히 보기",
   "secondaryText": "닫기",
   "action": "OPEN_URL",
