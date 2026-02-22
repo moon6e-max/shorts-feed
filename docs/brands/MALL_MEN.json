@@ -11,17 +11,6 @@
     "priority": 1000
   },
   {
-    "title": "사구일공",
-    "sub": "패션이 쉬워지는 순간",
-    "url": "https://4910.kr/",
-    "packageName": "com.ablycorp.aglo",
-    "logoText": "4910",
-    "logoUrl": "",
-    "photos": [],
-    "enabled": true,
-    "priority": 1000
-  },
-  {
     "title": "H패션몰",
     "sub": "감각적 셀렉션으로 완성하는 패션 큐레이션",
     "url": "https://www.hfashionmall.com/",
@@ -253,6 +242,17 @@
     "priority": 790
   },
   {
+    "title": "사구일공",
+    "sub": "패션이 쉬워지는 순간",
+    "url": "https://4910.kr/",
+    "packageName": "com.ablycorp.aglo",
+    "logoText": "4910",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 1000
+  },
+  {
     "title": "숲몰",
     "sub": "남녀 의류를 함께 취급하는 온라인 쇼핑몰",
     "url": "https://www.soupmall.co.kr/",
@@ -266,13 +266,14 @@
   {
     "title": "쉬인",
     "sub": "다양한 스타일을 감각적으로 만나는 글로벌 공간",
-    "url": "https://kr.shein.com/",
+    "url": "https://bitl.bz/Jq4miL",
     "packageName": "com.zzkko",
     "logoText": "Shein",
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 770
+    "badge": "hot",
+    "priority": 1001
   },
   {
     "title": "스타일24",
