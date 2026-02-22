@@ -3140,8 +3140,6 @@
     "tabKey": "MW",
     "path": "남&녀 > 공용",
     "enabled": true,
-    "hot": true,
-    "hotRank": 109,
     "priority": 96
   },
   {
@@ -8216,8 +8214,6 @@
     "tabKey": "MW",
     "path": "남&녀 > 공용",
     "enabled": true,
-    "hot": true,
-    "hotRank": 108,
     "priority": 87
   },
   {
@@ -9221,8 +9217,6 @@
     "tabKey": "MW",
     "path": "남&녀 > 공용",
     "enabled": true,
-    "hot": true,
-    "hotRank": 107,
     "priority": 85
   },
   {
@@ -11507,8 +11501,6 @@
     "tabKey": "WOMEN_PETITE",
     "path": "여자 > 키작녀",
     "enabled": true,
-    "hot": true,
-    "hotRank": 106,
     "priority": 80
   },
   {
@@ -12477,7 +12469,7 @@
   {
     "title": "쉬인",
     "sub": "다양한 스타일을 감각적으로 만나는 글로벌 공간",
-    "url": "https://kr.shein.com/",
+    "url": "https://bitl.bz/Jq4miL",
     "packageName": "com.zzkko",
     "logoText": "Shein",
     "logoUrl": "",
@@ -12485,6 +12477,9 @@
     "tabKey": "MALL_MEN",
     "path": "쇼핑몰 > 브랜드몰",
     "enabled": true,
+    "spin": true,
+    "hot": true,
+    "hotRank": 109,
     "priority": 77
   },
   {
