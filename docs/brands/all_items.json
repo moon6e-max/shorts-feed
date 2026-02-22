@@ -94,8 +94,6 @@
     "tabKey": "WOMEN_20S",
     "path": "여자 > 20대",
     "enabled": true,
-    "hot": true,
-    "hotRank": 110,
     "priority": 879
   },
   {
@@ -11062,6 +11060,9 @@
     "tabKey": "SPORTS_BRAND",
     "path": "월드 > 스포츠",
     "enabled": true,
+    "spin": true,
+    "hot": true,
+    "hotRank": 110,
     "priority": 81
   },
   {
