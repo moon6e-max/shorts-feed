@@ -1,5 +1,19 @@
 [
   {
+    "title": "파페치",
+    "sub": "전 세계에서 매일 새롭게 도착하는 피스를 파페치에서 만나보세요",
+    "url": "https://lase.kr/click.php?m=farfetch&a=A100702784&l=0000",
+    "packageName": "com.farfetch.farfetchshop",
+    "logoText": "Farfetch",
+    "logoUrl": "",
+    "mode": "MALL",
+    "tabKey": "MALL_UNISEX",
+    "path": "셀렉트샵 > 편집샵",
+    "enabled": true,
+    "spin": true,
+    "priority": 710
+  },
+  {
     "title": "렌즈뱅크",
     "sub": "원데이 아큐브 디파인 바슈롬 알콘 일회용렌즈",
     "url": "https://lase.kr/click.php?m=lensbank&a=A100702784&l=0000",
