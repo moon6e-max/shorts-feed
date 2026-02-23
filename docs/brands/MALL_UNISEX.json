@@ -472,8 +472,9 @@
     "url": "https://lase.kr/click.php?m=hbx&a=A100702784&l=0000",
     "packageName": "com.hypebeast.editorial",
     "logoText": "Hypebeast",
-    "logoUrl": "",
-    "photos": [],
+    "logoUrl": "https://moon6e-max.github.io/shorts-feed/images/hbx1.jpg",
+    "photos": ["https://moon6e-max.github.io/shorts-feed/images/hbx2.jpg",
+    "https://moon6e-max.github.io/shorts-feed/images/hbx3.jpg"],
     "enabled": true,
     "badge": "HOT",
     "priority": 1009
