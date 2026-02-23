@@ -1,5 +1,19 @@
 [
   {
+    "title": "포스티",
+    "sub": "백화점 브랜드 패션 쇼핑몰",
+    "url": "https://lase.kr/click.php?m=posty&a=A100702784&l=0000",
+    "packageName": "com.kakaostyle.posty",
+    "logoText": "Posty",
+    "logoUrl": "https://moon6e-max.github.io/shorts-feed/images/posty1.png",
+    "mode": "MALL",
+    "tabKey": "MALL_MEN",
+    "path": "셀렉트샵 > 쇼핑몰",
+    "enabled": true,
+    "spin": true,
+    "priority": 729
+  },
+  {
     "title": "악녀일기",
     "sub": "대한민국 악녀들을 위한 패션 다이어리",
     "url": "https://baddiary.com/",
