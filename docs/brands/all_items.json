@@ -1,10 +1,24 @@
 [
   {
+    "title": "하입비스트",
+    "sub": "글로벌 패션 & 라이프스타일",
+    "url": "https://lase.kr/click.php?m=hbx&a=A100702784&l=0000",
+    "packageName": "com.hypebeast.editorial",
+    "logoText": "Hypebeast",
+    "logoUrl": "",
+    "mode": "MALL",
+    "tabKey": "MALL_UNISEX",
+    "path": "셀렉트샵 > 편집샵",
+    "enabled": true,
+    "spin": true,
+    "priority": 959
+  },
+  {
     "title": "베네통",
     "sub": "가볍게 바뀌는 계절, 새로운 스타일",
     "url": "https://lase.kr/click.php?m=benetton1&a=A100702784&l=0000",
     "packageName": "com.benetton.bntmall",
-    "logoText": "",
+    "logoText": "Benetton",
     "logoUrl": "",
     "mode": "UNISEX",
     "tabKey": "MW",
