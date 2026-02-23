@@ -419,6 +419,20 @@
     "priority": 640
   },
   {
+    "title": "포스티",
+    "sub": "백화점 브랜드 패션 쇼핑몰",
+    "url": "https://lase.kr/click.php?m=posty&a=A100702784&l=0000",
+    "packageName": "com.kakaostyle.posty",
+    "logoText": "Posty",
+    "logoUrl": "https://moon6e-max.github.io/shorts-feed/images/posty1.png",
+    
+    "photos": ["https://moon6e-max.github.io/shorts-feed/images/posty2.jpg",
+                "https://moon6e-max.github.io/shorts-feed/images/posty3.jpg"],
+    
+    "enabled": true,
+    "priority": 630
+  },
+  {
     "title": "패션플러스",
     "sub": "다양한 스타일을 감각적으로 제안하는 플랫폼",
     "url": "https://www.fashionplus.co.kr/",
