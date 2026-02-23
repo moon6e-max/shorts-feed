@@ -18,9 +18,7 @@
   "enabled": true,
   "priority": 100,
   "showImages": false,
-  "showGuideBox": true,
-
-  "badge": "NEW"
+  "showGuideBox": true
   },
   {
     "title": "고야드",
@@ -33,8 +31,7 @@
     "photos": [],
 
     "enabled": true,
-    "priority": 99,
-    "badge": "SELECT"
+    "priority": 99
   },
   {
     "title": "구찌",
@@ -47,8 +44,7 @@
     "photos": [],
 
     "enabled": true,
-    "priority": 98,
-    "badge": "PICK"
+    "priority": 98
     
   },
     {
@@ -62,8 +58,7 @@
   "enabled": true,
   "priority": 97,
   "mode": "WORLD",
-  "tabKey": "LUXURY_BRAND",
-  "badge": "TREND"
+  "tabKey": "LUXURY_BRAND"
 },
   {
     "title": "끌로에",
