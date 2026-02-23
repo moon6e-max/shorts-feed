@@ -368,11 +368,11 @@
     "url": "https://lase.kr/click.php?m=farfetch&a=A100702784&l=0000",
     "packageName": "com.farfetch.farfetchshop",
     "logoText": "Farfetch",
-    "logoUrl": "https://moon6e-max.github.io/shorts-feed/images/posty1.jpg",
+    "logoUrl": "https://moon6e-max.github.io/shorts-feed/images/farfetch1.jpg",
     
-    "photos": ["https://moon6e-max.github.io/shorts-feed/images/posty2.jpg",
-    "https://moon6e-max.github.io/shorts-feed/images/posty3.jpg",
-    "https://moon6e-max.github.io/shorts-feed/images/posty4.jpg"],
+    "photos": ["https://moon6e-max.github.io/shorts-feed/images/farfetch2.jpg",
+    "https://moon6e-max.github.io/shorts-feed/images/farfetch3.jpg",
+    "https://moon6e-max.github.io/shorts-feed/images/farfetch4.jpg"],
     
     "enabled": true,
     "badge": "HOT",
