@@ -60,8 +60,13 @@
     "url": "https://lase.kr/click.php?m=benetton1&a=A100702784&l=0000",
     "packageName": "com.benetton.bntmall",
     "logoText": "Benetton",
-    "logoUrl": "",
-    "photos": [],
+    "logoUrl": "https://moon6e-max.github.io/shorts-feed/images/benetton1.png",
+    
+    "photos": ["https://moon6e-max.github.io/shorts-feed/images/benetton2.jpg",
+    "https://moon6e-max.github.io/shorts-feed/images/benetton3.jpg",
+    "https://moon6e-max.github.io/shorts-feed/images/benetton4.jpg",
+    "https://moon6e-max.github.io/shorts-feed/images/benetton5.jpg"],
+    
     "enabled": true,
     "badge": "HOT",
     "priority": 959
