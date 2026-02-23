@@ -1,5 +1,19 @@
 [
   {
+    "title": "렌즈뱅크",
+    "sub": "원데이 아큐브 디파인 바슈롬 알콘 일회용렌즈",
+    "url": "https://lase.kr/click.php?m=lensbank&a=A100702784&l=0000",
+    "packageName": "",
+    "logoText": "Lensbank",
+    "logoUrl": "",
+    "mode": "HAT_HAIR_ACC",
+    "tabKey": "CONTACT_LENS",
+    "path": "패션잡화 > 렌즈",
+    "enabled": true,
+    "spin": true,
+    "priority": 101
+  },
+  {
     "title": "포스티",
     "sub": "백화점 브랜드 패션 쇼핑몰",
     "url": "https://lase.kr/click.php?m=posty&a=A100702784&l=0000",
