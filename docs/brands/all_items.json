@@ -7438,11 +7438,11 @@
     "priority": 88
   },
   {
-    "title": "클리오클럽",
+    "title": "클럽클리오",
     "sub": "클리오 공식 브랜드몰",
     "url": "https://clubclio.co.kr/",
     "packageName": "witplus.clio.starter",
-    "logoText": "Club\nClio",
+    "logoText": "ClubClio",
     "logoUrl": "",
     "mode": "COSMETICS",
     "tabKey": "BEAUTY_MALL",
