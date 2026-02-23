@@ -428,9 +428,9 @@
     
     "photos": ["https://moon6e-max.github.io/shorts-feed/images/posty2.jpg",
                 "https://moon6e-max.github.io/shorts-feed/images/posty3.jpg"],
-    
+    "badge": "HOT",
     "enabled": true,
-    "priority": 630
+    "priority": 1002
   },
   {
     "title": "패션플러스",
