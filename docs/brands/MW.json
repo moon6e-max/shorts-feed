@@ -8,7 +8,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 100
+    "priority": 1000
   },
   {
     "title": "누아클레",
@@ -19,7 +19,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 99
+    "priority": 990
   },
   {
     "title": "데카트론",
@@ -30,7 +30,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 98
+    "priority": 980
   },
   {
     "title": "디프레임",
@@ -41,7 +41,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 97
+    "priority": 970
   },
   {
     "title": "레이지비",
@@ -52,7 +52,19 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 96
+    "priority": 960
+  },
+  {
+    "title": "베네통",
+    "sub": "트렌디 무드의 감각적인 데일리 패션",
+    "url": "https://lase.kr/click.php?m=benetton1&a=A100702784&l=0000",
+    "packageName": "com.benetton.bntmall",
+    "logoText": "Benetton",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "badge": "HOT",
+    "priority": 959
   },
   {
     "title": "빈케이지",
@@ -63,7 +75,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 95
+    "priority": 950
   },
   {
     "title": "세인트제임스",
@@ -74,7 +86,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 94
+    "priority": 940
   },
   {
     "title": "스컬피그",
@@ -85,7 +97,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 93
+    "priority": 930
   },
   {
     "title": "안다르",
@@ -96,7 +108,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 92
+    "priority": 920
   },
   {
     "title": "엠씨엔핏",
@@ -107,7 +119,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 91
+    "priority": 910
   },
   {
     "title": "엠페브",
@@ -118,7 +130,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 90
+    "priority": 900
   },
   {
     "title": "윌슨",
@@ -129,7 +141,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 89
+    "priority": 890
   },
   {
     "title": "유즈드바이타임",
@@ -140,7 +152,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 88
+    "priority": 880
   },
   {
     "title": "젝시믹스",
@@ -151,7 +163,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 87
+    "priority": 870
   },
   {
     "title": "키네틱웍스",
@@ -162,7 +174,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 86
+    "priority": 860
   },
   {
     "title": "피그먼트",
@@ -173,7 +185,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 85
+    "priority": 850
   },
   {
     "title": "헤링본비치",
@@ -184,6 +196,6 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 84
+    "priority": 840
   }
 ]
