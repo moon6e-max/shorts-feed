@@ -1,5 +1,19 @@
 [
   {
+    "title": "베네통",
+    "sub": "남녀 캐주얼·애슬레저 감성 패션 브랜드",
+    "url": "https://lase.kr/click.php?m=benetton1&a=A100702784&l=0000",
+    "packageName": "com.benetton.bntmall",
+    "logoText": "",
+    "logoUrl": "",
+    "mode": "UNISEX",
+    "tabKey": "MW",
+    "path": "남&녀 > 공용",
+    "enabled": true,
+    "spin": true,
+    "priority": 959
+  },
+  {
     "title": "파페치",
     "sub": "전 세계에서 매일 새롭게 도착하는 피스를 파페치에서 만나보세요",
     "url": "https://lase.kr/click.php?m=farfetch&a=A100702784&l=0000",
