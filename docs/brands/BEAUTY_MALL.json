@@ -119,14 +119,15 @@
     "enabled":true,
     "priority":89
   },
-  { "title":"클리오클럽",
+  { "title":"클럽클리오",
     "sub":"클리오 공식 브랜드몰",
     "url":"https://clubclio.co.kr/",
     "packageName":"witplus.clio.starter",
-    "logoText":"Club\nClio",
+    "logoText":"ClubClio",
     "logoUrl":"",
     "photos":[],
     "enabled":true,
-    "priority":88
+    "badge": "HOT",
+    "priority":101
   }
 ]
