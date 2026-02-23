@@ -271,8 +271,10 @@
     "url": "https://lase.kr/click.php?m=shein&a=A100702784&l=0000",
     "packageName": "com.zzkko",
     "logoText": "Shein",
-    "logoUrl": "",
-    "photos": [],
+    "logoUrl": "https://moon6e-max.github.io/shorts-feed/images/shein1.png",
+    "photos": ["https://moon6e-max.github.io/shorts-feed/images/shein2.jpg",
+    "https://moon6e-max.github.io/shorts-feed/images/shein3.jpg",
+    "https://moon6e-max.github.io/shorts-feed/images/shein4.jpg"],
     "enabled": true,
     "badge": "hot",
     "priority": 1001
