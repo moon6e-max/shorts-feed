@@ -30,17 +30,6 @@
     "priority": 999
   },
   {
-    "title": "폴렌느",
-    "sub": "프랑스 컨템포러리 브랜드",
-    "url": "https://kr.polene-paris.com/",
-    "packageName": "",
-    "logoText": "Polene",
-    "logoUrl": "",
-    "photos": [],
-    "enabled": true,
-    "priority": 990
-  },
-  {
     "title": "스트라틱",
     "sub": "천연 소가죽으로 깔끔하게, 수납을 더한 스마트한 스트라틱 가방",
     "url": "https://stratic.co.kr/",
@@ -162,6 +151,28 @@
     "priority": 919
   },
   {
+    "title": "프랙탈",
+    "sub": "가볍고 실용적인 프랙탈1.4 데일리백!",
+    "url": "https://www.fractalonepointfour.com/",
+    "packageName": "",
+    "logoText": "Fractal",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 910
+  },
+  {
+    "title": "폴렌느",
+    "sub": "프랑스 컨템포러리 브랜드",
+    "url": "https://kr.polene-paris.com/",
+    "packageName": "",
+    "logoText": "Polene",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 909
+  },
+  {
     "title": "366백",
     "sub": "다양한 라이프스타일을 위한 편리한 가방",
     "url": "https://366bags.com/",
@@ -170,6 +181,6 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 910
+    "priority": 900
   }
 ]
