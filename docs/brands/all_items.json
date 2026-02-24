@@ -1,5 +1,18 @@
 [
   {
+    "title": "데이비드존스",
+    "sub": "당신의 일상에 스며든 데이비드 존스 파리 한국 셀렉션",
+    "url": "https://www.davidjones.co.kr/",
+    "packageName": "",
+    "logoText": "Davidjones",
+    "logoUrl": "",
+    "mode": "HAT_HAIR_ACC",
+    "tabKey": "BAG",
+    "path": "패션잡화 > 가방",
+    "enabled": true,
+    "priority": 999
+  },
+  {
     "title": "비베니",
     "sub": "가볍고 실용적이며 고급스러운 Color In Life를 추구하는 디자이너",
     "url": "https://vivannie.com/",
