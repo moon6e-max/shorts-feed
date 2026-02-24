@@ -16,6 +16,19 @@
     "priority": 1000
   },
   {
+    "title": "끌라베",
+    "sub": "모던하고 여성스러운 스타일을 더한 컨템포러리 데일리백",
+    "url": "https://www.maisonclave.com/",
+    "packageName": "",
+    "logoText": "Clave",
+    "logoUrl": "",
+    
+    "photos": [],
+    
+    "enabled": true,
+    "priority": 999
+  },
+  {
     "title": "데이비드존스",
     "sub": "당신의 일상에 스며든 데이비드 존스 파리 한국 셀렉션",
     "url": "https://www.davidjones.co.kr/",
@@ -26,7 +39,7 @@
     "photos": [],
     
     "enabled": true,
-    "priority": 999
+    "priority": 998
   },
   {
     "title": "스트라틱",
