@@ -1,11 +1,13 @@
 [
   {
-    "enabled": true,
-    "title": "가방 샵 A",
-    "sub": "데일리 백",
-    "url": "https://example.com",
-    "logoText": "A",
+    "title": "꾸미",
+    "sub": "귀엽고 깜직한 감성으로 채우는 키즈 스타일",
+    "url": "https://kkumi.co.kr/",
+    "packageName": "",
+    "logoText": "Kkumi",
     "logoUrl": "",
-    "priority": 50
+    "photos": [],
+    "enabled": true,
+    "priority": 100
   }
 ]
