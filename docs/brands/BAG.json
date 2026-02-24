@@ -44,6 +44,61 @@
     "priority": 97
   },
   {
+    "title": "아토백",
+    "sub": "40대 50대 60대 66~120 사이즈 데일리 가방쇼핑몰",
+    "url": "https://atobag.com/",
+    "packageName": "",
+    "logoText": "Atobag",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 96
+  },
+  {
+    "title": "엠제이드",
+    "sub": "90년대 로맨틱 클래식, 독보적인 클래식백",
+    "url": "https://mjade.co.kr/",
+    "packageName": "",
+    "logoText": "Mjade",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 95
+  },
+  {
+    "title": "쌤소나이트",
+    "sub": "여행 & 가방 전문 브랜드",
+    "url": "https://www.samsonite.co.kr/",
+    "packageName": "",
+    "logoText": "Samsonite",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 94
+  },
+  {
+    "title": "루펀",
+    "sub": "일상에 설렘을 더하는 브랜드",
+    "url": "https://loofun.kr/",
+    "packageName": "",
+    "logoText": "Loofun",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 93
+  },
+  {
+    "title": "바나바나",
+    "sub": "트렌디,로맨틱 감성으로 차별화된 스타일 추천 여성가방 전문 브랜드",
+    "url": "https://banabanamall.com/",
+    "packageName": "",
+    "logoText": "Banabana",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 92
+  },
+  {
     "title": "366백",
     "sub": "다양한 라이프스타일을 위한 편리한 가방",
     "url": "https://366bags.com/",
@@ -52,6 +107,6 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 96
+    "priority": 91
   }
 ]
