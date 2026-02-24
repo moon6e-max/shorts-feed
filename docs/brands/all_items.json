@@ -1,5 +1,19 @@
 [
   {
+    "title": "안토니올리",
+    "sub": "글로벌 패션 & 라이프스타일",
+    "url": "https://antonioli.eu/ko-kr/collections/woman",
+    "packageName": "",
+    "logoText": "Antonioli",
+    "logoUrl": "",
+    "mode": "MALL",
+    "tabKey": "MALL_UNISEX",
+    "path": "셀렉트샵 > 편집샵",
+    "enabled": true,
+    "spin": true,
+    "priority": 959
+  },
+  {
     "title": "딜팡",
     "sub": "골프용품 전문 쇼핑몰",
     "url": "https://bitl.bz/HCc4ns",
@@ -10,6 +24,8 @@
     "tabKey": "GOLF_MALL",
     "path": "골프 > 골프 몰",
     "enabled": true,
+    "spin": true,
+    "todayPick": true,
     "priority": 101
   },
   {
@@ -128,6 +144,7 @@
     "path": "패션잡화 > 가방",
     "enabled": true,
     "spin": true,
+    "todayPick": true,
     "priority": 100
   },
   {
@@ -315,6 +332,7 @@
     "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "spin": true,
+    "todayPick": true,
     "priority": 729
   },
   {
@@ -328,7 +346,6 @@
     "tabKey": "WOMEN_30S",
     "path": "여자 > 30대",
     "enabled": true,
-    "spin": true,
     "priority": 729
   },
   {
@@ -342,7 +359,6 @@
     "tabKey": "WOMEN_30S",
     "path": "여자 > 30대",
     "enabled": true,
-    "spin": true,
     "priority": 619
   },
   {
@@ -356,7 +372,6 @@
     "tabKey": "WOMEN_30S",
     "path": "여자 > 30대",
     "enabled": true,
-    "spin": true,
     "priority": 739
   },
   {
@@ -370,7 +385,6 @@
     "tabKey": "WOMEN_20S",
     "path": "여자 > 20대",
     "enabled": true,
-    "spin": true,
     "priority": 550
   },
   {
@@ -384,7 +398,6 @@
     "tabKey": "MALL_MEN",
     "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
-    "spin": true,
     "priority": 999
   },
   {
@@ -398,7 +411,6 @@
     "tabKey": "WOMEN_30S",
     "path": "여자 > 30대",
     "enabled": true,
-    "spin": true,
     "priority": 669
   },
   {
@@ -1571,7 +1583,6 @@
     "tabKey": "MEN_TRENDY",
     "path": "남자 > 트렌디",
     "enabled": true,
-    "spin": true,
     "priority": 99
   },
   {
@@ -1765,8 +1776,7 @@
     "logoUrl": "",
     "mode": "WOMEN",
     "tabKey": "WOMEN_30S",
-    "path": "여자 > 30대",
-    "todayPick": true,  
+    "path": "여자 > 30대",  
     "enabled": true,
     "priority": 99
   },
@@ -3393,6 +3403,7 @@
     "tabKey": "MALL_MEN",
     "path": "쇼핑몰 > 브랜드몰",
     "enabled": true,
+    "todayPick": true,
     "priority": 96
   },
   {
@@ -4042,7 +4053,7 @@
     "mode": "MEN",
     "tabKey": "MEN_DAILY",
     "path": "남자 > 데일리",
-    "todayPick": true,
+    
     "enabled": true,
     "priority": 95
   },
@@ -5852,7 +5863,7 @@
     "mode": "MEN",
     "tabKey": "MEN_TRENDY",
     "path": "남자 > 트렌디",
-    "todayPick": true,
+    
     "enabled": true,
     "priority": 92
   },
@@ -8701,7 +8712,6 @@
     "tabKey": "WOMEN_30S",
     "path": "여자 > 30대",
     "enabled": true,
-    "spin": true,
     "priority": 87
   },
   {
@@ -9222,7 +9232,7 @@
     "tabKey": "WOMEN_50S",
     "path": "여자 > 50대",
     "enabled": true,
-    "spin": true,
+  
     "priority": 86
   },
   {
@@ -11005,7 +11015,7 @@
     "mode": "WOMEN",
     "tabKey": "WOMEN_20S",
     "path": "여자 > 20대",
-    "todayPick": true,
+    
     "enabled": true,
     "priority": 82
   },
@@ -11019,7 +11029,7 @@
     "mode": "WOMEN",
     "tabKey": "WOMEN_30S",
     "path": "여자 > 30대",
-    "todayPick": true,
+    
     "enabled": true,
     "priority": 82
   },
@@ -11699,7 +11709,7 @@
     "mode": "MEN",
     "tabKey": "MEN_TRENDY",
     "path": "남자 > 트렌디",
-    "todayPick": true,
+    
     "enabled": true,
     "priority": 80
   },
@@ -11791,7 +11801,7 @@
     "mode": "WOMEN",
     "tabKey": "WOMEN_20S",
     "path": "여자 > 20대",
-    "todayPick": true,
+    
     "enabled": true,
     "priority": 80
   },
@@ -12065,7 +12075,7 @@
     "mode": "MEN",
     "tabKey": "MEN_DAILY",
     "path": "남자 > 데일리",
-    "todayPick": true,
+    
     "enabled": true,
     "priority": 79
   },
@@ -12798,6 +12808,7 @@
     "spin": true,
     "hot": true,
     "hotRank": 109,
+    "todayPick": true,
     "priority": 77
   },
   {
@@ -12927,7 +12938,7 @@
     "mode": "WOMEN",
     "tabKey": "WOMEN_20S",
     "path": "여자 > 20대",
-    "todayPick": true,
+    
     "enabled": true,
     "priority": 77
   },
@@ -13308,7 +13319,6 @@
     "tabKey": "WOMEN_PETITE",
     "path": "여자 > 키작녀",
     "enabled": true,
-    "spin": true,
     "priority": 76
   },
   {
@@ -13959,7 +13969,7 @@
     "tabKey": "WOMEN_30S",
     "path": "여자 > 30대",
     "enabled": true,
-    "spin": true,
+    
     "priority": 74
   },
   {
@@ -14168,7 +14178,7 @@
     "tabKey": "MEN_TRENDY",
     "path": "남자 > 트렌디",
     "enabled": true,
-    "spin": true,
+    
     "isNew": true,
     "newRank": 98,
     "priority": 73
@@ -14899,7 +14909,7 @@
     "tabKey": "MEN_TRENDY",
     "path": "남자 > 트렌디",
     "enabled": true,
-    "spin": true,
+   
     "isNew": true,
     "newRank": 97,
     "priority": 70
@@ -15564,7 +15574,7 @@
     "mode": "WOMEN",
     "tabKey": "WOMEN_30S",
     "path": "여자 > 30대",
-    "todayPick": true,
+    
     "enabled": true,
     "priority": 67
   },
@@ -16111,7 +16121,7 @@
     "mode": "WOMEN",
     "tabKey": "WOMEN_20S",
     "path": "여자 > 20대",
-    "todayPick": true,
+    
     "enabled": true,
     "priority": 63
   },
@@ -16658,7 +16668,7 @@
     "mode": "WOMEN",
     "tabKey": "WOMEN_30S",
     "path": "여자 > 30대",
-    "todayPick": true,
+    
     "enabled": true,
     "priority": 58
   },
@@ -17726,7 +17736,7 @@
     "tabKey": "WOMEN_20S",
     "path": "여자 > 20대",
     "enabled": true,
-    "spin": true,
+   
     "priority": 38
   },
   {
