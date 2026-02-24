@@ -4,10 +4,54 @@
     "sub": "여성 데일리백 전문, 합리적인 가격의 상품들을 만나보세요!",
     "url": "https://bestmore.net/click.php?m=charlesnk&a=A100702784&l=0000",
     "packageName": "com.project.CK",
-    "logoText": "charleskeith",
+    "logoText": "Charleskeith",
     "logoUrl": "",
     "photos": [],
     "enabled": true,
     "priority": 100
+  },
+  {
+    "title": "폴렌느",
+    "sub": "프랑스 컨템포러리 브랜드",
+    "url": "https://kr.polene-paris.com/",
+    "packageName": "",
+    "logoText": "Polene",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 99
+  },
+  {
+    "title": "스트라틱",
+    "sub": "천연 소가죽으로 깔끔하게, 수납을 더한 스마트한 스트라틱 가방",
+    "url": "https://stratic.co.kr/",
+    "packageName": "",
+    "logoText": "Stratic",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 98
+  },
+  {
+    "title": "마르헨제이",
+    "sub": "매일 들수록 더 좋아지는 가방!",
+    "url": "https://www.marhenj.co.kr/",
+    "packageName": "",
+    "logoText": "Marhenj",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 97
+  },
+  {
+    "title": "366백",
+    "sub": "다양한 라이프스타일을 위한 편리한 가방",
+    "url": "https://366bags.com/",
+    "packageName": "",
+    "logoText": "366bags",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 96
   }
 ]
