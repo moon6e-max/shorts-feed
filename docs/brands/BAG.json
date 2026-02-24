@@ -5,9 +5,14 @@
     "url": "https://bestmore.net/click.php?m=charlesnk&a=A100702784&l=0000",
     "packageName": "com.project.CK",
     "logoText": "Charleskeith",
-    "logoUrl": "",
-    "photos": [],
+    "logoUrl": "https://moon6e-max.github.io/shorts-feed/images/charles1.png",
+    
+    "photos": ["https://moon6e-max.github.io/shorts-feed/images/charles2.jpg",
+    "https://moon6e-max.github.io/shorts-feed/images/charles3.jpg",
+    "https://moon6e-max.github.io/shorts-feed/images/charles4.jpg"],
+    
     "enabled": true,
+    "badge": "HOT",
     "priority": 100
   },
   {
