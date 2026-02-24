@@ -1,5 +1,18 @@
 [
   {
+    "title": "브루니아",
+    "sub": "클래식함과 모던함을 동시에 잡은 가방쇼핑몰",
+    "url": "https://bruniabag.co.kr/",
+    "packageName": "",
+    "logoText": "Brunia",
+    "logoUrl": "",
+    "mode": "HAT_HAIR_ACC",
+    "tabKey": "BAG",
+    "path": "패션잡화 > 가방",
+    "enabled": true,
+    "priority": 968
+  },
+  {
     "title": "어반디타입",
     "sub": "미니멀함의 정석, daily 심플룩 어반디타입!",
     "url": "https://urbandtype.com/",
