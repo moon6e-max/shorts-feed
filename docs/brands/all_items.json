@@ -1,7 +1,7 @@
 [
   {
     "title": "안토니올리",
-    "sub": "글로벌 패션 & 라이프스타일",
+    "sub": "남&녀를 위한 럭셔리한 이탈리아 디자이너 쇼핑몰",
     "url": "https://antonioli.eu/ko-kr/collections/woman",
     "packageName": "",
     "logoText": "Antonioli",
@@ -11,7 +11,7 @@
     "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "spin": true,
-    "priority": 959
+    "priority": 849
   },
   {
     "title": "딜팡",
