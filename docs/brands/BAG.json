@@ -1,0 +1,11 @@
+[
+  {
+    "enabled": true,
+    "title": "가방 샵 A",
+    "sub": "데일리 백",
+    "url": "https://example.com",
+    "logoText": "A",
+    "logoUrl": "",
+    "priority": 50
+  }
+]
