@@ -1,5 +1,18 @@
 [
   {
+    "title": "코닥어패럴",
+    "sub": "일상부터 여행까지 활용하기 좋은 코닥",
+    "url": "https://hilightbrands-kodak.co.kr/",
+    "packageName": "",
+    "logoText": "Kodak",
+    "logoUrl": "",
+    "mode": "UNISEX",
+    "tabKey": "MW",
+    "path": "남&녀 > 공용",
+    "enabled": true,
+    "priority": 860
+  },
+  {
     "title": "찰스&키스",
     "sub": "여성 데일리백 전문, 합리적인 가격의 상품들을 만나보세요!",
     "url": "https://bestmore.net/click.php?m=charlesnk&a=A100702784&l=0000",
