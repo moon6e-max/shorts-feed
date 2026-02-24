@@ -16,6 +16,20 @@
     "priority": 1000
   },
   {
+    "title": "데이비드존스",
+    "sub": "당신의 일상에 스며든 데이비드 존스 파리 한국 셀렉션",
+    "url": "https://www.davidjones.co.kr/",
+    "packageName": "",
+    "logoText": "Davidjones",
+    "logoUrl": "",
+    
+    "photos": [],
+    
+    "enabled": true,
+    "badge": "HOT",
+    "priority": 999
+  },
+  {
     "title": "폴렌느",
     "sub": "프랑스 컨템포러리 브랜드",
     "url": "https://kr.polene-paris.com/",
