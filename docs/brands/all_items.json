@@ -1,5 +1,18 @@
 [
   {
+    "title": "프랙탈",
+    "sub": "가볍고 실용적인 프랙탈1.4 데일리백!",
+    "url": "https://www.fractalonepointfour.com/",
+    "packageName": "",
+    "logoText": "Fractal",
+    "logoUrl": "",
+    "mode": "HAT_HAIR_ACC",
+    "tabKey": "BAG",
+    "path": "패션잡화 > 가방",
+    "enabled": true,
+    "priority": 910
+  },
+  {
     "title": "컬러드벨",
     "sub": "르네상스의 정제된 선, 바로크의 기품, 로코코의 감성",
     "url": "https://colordebell.com/",
