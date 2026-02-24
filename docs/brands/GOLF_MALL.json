@@ -1,5 +1,17 @@
 [
   {
+    "title": "딜팡",
+    "sub": "골프용품 전문 쇼핑몰",
+    "url": "https://bitl.bz/HCc4ns",
+    "packageName": "com.uneedcomms.dealpangcom",
+    "logoText": "Dealpang",
+    "logoUrl": "https://moon6e-max.github.io/shorts-feed/images/dealpang1.jpg",
+    "photos": [],
+    "enabled": true,
+    "badge": "HOT",
+    "priority": 101
+  },
+  {
     "title": "ak골프",
     "sub": "전국 오프라인 매장을 운영하는 골프 전문몰",
     "url": "https://www.akgolf.co.kr/",
