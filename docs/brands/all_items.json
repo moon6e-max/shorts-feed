@@ -1,5 +1,18 @@
 [
   {
+    "title": "딜팡",
+    "sub": "골프용품 전문 쇼핑몰",
+    "url": "https://bitl.bz/HCc4ns",
+    "packageName": "",
+    "logoText": "Dealpang",
+    "logoUrl": "",
+    "mode": "GOLF",
+    "tabKey": "GOLF_MALL",
+    "path": "골프 > 골프 몰",
+    "enabled": true,
+    "priority": 101
+  },
+  {
     "title": "프랙탈",
     "sub": "가볍고 실용적인 프랙탈1.4 데일리백!",
     "url": "https://www.fractalonepointfour.com/",
@@ -737,7 +750,7 @@
     "logoUrl": "",
     "mode": "GOLF",
     "tabKey": "GOLF_MALL",
-    "path": "골프 > 골프 잡화",
+    "path": "골프 > 골프 몰",
     "enabled": true,
     "priority": 100
   },
@@ -1361,7 +1374,7 @@
     "logoUrl": "",
     "mode": "GOLF",
     "tabKey": "GOLF_MALL",
-    "path": "골프 > 골프 잡화",
+    "path": "골프 > 골프 몰",
     "enabled": true,
     "priority": 99
   },
@@ -1987,7 +2000,7 @@
     "logoUrl": "",
     "mode": "GOLF",
     "tabKey": "GOLF_MALL",
-    "path": "골프 > 골프 잡화",
+    "path": "골프 > 골프 몰",
     "enabled": true,
     "priority": 98
   },
@@ -2611,7 +2624,7 @@
     "logoUrl": "",
     "mode": "GOLF",
     "tabKey": "GOLF_MALL",
-    "path": "골프 > 골프 잡화",
+    "path": "골프 > 골프 몰",
     "enabled": true,
     "priority": 97
   },
