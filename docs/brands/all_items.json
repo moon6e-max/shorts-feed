@@ -1,5 +1,18 @@
 [
   {
+    "title": "끌라베",
+    "sub": "모던하고 여성스러운 스타일을 더한 컨템포러리 데일리백",
+    "url": "https://www.maisonclave.com/",
+    "packageName": "",
+    "logoText": "Clave",
+    "logoUrl": "",
+    "mode": "HAT_HAIR_ACC",
+    "tabKey": "BAG",
+    "path": "패션잡화 > 가방",
+    "enabled": true,
+    "priority": 999
+  },
+  {
     "title": "안토니올리",
     "sub": "남&녀를 위한 럭셔리한 이탈리아 디자이너 쇼핑몰",
     "url": "https://antonioli.eu/ko-kr/collections/woman",
