@@ -1,5 +1,22 @@
 [
   {
+    "title": "아르켓",
+    "sub": "홈을 위한 에센셜 아이템을 선보이는 모던 라이프스타일",
+    "url": "https://lase.kr/click.php?m=arket&a=A100702784&l=0000",
+    "packageName": "",
+    "logoText": "Arket",
+    "logoUrl": "",
+    "mode": "UNISEX",
+    "tabKey": "MW",
+    "path": "남&녀 > 공용",
+    "enabled": true,
+    "spin": true,
+    "todayPick": true,
+    "isNew": true,
+    "newRank": 99,
+    "priority": 1002
+  },
+  {
     "title": "끌라베",
     "sub": "모던하고 여성스러운 스타일을 더한 컨템포러리 데일리백",
     "url": "https://www.maisonclave.com/",
@@ -24,6 +41,7 @@
     "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "spin": true,
+    "todayPick": true,
     "priority": 849
   },
   {
@@ -157,7 +175,7 @@
     "path": "패션잡화 > 가방",
     "enabled": true,
     "isNew": true,
-    "newRank": 100,
+    "newRank": 98,
     "spin": true,
     "todayPick": true,
     "priority": 100
