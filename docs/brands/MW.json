@@ -110,9 +110,14 @@
     "url": "https://lase.kr/click.php?m=arket&a=A100702784&l=0000",
     "packageName": "",
     "logoText": "Arket",
-    "logoUrl": "",
-    "photos": [],
+    "logoUrl": "https://moon6e-max.github.io/shorts-feed/images/arket1.jpg",
+    
+    "photos": ["https://moon6e-max.github.io/shorts-feed/images/arket2.jpg",
+    "https://moon6e-max.github.io/shorts-feed/images/arket3.jpg",
+    "https://moon6e-max.github.io/shorts-feed/images/arket4.jpg"],
+    
     "enabled": true,
+    "badge": "BEST",
     "priority": 1002
   },
   {
