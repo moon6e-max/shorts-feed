@@ -156,6 +156,8 @@
     "tabKey": "BAG",
     "path": "패션잡화 > 가방",
     "enabled": true,
+    "isNew": true,
+    "newRank": 100,
     "spin": true,
     "todayPick": true,
     "priority": 100
@@ -291,6 +293,7 @@
     "hot": true,
     "hotRank": 107,
     "spin": true,
+    "todayPick": true,
     "priority": 959
   },
   {
@@ -304,7 +307,10 @@
     "tabKey": "MW",
     "path": "남&녀 > 공용",
     "enabled": true,
+    "isNew": true,
+    "newRank": 100,
     "spin": true,
+    "todayPick": true,
     "priority": 959
   },
   {
@@ -319,6 +325,7 @@
     "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "spin": true,
+    "todayPick": true,
     "hot": true,
     "hotRank": 108,
     "priority": 710
@@ -5870,8 +5877,6 @@
     "tabKey": "MEN_DAILY",
     "path": "남자 > 데일리",
     "enabled": true,
-    "isNew": true,
-    "newRank": 100,
     "priority": 92
   },
   {
@@ -10021,8 +10026,6 @@
     "tabKey": "MEN_DAILY",
     "path": "남자 > 데일리",
     "enabled": true,
-    "isNew": true,
-    "newRank": 96,
     "priority": 84
   },
   {
@@ -11299,6 +11302,8 @@
     "tabKey": "MALL_MEN",
     "path": "쇼핑몰 > 브랜드몰",
     "enabled": true,
+    "spin": true,
+    "todayPick": true,
     "priority": 81
   },
   {
@@ -11404,6 +11409,7 @@
     "path": "월드 > 스포츠",
     "enabled": true,
     "spin": true,
+    "todayPick": true,
     "hot": true,
     "hotRank": 110,
     "priority": 81
@@ -13221,8 +13227,6 @@
     "tabKey": "MEN_TRENDY",
     "path": "남자 > 트렌디",
     "enabled": true,
-    "isNew": true,
-    "newRank": 99,
     "priority": 76
   },
   {
@@ -14199,9 +14203,6 @@
     "tabKey": "MEN_TRENDY",
     "path": "남자 > 트렌디",
     "enabled": true,
-    
-    "isNew": true,
-    "newRank": 98,
     "priority": 73
   },
   {
@@ -14930,9 +14931,6 @@
     "tabKey": "MEN_TRENDY",
     "path": "남자 > 트렌디",
     "enabled": true,
-   
-    "isNew": true,
-    "newRank": 97,
     "priority": 70
   },
   {
