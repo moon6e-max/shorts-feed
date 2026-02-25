@@ -120,12 +120,14 @@
     "priority":89
   },
   { "title":"클럽클리오",
-    "sub":"클리오 공식 브랜드몰",
+    "sub":"다양한 화장품 브랜드와 건강기능식품까지 만날 수 있는 토탈 뷰티 케어 스토어",
     "url":"https://clubclio.co.kr/",
     "packageName":"witplus.clio.starter",
     "logoText":"ClubClio",
-    "logoUrl":"",
-    "photos":[],
+    "logoUrl":"https://moon6e-max.github.io/shorts-feed/images/clubclio1.jpg",
+    
+    "photos":["https://moon6e-max.github.io/shorts-feed/images/clubclio2.jpg"],
+    
     "enabled":true,
     "badge": "HOT",
     "priority":101
