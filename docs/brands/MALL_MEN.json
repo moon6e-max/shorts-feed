@@ -219,7 +219,8 @@
     "logoUrl": "https://moon6e-max.github.io/shorts-feed/images/boribori1.jpg",
     "photos": [],
     "enabled": true,
-    "priority": 810
+    "badge": "HOT",
+    "priority": 1003
   },
   {
     "title": "브랜디",
