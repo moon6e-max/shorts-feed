@@ -105,6 +105,17 @@
     "priority": 930
   },
   {
+    "title": "아르켓",
+    "sub": "홈을 위한 에센셜 아이템을 선보이는 모던 라이프스타일",
+    "url": "https://lase.kr/click.php?m=arket&a=A100702784&l=0000",
+    "packageName": "",
+    "logoText": "Arket",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 1002
+  },
+  {
     "title": "안다르",
     "sub": "프리미엄 애슬레저로 완성하는 라이프웨어",
     "url": "https://andar.co.kr/index.html",
