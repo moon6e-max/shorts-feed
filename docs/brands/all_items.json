@@ -288,6 +288,8 @@
     "tabKey": "MALL_UNISEX",
     "path": "셀렉트샵 > 편집샵",
     "enabled": true,
+    "hot": true,
+    "hotRank": 107,
     "spin": true,
     "priority": 959
   },
@@ -317,7 +319,8 @@
     "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "spin": true,
-    "hotRank": 109,
+    "hot": true,
+    "hotRank": 108,
     "priority": 710
   },
   {
@@ -346,6 +349,7 @@
     "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "spin": true,
+    "hot": true,
     "hotRank": 109,
     "todayPick": true,
     "priority": 729
@@ -3419,6 +3423,7 @@
     "path": "쇼핑몰 > 브랜드몰",
     "enabled": true,
     "todayPick": true,
+    "hot": true,
     "hotRank": 108,
     "priority": 96
   },
