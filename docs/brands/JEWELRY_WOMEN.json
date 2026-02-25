@@ -8,8 +8,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 100,
-    "badge": "HOT"
+    "priority": 100
   },
   {
     "title": "골든듀",
@@ -20,8 +19,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 99,
-    "badge": "NEW"
+    "priority": 99
   },
   {
     "title": "귓볼",
