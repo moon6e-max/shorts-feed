@@ -1,5 +1,18 @@
 [
   {
+    "title": "앤아더스토리즈",
+    "sub": "유럽 감성 프리미엄 여성 패션",
+    "url": "https://newtip.net/click.php?m=stories&a=A100702784&l=0000",
+    "packageName": "",
+    "logoText": "&OtherStories",
+    "logoUrl": "https://moon6e-max.github.io/shorts-feed/images/OtherStories1.jpg",
+    "mode": "WORLD",
+    "tabKey": "CASUAL_BRAND",
+    "path": "월드 > 캐주얼",
+    "enabled": true,
+    "priority": 1000
+  },
+  {
     "title": "아르켓",
     "sub": "홈을 위한 에센셜 아이템을 선보이는 모던 라이프스타일",
     "url": "https://lase.kr/click.php?m=arket&a=A100702784&l=0000",
