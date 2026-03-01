@@ -123,17 +123,6 @@
     "priority": 900
   },
   {
-    "title": "롯대백화점",
-    "sub": "풍부한 브랜드와 감각적 라이프 스타일 쇼핑",
-    "url": "https://www.lotteon.com/",
-    "packageName": "com.innov.lottecoupon",
-    "logoText": "Lotte",
-    "logoUrl": "",
-    "photos": [],
-    "enabled": true,
-    "priority": 890
-  },
-  {
     "title": "롯데ON",
     "sub": "편리함과 다양함을 갖춘 통합 온라인 쇼핑 플랫폼",
     "url": "https://www.lotteon.com/",
