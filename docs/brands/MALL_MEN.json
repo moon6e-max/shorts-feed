@@ -8,7 +8,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 1000
+    "priority": 999
   },
   {
     "title": "H패션몰",
@@ -128,10 +128,16 @@
     "url": "https://www.lotteon.com/",
     "packageName": "com.lotte",
     "logoText": "Lotteon",
-    "logoUrl": "",
-    "photos": [],
+    "logoUrl": "https://moon6e-max.github.io/shorts-feed/images/lotte1.png",
+    
+    "photos": ["https://moon6e-max.github.io/shorts-feed/images/lotte2.jpg",
+    "https://moon6e-max.github.io/shorts-feed/images/lotte3.jpg",
+    "https://moon6e-max.github.io/shorts-feed/images/lotte4.jpg",
+    "https://moon6e-max.github.io/shorts-feed/images/lotte5.jpg"],
+    
     "enabled": true,
-    "priority": 880
+    "badge": "hot",
+    "priority": 1001
   },
   {
     "title": "마이테레사",
@@ -267,7 +273,7 @@
     "https://moon6e-max.github.io/shorts-feed/images/shein4.jpg"],
     "enabled": true,
     "badge": "hot",
-    "priority": 1001
+    "priority": 1000
   },
   {
     "title": "스타일24",
