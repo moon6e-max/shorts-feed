@@ -962,7 +962,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 100
   },
@@ -975,7 +975,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 100
   },
@@ -1586,7 +1586,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 99
   },
@@ -1599,7 +1599,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 99
   },
@@ -2210,7 +2210,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 98
   },
@@ -2223,7 +2223,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 98
   },
@@ -2834,7 +2834,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 97
   },
@@ -2847,7 +2847,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 97
   },
@@ -3458,7 +3458,7 @@
     "logoUrl": "https://moon6e-max.github.io/shorts-feed/images/wconcept1.jpg",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "todayPick": true,
     "hot": true,
@@ -3474,7 +3474,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 96
   },
@@ -4072,7 +4072,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 95
   },
@@ -4085,7 +4085,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 95
   },
@@ -4684,7 +4684,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 94
   },
@@ -4697,7 +4697,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 94
   },
@@ -5282,7 +5282,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 93
   },
@@ -5295,7 +5295,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 93
   },
@@ -5867,7 +5867,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 92
   },
@@ -5880,7 +5880,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 92
   },
@@ -6427,7 +6427,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 91
   },
@@ -6440,7 +6440,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 91
   },
@@ -6986,7 +6986,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 90
   },
@@ -6999,7 +6999,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 90
   },
@@ -7532,7 +7532,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 89
   },
@@ -7545,7 +7545,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 89
   },
@@ -8026,7 +8026,7 @@
     "logoUrl": "https://moon6e-max.github.io/shorts-feed/images/lotte1.png",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 88
   },
@@ -8039,7 +8039,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 88
   },
@@ -8533,7 +8533,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 87
   },
@@ -8546,7 +8546,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 87
   },
@@ -9040,7 +9040,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 86
   },
@@ -9053,7 +9053,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 86
   },
@@ -9535,7 +9535,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 85
   },
@@ -9548,7 +9548,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 85
   },
@@ -10016,7 +10016,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 84
   },
@@ -10029,7 +10029,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 84
   },
@@ -10471,7 +10471,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 83
   },
@@ -10484,7 +10484,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 83
   },
@@ -10913,7 +10913,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 82
   },
@@ -10926,7 +10926,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 82
   },
@@ -11331,7 +11331,7 @@
     "logoUrl": "https://moon6e-max.github.io/shorts-feed/images/boribori1.jpg",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "spin": true,
     "todayPick": true,
@@ -11346,7 +11346,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 81
   },
@@ -11727,7 +11727,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 80
   },
@@ -11740,7 +11740,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 80
   },
@@ -12106,7 +12106,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 79
   },
@@ -12119,7 +12119,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 79
   },
@@ -12484,7 +12484,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 78
   },
@@ -12497,7 +12497,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 78
   },
@@ -12861,7 +12861,7 @@
     "logoUrl": "https://moon6e-max.github.io/shorts-feed/images/shein5.png",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "spin": true,
     "hot": true,
@@ -12878,7 +12878,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 77
   },
@@ -13217,7 +13217,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 76
   },
@@ -13230,7 +13230,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 76
   },
@@ -13555,7 +13555,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 75
   },
@@ -13568,7 +13568,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 75
   },
@@ -13893,7 +13893,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 74
   },
@@ -13906,7 +13906,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 74
   },
@@ -14193,7 +14193,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 73
   },
@@ -14206,7 +14206,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 73
   },
@@ -14453,7 +14453,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 72
   },
@@ -14466,7 +14466,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 72
   },
@@ -14700,7 +14700,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 71
   },
@@ -14713,7 +14713,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 71
   },
@@ -14934,7 +14934,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 70
   },
@@ -14947,7 +14947,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 70
   },
@@ -15155,7 +15155,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 69
   },
@@ -15168,7 +15168,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 69
   },
@@ -15363,7 +15363,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 68
   },
@@ -15376,7 +15376,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 68
   },
@@ -15545,7 +15545,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 67
   },
@@ -15558,7 +15558,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 67
   },
@@ -15715,7 +15715,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 66
   },
@@ -15728,7 +15728,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 66
   },
@@ -15871,7 +15871,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 65
   },
@@ -15884,7 +15884,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 65
   },
@@ -16001,7 +16001,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 64
   },
@@ -16014,7 +16014,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 64
   },
@@ -16118,7 +16118,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 63
   },
@@ -16131,7 +16131,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 63
   },
@@ -16236,7 +16236,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 62
   },
@@ -16249,7 +16249,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 62
   },
@@ -16353,7 +16353,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_MEN",
-    "path": "쇼핑몰 > 브랜드몰",
+    "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
     "priority": 61
   },
@@ -16366,7 +16366,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 61
   },
@@ -16470,7 +16470,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 60
   },
@@ -16574,7 +16574,7 @@
     "logoUrl": "",
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
-    "path": "쇼핑몰 > 편집샵",
+    "path": "셀렉트샵 > 편집샵",
     "enabled": true,
     "priority": 59
   },
