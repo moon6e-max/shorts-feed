@@ -55,6 +55,17 @@
     "priority": 960
   },
   {
+    "title": "마이테레사",
+    "sub": "유럽 하이패션을 품격 있게 쇼핑하는 플랫폼",
+    "url": "https://www.mytheresa.com/",
+    "packageName": "com.mytheresa.app.mytheresa",
+    "logoText": "My\nTheresa",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 959
+  },
+  {
     "title": "무난",
     "sub": "일상에 자연스럽게 녹아드는 모던 스타일 제안",
     "url": "https://munan.kr/",
