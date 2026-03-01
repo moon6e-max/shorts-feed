@@ -140,17 +140,6 @@
     "priority": 1001
   },
   {
-    "title": "마이테레사",
-    "sub": "유럽 하이패션을 품격 있게 쇼핑하는 플랫폼",
-    "url": "https://www.mytheresa.com/",
-    "packageName": "com.mytheresa.app.mytheresa",
-    "logoText": "My\nTheresa",
-    "logoUrl": "",
-    "photos": [],
-    "enabled": true,
-    "priority": 870
-  },
-  {
     "title": "머스트잇",
     "sub": "글로벌 셀렉션을 감각적으로 만나는 공간",
     "url": "https://m.web.mustit.co.kr/",
