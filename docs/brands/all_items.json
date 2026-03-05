@@ -1,5 +1,18 @@
 [
   {
+    "title": "크림",
+    "sub": "한정판을 거래하는 가장 확실한 방법 Kream",
+    "url": "https://kream.co.kr/",
+    "packageName": "",
+    "logoText": "Kream",
+    "logoUrl": "",
+    "mode": "MALL",
+    "tabKey": "MALL_MEN",
+    "path": "셀렉트샵 > 쇼핑몰",
+    "enabled": true,
+    "priority": 669
+  },
+  {
     "title": "앤아더스토리즈",
     "sub": "유럽 감성 프리미엄 여성 패션",
     "url": "https://newtip.net/click.php?m=stories&a=A100702784&l=0000",
