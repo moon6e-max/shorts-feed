@@ -7,6 +7,8 @@
     "logoText": "Gerio",
     "logoUrl": "",
     "photos": [],
+    "mode": "MEN",
+    "tabKey": "MEN_TRENDY",
     "enabled": true,
     "priority": 1000
   },
