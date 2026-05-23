@@ -11,17 +11,6 @@
     "priority": 100
   },
   {
-    "title": "달트",
-    "sub": "차분한 무드의 데일리·아우터 중심 성인 여성 브랜드",
-    "url": "https://daltt.co.kr/",
-    "packageName": "com.cafe24.ec.plusdaltt",
-    "logoText": "Daltt",
-    "logoUrl": "",
-    "photos": [],
-    "enabled": true,
-    "priority": 99
-  },
-  {
     "title": "더팬츠",
     "sub": "팬츠 중심의 미니멀·스트릿 감성 성인 여성 브랜드",
     "url": "https://www.100jang.com/",
