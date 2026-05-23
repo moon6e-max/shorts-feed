@@ -8,7 +8,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 100
+    "priority": 1000
   },
   {
     "title": "더팬츠",
@@ -19,7 +19,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 98
+    "priority": 980
   },
   {
     "title": "도도스타일",
@@ -30,7 +30,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 97
+    "priority": 970
   },
   {
     "title": "디어바이미",
@@ -41,7 +41,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 96
+    "priority": 960
   },
   {
     "title": "로니엘",
@@ -52,7 +52,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 95
+    "priority": 950
   },
   {
     "title": "로우슬로우",
@@ -63,7 +63,18 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 94
+    "priority": 940
+  },
+  {
+    "title": "몽요즈",
+    "sub": "입자마자 예뻐지는 데일리룩",
+    "url": "https://mongyoz.com/",
+    "packageName": "",
+    "logoText": "Mongyoz",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 931
   },
   {
     "title": "멜티드",
@@ -74,7 +85,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 93
+    "priority": 930
   },
   {
     "title": "모어모먼트",
@@ -85,7 +96,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 92
+    "priority": 920
   },
   {
     "title": "봉주르프로젝트",
@@ -96,7 +107,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 91
+    "priority": 910
   },
   {
     "title": "빈볼",
@@ -107,7 +118,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 90
+    "priority": 900
   },
   {
     "title": "소녀레시피",
@@ -118,7 +129,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 89
+    "priority": 890
   },
   {
     "title": "쇼퍼랜드",
@@ -129,7 +140,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 88
+    "priority": 880
   },
   {
     "title": "슬로우앤드",
@@ -140,7 +151,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 87
+    "priority": 870
   },
   {
     "title": "실리아",
@@ -151,7 +162,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 86
+    "priority": 860
   },
   {
     "title": "에이와비",
@@ -162,7 +173,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 84
+    "priority": 840
   },
   {
     "title": "엘걸",
@@ -173,7 +184,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 83
+    "priority": 830
   },
   {
     "title": "온마이윈",
@@ -184,7 +195,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 82
+    "priority": 820
   },
   {
     "title": "위드윤",
@@ -195,7 +206,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 81
+    "priority": 810
   },
   {
     "title": "육육걸즈",
@@ -206,7 +217,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 80
+    "priority": 800
   },
   {
     "title": "쿠키마루",
@@ -217,7 +228,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 79
+    "priority": 790
   },
   {
     "title": "큐니걸스",
@@ -228,7 +239,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 78
+    "priority": 780
   },
   {
     "title": "키작은여자",
@@ -239,7 +250,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 77
+    "priority": 770
   },
   {
     "title": "키키코",
@@ -250,7 +261,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 76
+    "priority": 760
   },
   {
     "title": "킨다베이지",
@@ -261,7 +272,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 75
+    "priority": 750
   },
   {
     "title": "하이쭈",
@@ -272,7 +283,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 74
+    "priority": 740
   },
   {
     "title": "히니크",
@@ -283,6 +294,6 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 73
+    "priority": 730
   }
 ]
