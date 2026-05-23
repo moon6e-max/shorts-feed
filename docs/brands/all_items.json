@@ -1864,19 +1864,6 @@
     "priority": 99
   },
   {
-    "title": "달트",
-    "sub": "차분한 무드의 데일리·아우터 중심 성인 여성 브랜드",
-    "url": "https://daltt.co.kr/",
-    "packageName": "com.cafe24.ec.plusdaltt",
-    "logoText": "Daltt",
-    "logoUrl": "",
-    "mode": "WOMEN",
-    "tabKey": "WOMEN_PETITE",
-    "path": "여자 > 키작녀",
-    "enabled": true,
-    "priority": 99
-  },
-  {
     "title": "도매갓",
     "sub": "편안함과 실용성을 갖춘 데일리 스타일",
     "url": "http://domegod.com/",
@@ -3501,19 +3488,6 @@
     "mode": "MEN",
     "tabKey": "MEN_BIGSIZE",
     "path": "남자 > 빅사이즈",
-    "enabled": true,
-    "priority": 96
-  },
-  {
-    "title": "라쇼몽",
-    "sub": "후드·팬츠 중심의 남성 캐주얼·스트릿 의류 브랜드",
-    "url": "https://m.rashomong.kr/",
-    "packageName": "",
-    "logoText": "Rashomong",
-    "logoUrl": "",
-    "mode": "MEN",
-    "tabKey": "MEN_DAILY",
-    "path": "남자 > 데일리",
     "enabled": true,
     "priority": 96
   },
@@ -10043,19 +10017,6 @@
     "mode": "MALL",
     "tabKey": "MALL_UNISEX",
     "path": "셀렉트샵 > 편집샵",
-    "enabled": true,
-    "priority": 84
-  },
-  {
-    "title": "작살힙합",
-    "sub": "힙합 감성 스트릿 무드의 남성 캐주얼 브랜드",
-    "url": "https://zaksal.co.kr/",
-    "packageName": "",
-    "logoText": "Zaksal",
-    "logoUrl": "",
-    "mode": "MEN",
-    "tabKey": "MEN_BIGSIZE",
-    "path": "남자 > 빅사이즈",
     "enabled": true,
     "priority": 84
   },
