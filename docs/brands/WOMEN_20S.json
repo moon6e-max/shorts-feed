@@ -132,6 +132,17 @@
     "priority": 910
   },
   {
+    "title": "데일리쥬",
+    "sub": "우아한 감성으로 완성하는 여성 데일리 패션",
+    "url": "https://www.dailyjou.com/",
+    "packageName": "com.dailyjou.byapps",
+    "logoText": "Dailyjou",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 909
+  },
+  {
     "title": "라우코하우스",
     "sub": "담백하게 입는 겨울 데일리웨어",
     "url": "https://raucohouse.com/",
@@ -823,6 +834,17 @@
     "photos": [],
     "enabled": true,
     "priority": 330
+  },
+  {
+    "title": "투영",
+    "sub": "감각적 스타일의 여성 데일리 패션",
+    "url": "https://www.two0.co.kr/",
+    "packageName": "",
+    "logoText": "Two0",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 321
   },
   {
     "title": "트랜디어패럴",
