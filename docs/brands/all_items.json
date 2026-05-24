@@ -1,5 +1,18 @@
 [
   {
+    "title": "꼬리치레",
+    "sub": "캡·벙거지 등 다양한 모자 스타일을 갖춘 공간",
+    "url": "https://www.capstory.co.kr/",
+    "packageName": "",
+    "logoText": "Ccorichire",
+    "logoUrl": "",
+    "mode": "HAT_HAIR_ACC",
+    "tabKey": "CAP_UNISEX",
+    "path": "패션잡화 > 모자",
+    "enabled": true,
+    "priority": 101
+  },
+  {
     "title": "투영",
     "sub": "감각적 스타일의 여성 데일리 패션",
     "url": "https://www.two0.co.kr/",
