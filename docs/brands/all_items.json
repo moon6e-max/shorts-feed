@@ -1,5 +1,57 @@
 [
   {
+    "title": "오버즈",
+    "sub": "차분 · 남성 중심 데일리웨어",
+    "url": "https://ovuz.kr/",
+    "packageName": "",
+    "logoText": "Ovuz",
+    "logoUrl": "",
+    "mode": "MEN",
+    "tabKey": "MEN_DAILY",
+    "path": "남자 > 데일리",
+    "enabled": true,
+    "priority": 888
+  },
+  {
+    "title": "히즈핏",
+    "sub": "단정한 실루엣의 남성 데일리",
+    "url": "https://www.hisfit.co.kr/",
+    "packageName": "kr.co.smartskin.hisfitcokr",
+    "logoText": "Hisfit",
+    "logoUrl": "",
+    "mode": "MEN",
+    "tabKey": "MEN_DAILY",
+    "path": "남자 > 데일리",
+    "enabled": true,
+    "priority": 768
+  },
+  {
+    "title": "라온핏",
+    "sub": "자연스럽게 입는 캐주얼 스타일",
+    "url": "https://laonfit.co.kr/",
+    "packageName": "",
+    "logoText": "Laonfit",
+    "logoUrl": "",
+    "mode": "MEN",
+    "tabKey": "MEN_DAILY",
+    "path": "남자 > 데일리",
+    "enabled": true,
+    "priority": 951
+  },
+  {
+    "title": "프레젠틀",
+    "sub": "젠틀한 남성 데일리 캐주얼 의류 브랜드",
+    "url": "https://www.pregentle.com/",
+    "packageName": "com.cafe24.ec.pluspregentle",
+    "logoText": "Pregentle",
+    "logoUrl": "",
+    "mode": "MEN",
+    "tabKey": "MEN_DAILY",
+    "path": "남자 > 데일리",
+    "enabled": true,
+    "priority": 771
+  },
+  {
     "title": "꼬리치레",
     "sub": "캡·벙거지 등 다양한 모자 스타일을 갖춘 공간",
     "url": "https://www.capstory.co.kr/",
