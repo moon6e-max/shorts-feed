@@ -1,3 +1,5 @@
-ig_hongjoyful=3
-ig_other=1
-ig_test=1
+{
+  "ig_hongjoyful":3,
+  "ig_other":1,
+  "ig_test":1
+}
