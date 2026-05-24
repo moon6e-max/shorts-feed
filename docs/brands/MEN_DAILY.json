@@ -44,6 +44,17 @@
     "priority": 970
   },
   {
+    "title": "라온핏",
+    "sub": "자연스럽게 입는 캐주얼 스타일",
+    "url": "https://laonfit.co.kr/",
+    "packageName": "",
+    "logoText": "Laonfit",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 951
+  },
+  {
     "title": "로드워크",
     "sub": "실용적이고 편안한 남성 캐주얼 의류 브랜드",
     "url": "https://www.roadwalk.co.kr/",
@@ -141,6 +152,17 @@
     "photos": [],
     "enabled": true,
     "priority": 889
+  },
+  {
+    "title": "오버즈",
+    "sub": "차분 · 남성 중심 데일리웨어",
+    "url": "https://ovuz.kr/",
+    "packageName": "",
+    "logoText": "Ovuz",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 888
   },
   {
     "title": "언더70",
@@ -264,6 +286,17 @@
     "priority": 780
   },
   {
+    "title": "프레젠틀",
+    "sub": "젠틀한 남성 데일리 캐주얼 의류 브랜드",
+    "url": "https://www.pregentle.com/",
+    "packageName": "",
+    "logoText": "Pregentle",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 771
+  },
+  {
     "title": "페르메논",
     "sub": "셔츠·팬츠 중심의 남성 데일리 캐주얼 의류 브랜드",
     "url": "https://phermenon.com/index.html",
@@ -284,6 +317,17 @@
     "photos": [],
     "enabled": true,
     "priority": 769
+  },
+  {
+    "title": "히즈핏",
+    "sub": "단정한 실루엣의 남성 데일리",
+    "url": "https://www.hisfit.co.kr/",
+    "packageName": "kr.co.smartskin.hisfitcokr",
+    "logoText": "Hisfit",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 768
   },
   {
     "title": "핫코드",
