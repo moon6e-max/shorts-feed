@@ -289,7 +289,7 @@
     "title": "프레젠틀",
     "sub": "젠틀한 남성 데일리 캐주얼 의류 브랜드",
     "url": "https://www.pregentle.com/",
-    "packageName": "",
+    "packageName": "com.cafe24.ec.pluspregentle",
     "logoText": "Pregentle",
     "logoUrl": "",
     "photos": [],
