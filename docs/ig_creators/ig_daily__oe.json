@@ -1,6 +1,7 @@
 {
     "platform": "Instagram",
     "key": "ig_daily__oe",
+    "version":1,
     "name": "daily__oe",
     "sub": "영이 출근룩 | 데일리룩",
     "openProfileEnabled": true,
