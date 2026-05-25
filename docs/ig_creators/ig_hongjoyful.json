@@ -1,7 +1,7 @@
 {
     "platform": "Instagram",
     "key": "ig_hongjoyful",
-    "version":4,
+    "version":5,
     "name": "hongjoyfu",
     "sub": "직장인 데일리룩 / 출근룩 코디 맛집 ♥︎",
     "openProfileEnabled": true,
@@ -15,14 +15,6 @@
       { "title": "언니들💕 가을에는 니트 + 가디건인데욤 !!", "url": "https://www.instagram.com/p/DNXpN5ax-OF/", 
         "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all2.jpg" },
       { "title": "언니들💕 제가 드디어 해냈어요!!", "url": "https://www.instagram.com/p/DULmRXRk8zY/", 
-        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all3.jpg" },
-      { "title": "언니들💕 입는 순간 체형 정리되는 격식룩", "url": "https://www.instagram.com/p/DUE0xDkE4Cm/", 
-        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all4.jpg" },
-      { "title": "상견례룩 고민 끝내드릴께요 🖤🙆‍♀️", "url": "https://www.instagram.com/p/DUBUN6mk2Ty/", 
-        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all5.jpg" },
-      { "title": "오랜만에.. 저의 워너비 민경언니 …♥️", "url": "https://www.instagram.com/p/DT2a9xrkWdi/", 
-        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all6.jpg" },
-      { "title": "언니들💗 요 폴라니트", "url": "https://www.instagram.com/p/DTyycw7k3Hi/", 
-        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all7.jpg" }
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all3.jpg" }
          ]
   }
