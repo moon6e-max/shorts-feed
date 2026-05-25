@@ -1,6 +1,7 @@
 {
     "platform": "TIKTOK",
     "key": "tt_step_block",
+    "version":1,
     "name": "@step_block",
     "sub": "STEP BLØCK 글로벌 패션",
     "openProfileEnabled": true,
