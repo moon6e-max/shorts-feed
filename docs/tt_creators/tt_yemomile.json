@@ -1,6 +1,7 @@
 {
     "platform": "TIKTOK",
     "key": "tt_yemomile",
+    "version":1,
     "name": "@yemomile",
     "sub": "감성적인 데일리 패션 코디",
     "openProfileEnabled": true,
