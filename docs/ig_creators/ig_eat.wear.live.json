@@ -1,1 +1,31 @@
-1
+{
+    "platform": "Instagram",
+    "key": "ig_eat.wear.live",
+    "name": "eat.wear.live",
+    "sub": "직장인 데일리룩 | 잇웨어리브🕊️",
+    "openProfileEnabled": true,
+    "openProfileText": "SHOP 바로가기",
+    "openProfileUrl": "https://www.eatwearlive.co.kr/",
+    "profileUrl": "https://www.instagram.com/eat.wear.live/",
+    "avatarUrl": "https://moon6e-max.github.io/shorts-feed/images/allw.png",
+    "featured": [
+      { "title": "맑은 그린올리브 컬러 니트와 클린한 아이보리 코튼팬츠로 봄코디", "url": "https://www.instagram.com/reel/DUxqH_VEUJe/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all1.jpg" },
+      { "title": "봄시즌 입기좋은 아이템을 선보입니다.", "url": "https://www.instagram.com/reel/DUo6K7mkrv3/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all2.jpg" },
+      { "title": "봄코디와 함께보는 데님 코디모음", "url": "https://www.instagram.com/reel/DUknEjNEX7l/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all3.jpg" },
+      { "title": "오는 봄 함께하기 좋은 블라우스 & 데님", "url": "https://www.instagram.com/reel/DUf6jJKEXW3/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all4.jpg" },
+      { "title": "니트아이템으로 완성하는 봄 코디", "url": "https://www.instagram.com/reel/DUSupkCEZNI/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all5.jpg" },
+      { "title": "봄시즌 입기좋은 새로운 봄 코디룩을 만나보세요.", "url": "https://www.instagram.com/reel/DUF7LG7EXuw/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all6.jpg" },
+      { "title": "봄 블라우스 아이템 코디 모아보기", "url": "https://www.instagram.com/reel/DUA14gsEWJi/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all7.jpg" },
+      { "title": "늘 사랑받는 클래식 컬러 모노톤", "url": "https://www.instagram.com/reel/DTuuYTjkekB/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all8.jpg" },
+      { "title": "코디에 화사함이 담긴 크림컬러 아이템", "url": "https://www.instagram.com/reel/DTsG30BkU6G/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all9.jpg" }
+         ]
+  },
