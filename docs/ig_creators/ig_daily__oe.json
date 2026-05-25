@@ -1,1 +1,31 @@
-
+{
+    "platform": "Instagram",
+    "key": "ig_daily__oe",
+    "name": "daily__oe",
+    "sub": "영이 출근룩 | 데일리룩",
+    "openProfileEnabled": true,
+    "openProfileText": "SHOP 바로가기",
+    "openProfileUrl": "https://zvzo.xyz/ko/@daily__oe/",
+    "profileUrl": "https://www.instagram.com/daily__oe/reels/",
+    "avatarUrl": "https://moon6e-max.github.io/shorts-feed/images/allw.png",
+    "featured": [
+      { "title": "데님 20개는 넘게 있는데 맨날 입는 1-2개만 돌려입는중..", "url": "https://www.instagram.com/reel/DUnh-pJCSJg/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all1.jpg" },
+      { "title": "최대 40% 할인..?🔥 직장인 출근룩 니트 4종 추천!", "url": "https://www.instagram.com/reel/DSANVl2iRK-/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all2.jpg" },
+      { "title": "전부 다 담아도 10만원 이하인 역대급 가성비템들🧺", "url": "https://www.instagram.com/reel/DUx-sUIif0s/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all3.jpg" },
+      { "title": "직장인 일주일 출근룩 with 폴로", "url": "https://www.instagram.com/reel/DUiXrHDgU7y/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all4.jpg" },
+      { "title": "매년 꺼내입을 하프코트 추천드려요🤍", "url": "https://www.instagram.com/reel/DUYDat-Abt-/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all5.jpg" },
+      { "title": "부드러운 양가죽이어서 가죽이 부드럽고 고급지더라구요 ♥", "url": "https://www.instagram.com/reel/DUQUjjVCbTO/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all6.jpg" },
+      { "title": "유행 타지않아 매년 찾게되는 스웨이드 숄더백", "url": "https://www.instagram.com/reel/DTu_GRggdIV/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all7.jpg" },
+      { "title": "6만원대 초가성비 패딩 추천..🤍", "url": "https://www.instagram.com/reel/DTFsSXdgeXW/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all8.jpg" },
+      { "title": "캐주얼룩부터 출근룩까지 너무 활용하기 좋은 플리스티에요!", "url": "https://www.instagram.com/reel/DTDJU6vgYEN/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all9.jpg" }
+         ]
+  }
