@@ -1,1 +1,27 @@
-
+{
+    "platform": "Instagram",
+    "key": "ig_somemore_hill",
+    "name": "somemore_hill",
+    "sub": "썸모어힐ㅣ하객룩ㅣ오피스룩ㅣ출근룩ㅣ직장인룩ㅣ데일리룩ㅣ",
+    "openProfileEnabled": true,
+    "openProfileText": "SHOP 바로가기",
+    "openProfileUrl": "https://m.somemorehill.co.kr/",
+    "profileUrl": "https://www.instagram.com/somemore_hill/reels/",
+    "avatarUrl": "https://moon6e-max.github.io/shorts-feed/images/allw.png",
+    "featured": [
+      { "title": "고민시 룩..🤎🤎 데려왓어요", "url": "https://www.instagram.com/reel/DBXvKIEgueq/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all1.jpg" },
+      { "title": "같이 일하는 분들이 옷, 옷장 훔치고 싶다는 얘기…♥", "url": "https://www.instagram.com/reel/DSlxNbVErXO/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all2.jpg" },
+      { "title": "요곤 너무 귀여워서….안 올릴 수 없는 저의 최애 영상 :)", "url": "https://www.instagram.com/reel/DSCeNY5jzTj/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all3.jpg" },
+      { "title": "헤헷…🖤🖤 매장에 오시면 꼭 리뷰들 들려주시는 고객님!", "url": "https://www.instagram.com/reel/DR6MZ7nkhMR/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all4.jpg" },
+      { "title": "금융권에 종사하시는 30대 후반 고객님", "url": "https://www.instagram.com/reel/DR6FF00kibu/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all5.jpg" },
+      { "title": "구미에서 남편분이 직접 운전해주시고, 방문 해주시는 고객님..🖤🖤", "url": "https://www.instagram.com/reel/DQgYL9Qkia2/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all6.jpg" },
+      { "title": "비건 스웨이드 자켓..🤎🤎 우리 모델 동생도 입자마자 주문했던 코디 ! ☺️✨", "url": "https://www.instagram.com/reel/DQdprXskif5/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all7.jpg" }
+         ]
+  }
