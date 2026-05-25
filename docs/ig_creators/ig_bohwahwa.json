@@ -1,1 +1,31 @@
-1
+{
+    "platform": "Instagram",
+    "key": "ig_bohwahwa",
+    "name": "bohwahwa",
+    "sub": "황꿀 데일리룩 | 출근룩",
+    "openProfileEnabled": true,
+    "openProfileText": "SHOP 바로가기",
+    "openProfileUrl": "https://thevonue.com/",
+    "profileUrl": "https://www.instagram.com/bohwahwa/reels/",
+    "avatarUrl": "https://moon6e-max.github.io/shorts-feed/images/allw.png",
+    "featured": [
+      { "title": "어제 룩 🤍💚", "url": "https://www.instagram.com/reel/DU0NJemESDS/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all1.jpg" },
+      { "title": "솔로지옥 보셨어요?", "url": "https://www.instagram.com/reel/DUsfLC4kSxb/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all2.jpg" },
+      { "title": "난 왜 모자가 롯데자이언츠 모자 밖에 없냐😅", "url": "https://www.instagram.com/reel/DUncBzjkWXd/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all3.jpg" },
+      { "title": "오늘 기온이 12도인줄 알았어요😅 어쩐지 춥더라😇", "url": "https://www.instagram.com/reel/DUkzUeXka80/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all4.jpg" },
+      { "title": "어제 못 올리고 오늘 올리기 😅", "url": "https://www.instagram.com/reel/DUcsa99EVbC/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all5.jpg" },
+      { "title": "차콜인간🩶", "url": "https://www.instagram.com/reel/DUVcGnEEU4Q/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all6.jpg" },
+      { "title": "겨울 지겨워요 🤧🥶", "url": "https://www.instagram.com/reel/DUSx35LESQn/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all7.jpg" },
+      { "title": "일요일이 가는게 아쉬워요 🥹", "url": "https://www.instagram.com/reel/DUNfJDEEVhI/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all8.jpg" },
+      { "title": "분명 하늘색 목도리가 있었는데 어디로 갔지?🤔", "url": "https://www.instagram.com/reel/DUGAsnFkYC6/", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all9.jpg" }
+         ]
+  }
