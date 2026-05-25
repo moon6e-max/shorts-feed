@@ -1,0 +1,23 @@
+{
+    "platform": "TIKTOK",
+    "key": "tt_yemomile",
+    "name": "@yemomile",
+    "sub": "감성적인 데일리 패션 코디",
+    "openProfileEnabled": true,
+    "openProfileText": "SHOP 바로가기",
+    "openProfileUrl": "https://yemomile.com/",
+    "profileUrl": "https://www.tiktok.com/@yemomile",
+    "avatarUrl": "https://moon6e-max.github.io/shorts-feed/images/allw.png",
+    "featured": [
+      { "title": "메가박스 부수는 Unisex 흑청 팬츠 코디", "url": "https://www.tiktok.com/@yemomile/video/7601866563968339208", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all1.jpg" },
+      { "title": "후배 심장 부수는 힙한 언니룩🕶️", "url": "https://www.tiktok.com/@yemomile/video/7601812027895500039", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all2.jpg" },
+      { "title": "약수터 부수는 Unisex 츄리닝 팬츠 코디🌲", "url": "https://www.tiktok.com/@yemomile/video/7601502452663340306", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all3.jpg" },
+      { "title": "팝업스토어 부수는 교복st 데이트 코디🍬", "url": "https://www.tiktok.com/@yemomile/video/7601161145956699410", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all4.jpg" },
+      { "title": "2호선 부수는 Unisex 청바지 코디👖", "url": "https://www.tiktok.com/@yemomile/video/7600770003478056208", 
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all5.jpg" }
+    ]
+  },
