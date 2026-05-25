@@ -1,6 +1,7 @@
 {
     "platform": "Instagram",
     "key": "ig_dbstjdwnsdlqslek",
+    "version":1,
     "name": "dbstjdwnsdlqslek",
     "sub": "윤성준입니다 | 코디 추천•언박싱",
     "openProfileEnabled": true,
@@ -20,12 +21,6 @@
       { "title": "설 연휴 되기전에 미리 옷 장만해야지?!", "url": "https://www.instagram.com/reel/DUdBenyEkkK/", 
         "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all5.jpg" },
       { "title": "지금 사야 제일 쌈..!!!", "url": "https://www.instagram.com/reel/DULBcnnEo3I/", 
-        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all6.jpg" },
-      { "title": "상하의 6만원대 가성비 미친 후드티 코디‼️", "url": "https://www.instagram.com/reel/DUF1jsUEiai/", 
-        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all7.jpg" },
-      { "title": "#무신사 #무신사클리어런스 #아우터추천 #남친룩코디", "url": "https://www.instagram.com/reel/DUDDKR1ksFL/", 
-        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all8.jpg" },
-      { "title": "#낫온리포투데이 #트랙탑 #져지 #noft", "url": "https://www.instagram.com/reel/DT7kDVikj_G/", 
-        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all9.jpg" }
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all6.jpg" }
          ]
   }
