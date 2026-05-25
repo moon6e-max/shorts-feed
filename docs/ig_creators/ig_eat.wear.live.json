@@ -1,6 +1,7 @@
 {
     "platform": "Instagram",
     "key": "ig_eat.wear.live",
+    "version":1,
     "name": "eat.wear.live",
     "sub": "직장인 데일리룩 | 잇웨어리브🕊️",
     "openProfileEnabled": true,
