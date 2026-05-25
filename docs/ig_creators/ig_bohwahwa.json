@@ -1,7 +1,7 @@
 {
     "platform": "Instagram",
     "key": "ig_bohwahwa",
-    "version":1,
+    "version":2,
     "name": "bohwahwa",
     "sub": "황꿀 데일리룩 | 출근룩",
     "openProfileEnabled": true,
@@ -25,8 +25,6 @@
       { "title": "겨울 지겨워요 🤧🥶", "url": "https://www.instagram.com/reel/DUSx35LESQn/", 
         "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all7.jpg" },
       { "title": "일요일이 가는게 아쉬워요 🥹", "url": "https://www.instagram.com/reel/DUNfJDEEVhI/", 
-        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all8.jpg" },
-      { "title": "분명 하늘색 목도리가 있었는데 어디로 갔지?🤔", "url": "https://www.instagram.com/reel/DUGAsnFkYC6/", 
-        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all9.jpg" }
+        "thumbUrl": "https://moon6e-max.github.io/shorts-feed/images/all8.jpg" }
          ]
   }
