@@ -22,7 +22,6 @@
       "name": "남자",
       "channels": [
         { "enabled": true, "url": "https://www.youtube.com/@패션플래닛" },
-        { "enabled": true, "url": "https://www.youtube.com/@Oat_Taku" },
         { "enabled": true, "url": "https://www.youtube.com/@패션튜브삭형" },
         { "enabled": true, "url": "https://www.youtube.com/@우연w" },
         { "enabled": true, "url": "https://www.youtube.com/@fitthesize" },
