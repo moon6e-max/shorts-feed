@@ -1,14 +1,14 @@
 {
     "platform": "Instagram",
     "key": "ig_dbstjdwnsdlqslek",
-    "version":2,
+    "version":3,
     "name": "윤성준입니다",
     "sub": "코디 추천•언박싱|🔻무신사 꿀템 총 모음집🔥🔻",
     "openProfileEnabled": true,
     "openProfileText": "SHOP 바로가기",
     "openProfileUrl": "https://www.musinsa.com/curator/shop/X3VEki",
     "profileUrl": "https://www.instagram.com/dbstjdwnsdlqslek/reels/",
-    "avatarUrl": "https://moon6e-max.github.io/shorts-feed/images/allm.png",
+    "avatarUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_yun/0.png",
     "featured": [
       { "title": "대한민국 머슬핏 압도적인 판매량 1위 제품🔥", "url": "https://www.instagram.com/p/DYwkcHnyzy-/", 
         "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_yun/1.png" },
