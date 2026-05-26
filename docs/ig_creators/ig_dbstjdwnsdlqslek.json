@@ -1,7 +1,7 @@
 {
     "platform": "Instagram",
     "key": "ig_dbstjdwnsdlqslek",
-    "version":3,
+    "version":4,
     "name": "윤성준입니다",
     "sub": "코디 추천•언박싱|🔻무신사 꿀템 총 모음집🔥🔻",
     "openProfileEnabled": true,
@@ -17,6 +17,12 @@
       { "title": "진짜 너무 예쁜 반팔+아디다스 져지 코디🔥", "url": "https://www.instagram.com/p/DYjixVYyeLO/", 
         "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_yun/3.png" },
       { "title": "요즘 진짜 유행하는 축구팀 져지‼️", "url": "https://www.instagram.com/p/DYZRopFSSfG/", 
-        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_yun/4.png" }
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_yun/4.png" },
+        { "title": "데일리로 입기 최고인 제품들이니까 놓치지마‼️", "url": "https://www.instagram.com/reel/DYUF7IsyTqh/", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_yun/5.png" },
+        { "title": "얼른 가서 줍줍 ㄱㄱ🔥", "url": "https://www.instagram.com/reel/DYRiVoMS2cy/", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_yun/6.png" },
+        { "title": "스트라이프 반팔 없는 사람들 주목🔥", "url": "https://www.instagram.com/reel/DYMU-iBS1jo/", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_yun/7.png" }
          ]
   }
