@@ -198,6 +198,17 @@
     "priority": 830
   },
   {
+    "title": "영롱서울",
+    "sub": "클래식과 현대가 어우러진 품격 있는 주얼리",
+    "url": "https://m.younglong-seoul.kr/",
+    "packageName": "",
+    "logoText": ".Younglong\nSeoul",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 830
+  },
+  {
     "title": "앤클라인",
     "sub": "모던 감성으로 완성하는 타임리스 주얼리 컬렉션",
     "url": "https://anneklein.com/",
@@ -394,6 +405,17 @@
     "photos": [],
     "enabled": true,
     "priority": 670
+  },
+  {
+    "title": "히에리즈",
+    "sub": "세련된 디테일의 여성전용 주얼리",
+    "url": "https://heeeriz.shop.blogpay.co.kr/",
+    "packageName": "",
+    "logoText": "Heeeriz",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 669
   },
   {
     "title": "휴스타드",
