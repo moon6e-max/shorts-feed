@@ -1,5 +1,18 @@
 [
   {
+    "title": "모턴",
+    "sub": "가장 아름다운 주얼리 모턴",
+    "url": "https://www.mor-ton.com/",
+    "packageName": "",
+    "logoText": "Mor-ton",
+    "logoUrl": "",
+    "mode": "JEWELRY",
+    "tabKey": "JEWELRY_WOMEN",
+    "path": "주얼리 > 여자",
+    "enabled": true,
+    "priority": 899
+  },
+  {
     "title": "히에리즈",
     "sub": "세련된 디테일의 여성전용 주얼리",
     "url": "https://heeeriz.shop.blogpay.co.kr/",
