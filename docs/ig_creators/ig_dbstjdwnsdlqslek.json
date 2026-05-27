@@ -1,7 +1,7 @@
 {
     "platform": "Instagram",
     "key": "ig_dbstjdwnsdlqslek",
-    "version":4,
+    "version":5,
     "name": "윤성준입니다",
     "sub": "코디 추천•언박싱|무신사 꿀템 총 모음집🔥",
     "openProfileEnabled": true,
@@ -10,6 +10,8 @@
     "profileUrl": "https://www.instagram.com/dbstjdwnsdlqslek/reels/",
     "avatarUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_yun/0.png",
     "featured": [
+      { "title": "야구 좋아하면 유니폼 하나씩은 필수임‼️", "url": "https://www.instagram.com/reel/DY1ryuJSIV6/", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_yun/8.png" },
       { "title": "대한민국 머슬핏 압도적인 판매량 1위 제품🔥", "url": "https://www.instagram.com/p/DYwkcHnyzy-/", 
         "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_yun/1.png" },
       { "title": "발매가보다 훨씬 싼 제품들‼️", "url": "https://www.instagram.com/p/DYt3-m4SJar/", 
