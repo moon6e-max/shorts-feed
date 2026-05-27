@@ -1,13 +1,13 @@
 {
     "platform": "Instagram",
-    "key": "ig_hongjoyful",
+    "key": "ig_mingsoo_yoo",
     "version":6,
-    "name": "hongjoyfu",
-    "sub": "직장인 데일리룩 / 출근룩 코디 맛집 ♥︎",
+    "name": "밍슈 • 커밍투유",
+    "sub": "💼30대 직장인룩·스타일링 꿀팁",
     "openProfileEnabled": true,
     "openProfileText": "SHOP 바로가기",
-    "openProfileUrl": "https://hizzi.co.kr/",
-    "profileUrl": "https://www.instagram.com/hongjoyful/",
+    "openProfileUrl": "https://comingtoyoo.co.kr/",
+    "profileUrl": "https://www.instagram.com/mingsoo_yoo/",
     "avatarUrl": "https://moon6e-max.github.io/shorts-feed/images/allw.png",
     "featured": [
       { "title": "꾸민듯 안꾸민듯 편하지만 예쁜 스타일", "url": "https://www.instagram.com/p/DTnaU9ikSVH/", 
