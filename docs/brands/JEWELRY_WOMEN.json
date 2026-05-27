@@ -121,6 +121,17 @@
     "priority": 900
   },
   {
+    "title": "모턴",
+    "sub": "가장 아름다운 주얼리 모턴",
+    "url": "https://monicavinader.co.kr/",
+    "packageName": "",
+    "logoText": "Monica\nvinader",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 899
+  },
+  {
     "title": "모앳",
     "sub": "미니멀한 아름다움을 담은 감각적 아이템 공간",
     "url": "http://moat.kr/index.html",
@@ -229,6 +240,17 @@
     "photos": [],
     "enabled": true,
     "priority": 810
+  },
+  {
+    "title": "엑스엑스원",
+    "sub": "섬세한 디테일로 감각을 더하는 아이템 공간",
+    "url": "https://xxone.co.kr/",
+    "packageName": "",
+    "logoText": "XXone",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 809
   },
   {
     "title": "여우이야기",
