@@ -88,6 +88,17 @@
     "priority": 930
   },
   {
+    "title": "러브드제이",
+    "sub": "러블리한 감성으로 완성된 심플 악세사리",
+    "url": "https://www.revedej.com/",
+    "packageName": "",
+    "logoText": "Revedej",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 929
+  },
+  {
     "title": "로즈몽",
     "sub": "클래식 감성과 품격을 담은 타임리스 주얼리",
     "url": "https://rosemont.co.kr/",
@@ -97,6 +108,17 @@
     "photos": [],
     "enabled": true,
     "priority": 920
+  },
+  {
+    "title": "라퓌나르",
+    "sub": "세련된 감성으로 완성되는 주얼리",
+    "url": "https://raffinare.com/",
+    "packageName": "",
+    "logoText": "Raffinare",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 910
   },
   {
     "title": "리골드",
