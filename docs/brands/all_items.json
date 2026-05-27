@@ -1,5 +1,44 @@
 [
   {
+    "title": "히에리즈",
+    "sub": "세련된 디테일의 여성전용 주얼리",
+    "url": "https://heeeriz.shop.blogpay.co.kr/",
+    "packageName": "",
+    "logoText": "Heeeriz",
+    "logoUrl": "",
+    "mode": "JEWELRY",
+    "tabKey": "JEWELRY_WOMEN",
+    "path": "주얼리 > 여자",
+    "enabled": true,
+    "priority": 669
+  },
+  {
+    "title": "영롱서울",
+    "sub": "클래식과 현대가 어우러진 품격 있는 주얼리",
+    "url": "https://m.younglong-seoul.kr/",
+    "packageName": "",
+    "logoText": "Younglong\nSeoul",
+    "logoUrl": "",
+    "mode": "JEWELRY",
+    "tabKey": "JEWELRY_WOMEN",
+    "path": "주얼리 > 여자",
+    "enabled": true,
+    "priority": 829
+  },
+  {
+    "title": "쥬엘르",
+    "sub": "우아함과 섬세함을 담은 주얼리 아이콘",
+    "url": "https://www.jewelle.co.kr/",
+    "packageName": "",
+    "logoText": "Jewelle",
+    "logoUrl": "",
+    "mode": "JEWELRY",
+    "tabKey": "JEWELRY_WOMEN",
+    "path": "주얼리 > 여자",
+    "enabled": true,
+    "priority": 741
+  },
+  {
     "title": "오버즈",
     "sub": "차분 · 남성 중심 데일리웨어",
     "url": "https://ovuz.kr/",
