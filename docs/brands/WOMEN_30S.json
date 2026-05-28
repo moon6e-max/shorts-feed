@@ -1,5 +1,16 @@
 [
   {
+    "title": "가나다란",
+    "sub": "자연스러운 여성 코디 공간",
+    "url": "https://ganadaran.co.kr/",
+    "packageName": "com.ganadaran.byapps",
+    "logoText": "Ganadaran",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 1001
+  },
+  {
     "title": "갠소",
     "sub": "매일 입기 좋은 감각적인 데일리웨어",
     "url": "https://www.gaenso.com/",
