@@ -143,6 +143,39 @@
     "priority": 909
   },
   {
+    "title": "데이아워",
+    "sub": "매일 입기 좋은 감성룩 공간",
+    "url": "https://m.dayour.kr/",
+    "packageName": "",
+    "logoText": "Dayour",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 908
+  },
+  {
+    "title": "데얼쉬이즈",
+    "sub": "여성스러운 무드를 담은 공간",
+    "url": "https://theresheis.kr/",
+    "packageName": "com.thereshe.byapps",
+    "logoText": "There\nsheis",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 907
+  },
+  {
+    "title": "라라스텔라",
+    "sub": "감성 데일리룩을 만나는 공간",
+    "url": "https://m.lalastella.co.kr/",
+    "packageName": "",
+    "logoText": "Lalastella",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 901
+  },
+  {
     "title": "라우코하우스",
     "sub": "담백하게 입는 겨울 데일리웨어",
     "url": "https://raucohouse.com/",
@@ -231,6 +264,17 @@
     "priority": 850
   },
   {
+    "title": "로즈드제이",
+    "sub": "러블리한 여성룩을 만나는 공간",
+    "url": "https://rosedej.kr/",
+    "packageName": "",
+    "logoText": "Rosedej",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 849
+  },
+  {
     "title": "로에",
     "sub": "의류와 비키니를 판매하는 패션 쇼핑몰",
     "url": "https://kr.leauet.com/",
@@ -240,6 +284,17 @@
     "photos": [],
     "enabled": true,
     "priority": 840
+  },
+  {
+    "title": "루미",
+    "sub": "은은한 무드의 데일리룩 공간",
+    "url": "https://lumiu.co.kr/",
+    "packageName": "",
+    "logoText": "Lumiu",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 839
   },
   {
     "title": "리리앤코",
@@ -374,6 +429,17 @@
     "priority": 720
   },
   {
+    "title": "베니토",
+    "sub": "고급스러운 데일리룩 공간",
+    "url": "https://m.benito.co.kr/",
+    "packageName": "com.looket.benito",
+    "logoText": "Benito",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 719
+  },
+  {
     "title": "벨리아브",
     "sub": "세련된 감성으로 완성하는 여성 데일리웨어",
     "url": "https://www.wangssmall.com/",
@@ -473,6 +539,17 @@
     "priority": 630
   },
   {
+    "title": "씨앤힙",
+    "sub": "힙한 감성룩을 완성하는 공간",
+    "url": "https://www.cnhip.kr",
+    "packageName": "",
+    "logoText": "Cnhip",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 621
+  },
+  {
     "title": "썸제이",
     "sub": "트렌디한 감성과 편안함을 담은 데일리웨어 스타일",
     "url": "https://www.ssumj.com/",
@@ -550,6 +627,17 @@
     "priority": 560
   },
   {
+    "title": "아우스테",
+    "sub": "감각적인 데일리룩 공간",
+    "url": "https://www.auste.shop/",
+    "packageName": "",
+    "logoText": "Auste",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 559
+  },
+  {
     "title": "안나앤플러스",
     "sub": "차분하고 단정한 실루엣의\n미니멀 데일리·오피스룩 스타일",
     "url": "https://annanplus.com/",
@@ -614,6 +702,17 @@
     "photos": [],
     "enabled": true,
     "priority": 520
+  },
+  {
+    "title": "엘레",
+    "sub": "세련된 여성 스타일을 제안하는 공간",
+    "url": "https://www.elreve.com/",
+    "packageName": "",
+    "logoText": "Elreve",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 519
   },
   {
     "title": "예모마일",
@@ -748,6 +847,17 @@
     "priority": 400
   },
   {
+    "title": "퍼빗",
+    "sub": "트렌디한 여성룩을 만나는 공간",
+    "url": "https://www.perbit.co.kr/",
+    "packageName": "com.app.perbit",
+    "logoText": "Perbit",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 399
+  },
+  {
     "title": "페미니크",
     "sub": "시간이 지나도 멋스러운 차분한 데일리웨어",
     "url": "https://www.feminique.kr/",
@@ -781,6 +891,17 @@
     "priority": 370
   },
   {
+    "title": "핀르",
+    "sub": "깔끔한 데일리룩을 제안하는 공간",
+    "url": "https://m.finleu.com/",
+    "packageName": "com.cafe24.ec.plusgudrl62273",
+    "logoText": "Finleu",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 369
+  },
+  {
     "title": "핑크시슬리",
     "sub": "캐주얼 감성의 편안한 데일리룩",
     "url": "https://www.pinksisly.com/",
@@ -790,6 +911,17 @@
     "photos": [],
     "enabled": true,
     "priority": 360
+  },
+  {
+    "title": "하우스모어",
+    "sub": "편안한 데일리 스타일 공간",
+    "url": "https://goodlook.kr/",
+    "packageName": "",
+    "logoText": "Housemore",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 352
   },
   {
     "title": "히찌",
