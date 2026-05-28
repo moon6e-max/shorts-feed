@@ -1,5 +1,18 @@
 [
   {
+    "title": "오텀",
+    "sub": "젠틀한 남성 데일리 캐주얼 의류 브랜드",
+    "url": "https://www.au-tumn.com/",
+    "packageName": "",
+    "logoText": "Au-tumn",
+    "logoUrl": "",
+    "mode": "MEN",
+    "tabKey": "MEN_DAILY",
+    "path": "남자 > 데일리",
+    "enabled": true,
+    "priority": 887
+  },
+  {
     "title": "제이엔제이",
     "sub": "바라보는 것만으로 기분 좋아지는 데일리 악세사리",
     "url": "https://jnjstore.co.kr/",
