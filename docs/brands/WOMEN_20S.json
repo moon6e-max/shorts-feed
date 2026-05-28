@@ -5,9 +5,14 @@
     "url": "https://smartstore.naver.com/moncel",
     "packageName": "",
     "logoText": "moncel",
-    "logoUrl": "",
-    "photos": [],
+    "logoUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_moncelj/j.jpg",
+    "photos": ["https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_moncelj/w_1.jpg",
+    "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_moncelj/w_2.jpg",
+    "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_moncelj/w_3.jpg",
+    "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_moncelj/w_4.jpg",
+    "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_moncelj/w_5.jpg"],
     "enabled": true,
+    "badge": "NEW",
     "priority": 1001
   },
   {
