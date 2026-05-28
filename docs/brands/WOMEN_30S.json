@@ -176,6 +176,22 @@
     "priority": 860
   },
   {
+    "title": "몽셀마켓",
+    "sub": "여리핏 한방울 섞은 데일리룩, 데이트룩 소개🩵",
+    "url": "https://smartstore.naver.com/moncel",
+    "packageName": "",
+    "logoText": "moncel",
+    "logoUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_moncelj/j.jpg",
+    "photos": ["https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_moncelj/w_1.jpg",
+    "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_moncelj/w_2.jpg",
+    "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_moncelj/w_3.jpg",
+    "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_moncelj/w_4.jpg",
+    "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_moncelj/w_5.jpg"],
+    "enabled": true,
+    "badge": "NEW",
+    "priority": 859
+  },
+  {
     "title": "무드인슬로우",
     "sub": "잔잔한 무드의 데일리 캐주얼",
     "url": "https://moodinslow.com/",
