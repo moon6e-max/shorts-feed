@@ -1,5 +1,18 @@
 [
   {
+    "title": "몽셀마켓",
+    "sub": "여리핏 한방울 섞은 데일리룩, 데이트룩 소개🩵",
+    "url": "https://smartstore.naver.com/moncel",
+    "packageName": "",
+    "logoText": "",
+    "logoUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_moncelj/j.jpg",
+    "mode": "WOMEN",
+    "tabKey": "WOMEN_30S",
+    "path": "여자 > 30대",
+    "enabled": true,
+    "priority": 859
+  },
+  {
     "title": "비앙트",
     "sub": "우아한 여성 스타일을 담은 공간",
     "url": "https://viant.co.kr/",
