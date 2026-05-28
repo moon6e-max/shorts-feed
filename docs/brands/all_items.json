@@ -1,5 +1,18 @@
 [
   {
+    "title": "메띠에하르",
+    "sub": "장인의 손길과 현대적인 감각이 어우러진 여성전용 브랜드",
+    "url": "https://metierhart.co.kr/",
+    "packageName": "",
+    "logoText": "Metierhart",
+    "logoUrl": "",
+    "mode": "HAT_HAIR_ACC",
+    "tabKey": "BAG",
+    "path": "패션잡화 > 가방",
+    "enabled": true,
+    "priority": 921
+  },
+  {
     "title": "오텀",
     "sub": "젠틀한 남성 데일리 캐주얼 의류 브랜드",
     "url": "https://www.au-tumn.com/",
