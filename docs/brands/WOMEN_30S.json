@@ -209,6 +209,28 @@
     "priority": 820
   },
   {
+    "title": "바이써니",
+    "sub": "우아한 데일리룩을 만나는 공간",
+    "url": "https://byssiny.co.kr/",
+    "packageName": "",
+    "logoText": "Byssiny",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 819
+  },
+  {
+    "title": "비앙트",
+    "sub": "우아한 여성 스타일을 담은 공간",
+    "url": "https://viant.co.kr/",
+    "packageName": "",
+    "logoText": "Viant",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 818
+  },
+  {
     "title": "벨르마",
     "sub": "시간이 지나도 멋이 유지되는 단정한 클래식 스타일",
     "url": "https://bellema.co.kr/",
@@ -341,6 +363,28 @@
     "priority": 720
   },
   {
+    "title": "어반트리스",
+    "sub": "도시적인 여성 스타일 공간",
+    "url": "https://urbantrees.kr/",
+    "packageName": "",
+    "logoText": "Urbantrees",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 719
+  },
+  {
+    "title": "얼뮤트",
+    "sub": "차분한 무드의 여성룩 공간",
+    "url": "https://almute.kr/",
+    "packageName": "",
+    "logoText": "Almute",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 718
+  },
+  {
     "title": "에피스걸",
     "sub": "도시적인 유니크함을 완성하는 세련된 데일리 스타일",
     "url": "https://www.epicegirls.com/",
@@ -396,6 +440,17 @@
     "priority": 670
   },
   {
+    "title": "조블린",
+    "sub": "세련된 여성들의 감성룩 공간",
+    "url": "https://jovlin.com/",
+    "packageName": "",
+    "logoText": "Jovlin",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 679
+  },
+  {
     "title": "커밍투유",
     "sub": "단아한 무드의 여성 데일리웨어",
     "url": "https://comingtoyoo.co.kr/",
@@ -404,7 +459,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 669
+    "priority": 668
   },
   {
     "title": "코코마랑",
@@ -471,6 +526,17 @@
     "photos": [],
     "enabled": true,
     "priority": 619
+  },
+  {
+    "title": "팟인투",
+    "sub": "편안한 무드의 데일리룩 공간",
+    "url": "https://fitinto.kr/",
+    "packageName": "",
+    "logoText": "Fitinto",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 618
   },
   {
     "title": "플러스플러스",
