@@ -7,21 +7,21 @@
       "desc": "지금 가장 핫한 스타일",
       "buttonText": "지금 확인하기",
 
-      "imageUrl": "https://moon6e-max.github.io/shorts-feed/images/banner1.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/benner/b_1.jpg",
 
       "linkUrl": "https://smartstore.naver.com/moncel/products/13585922603"
     },
 
     {
-      "title": "무료배송 특가",
-      "subtitle": "Only Today",
-      "desc": "단 1개 구매해도 배송비 무료",
+      "title": "여름 휴양지룩 추천!",
+      "subtitle": "Summer Mood",
+      "desc": "가볍고 시원한 데일리 원피스",
 
-      "buttonText": "바로가기",
+      "buttonText": "지금 확인하기",
 
-      "imageUrl": "https://moon6e-max.github.io/shorts-feed/images/banner2.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/benner/b_1.jpg",
 
-      "linkUrl": "https://..."
+      "linkUrl": "https://smartstore.naver.com/moncel/products/13585922603"
     }
   ]
 }
