@@ -2,16 +2,26 @@
   "version": 1,
   "banners": [
     {
-      "imageUrl": "https://moon6e-max.github.io/shorts-feed/images/kmh1.jpg",
-      "linkUrl": "https://smartstore.naver.com/withjongi"
+      "title": "봄 패션 트렌드",
+      "subtitle": "New Season",
+      "desc": "지금 가장 핫한 스타일",
+      "buttonText": "지금 확인하기",
+
+      "imageUrl": "https://moon6e-max.github.io/shorts-feed/images/banner1.jpg",
+
+      "linkUrl": "https://smartstore.naver.com/moncel/products/13585922603"
     },
+
     {
-      "imageUrl": "https://moon6e-max.github.io/shorts-feed/images/kmh2.jpg",
-      "linkUrl": "https://smartstore.naver.com/withjongi"
-    },
-    {
-      "imageUrl": "https://moon6e-max.github.io/shorts-feed/images/kmh3.jpg",
-      "linkUrl": "https://smartstore.naver.com/withjongi"
+      "title": "무료배송 특가",
+      "subtitle": "Only Today",
+      "desc": "단 1개 구매해도 배송비 무료",
+
+      "buttonText": "바로가기",
+
+      "imageUrl": "https://moon6e-max.github.io/shorts-feed/images/banner2.jpg",
+
+      "linkUrl": "https://..."
     }
   ]
 }
