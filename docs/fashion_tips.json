@@ -2,18 +2,18 @@
   "tips":[
 
     {
-      "country":"일본",
-      "flag":"🇯🇵",
-      "title":"일본 스트릿 패션",
-      "desc":"오버핏 코디의 정석",
-      "imageUrl":"https://raw.githubusercontent.com/brandbridge-images/images/main/business/Tip/k_1.jpg"
-    },
-
-    {
       "country":"한국",
       "flag":"🇰🇷",
       "title":"한국 데일리룩",
       "desc":"깔끔한 미니멀 스타일",
+      "imageUrl":"https://raw.githubusercontent.com/brandbridge-images/images/main/business/Tip/k_1.jpg"
+    },
+
+    {
+      "country":"일본",
+      "flag":"🇯🇵",
+      "title":"일본 스트릿 패션",
+      "desc":"오버핏 코디의 정석",
       "imageUrl":"https://raw.githubusercontent.com/brandbridge-images/images/main/business/Tip/j_1.jpg"
     },
 
@@ -27,3 +27,7 @@
 
   ]
 }
+"country":"일본",
+      "flag":"🇯🇵",
+      "title":"일본 스트릿 패션",
+      "desc":"오버핏 코디의 정석",
