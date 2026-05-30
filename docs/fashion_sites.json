@@ -1,1 +1,78 @@
-
+{
+  "한국": [
+    {
+      "title": "무신사 스냅",
+      "sub": "한국 남녀 데일리룩과 스트릿 코디를 참고하기 좋아요.",
+      "logoText": "MUSINSA\nSNAP",
+      "logoUrl":"",
+      "url": "https://www.musinsa.com/snap"
+    },
+    {
+      "title": "코디북",
+      "sub": "데일리룩, 출근룩, 데이트룩 코디 참고에 좋아요.",
+      "logoText": "Codibook",
+      "logoUrl":"",
+      "url": "https://codibook.net/"
+    },
+    {
+      "title": "29CM 스타일링",
+      "sub": "감성적인 브랜드 코디와 스타일 콘텐츠를 볼 수 있어요.",
+      "logoText": "29CM",
+      "logoUrl":"",
+      "url": "https://www.29cm.co.kr/"
+    },
+    {
+      "title": "W컨셉",
+      "sub": "여성 패션 브랜드와 스타일링 참고에 좋아요.",
+      "logoText": "W",
+      "logoUrl":"",
+      "url": "https://www.wconcept.co.kr/"
+    }
+  ],
+  "일본": [
+    {
+      "title": "Tokyo Fashion",
+      "sub": "도쿄 스트릿 패션 스냅을 볼 수 있는 사이트예요.",
+      "logoText": "Tokyo\nFashion",
+      "logoUrl":"",
+      "url": "https://tokyofashion.com/"
+    },
+    {
+      "title": "WEAR",
+      "sub": "일본 인기 코디와 데일리룩을 참고하기 좋아요.",
+      "logoText": "WEAR",
+      "logoUrl":"",
+      "url": "https://wear.jp/"
+    },
+    {
+      "title": "FUDGE",
+      "sub": "일본 감성 캐주얼룩과 매거진 스타일 참고에 좋아요.",
+      "logoText": "FUDGE",
+      "logoUrl":"",
+      "url": "https://fudge.jp/"
+    }
+  ],
+  "해외": [
+    {
+      "title": "Pinterest Y2K",
+      "sub": "해외 Y2K 코디 이미지를 빠르게 참고하기 좋아요.",
+      "logoText": "Pinterest",
+      "logoUrl":"",
+      "url": "https://www.pinterest.com/search/pins/?q=y2k%20fashion"
+    },
+    {
+      "title": "Vogue Street Style",
+      "sub": "해외 패션위크와 스트릿 스타일을 볼 수 있어요.",
+      "logoText": "VOGUE",
+      "logoUrl":"",
+      "url": "https://www.vogue.com/fashion/street-style"
+    },
+    {
+      "title": "Hypebeast Style",
+      "sub": "스트릿 패션과 트렌드 참고에 좋아요.",
+      "logoText": "HYPE\nBEAST",
+      "logoUrl":"",
+      "url": "https://hypebeast.com/fashion"
+    }
+  ]
+}
