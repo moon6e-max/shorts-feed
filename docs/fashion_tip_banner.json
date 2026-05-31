@@ -1,15 +1,15 @@
 {
   "banners": [
     {
-      "imageUrl": "https://moon6e-max.github.io/shorts-feed/banners/fashion_tip_1.jpg",
-      "sub": "TODAY'S TIP",
-      "title": "오늘 뭐 입지?",
-      "desc": "스타일별 코디 팁을 확인해보세요",
-      "buttonText": "추천 보기",
-      "styleKey": "한국"
+      "imageUrl":"https://moon6e-max.github.io/shorts-feed/banners/f1.jpg",
+      "sub":"TODAY'S TIP",
+      "title":"오늘 뭐 입지?",
+      "desc":"스타일별 코디 팁을 확인해보세요",
+      "buttonText":"추천 보기",
+      "url":"https://wear.jp/"
     },
     {
-      "imageUrl": "https://moon6e-max.github.io/shorts-feed/banners/fashion_tip_2.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/FashionTipbanner/ft_2.jpg",
       "sub": "JAPAN STYLE",
       "title": "일본 스트릿 패션",
       "desc": "오버핏 감성 코디를 참고해보세요",
