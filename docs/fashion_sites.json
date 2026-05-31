@@ -54,25 +54,46 @@
   ],
   "해외": [
     {
-      "title": "Pinterest Y2K",
-      "sub": "해외 Y2K 코디 이미지를 빠르게 참고하기 좋아요.",
-      "logoText": "Pinterest",
+      "title": "Asos",
+      "sub": "영국 / 해외 한국 무신사 느낌 참고하기 좋아요.",
+      "logoText": "Asos",
       "logoUrl":"",
-      "url": "https://www.pinterest.com/search/pins/?q=y2k%20fashion"
+      "url": "https://www.asos.com/"
     },
     {
-      "title": "Vogue Street Style",
-      "sub": "해외 패션위크와 스트릿 스타일을 볼 수 있어요.",
-      "logoText": "VOGUE",
+      "title": "SSENSE",
+      "sub": "캐나다 / 해외 감성 GOAT 스타일을 볼 수 있어요.",
+      "logoText": "SSENSE",
       "logoUrl":"",
-      "url": "https://www.vogue.com/fashion/street-style"
+      "url": "https://www.ssense.com/"
     },
     {
-      "title": "Hypebeast Style",
-      "sub": "스트릿 패션과 트렌드 참고에 좋아요.",
-      "logoText": "HYPE\nBEAST",
+      "title": "Urban\nOutfitters",
+      "sub": "미국 스트릿 / 빈티지 / Y2K 10~20대 감성",
+      "logoText": "Urban\nOutfitters",
       "logoUrl":"",
-      "url": "https://hypebeast.com/fashion"
+      "url": "https://www.urbanoutfitters.com/"
+    },
+    {
+      "title": "Free\nPeople",
+      "sub": "보헤미안 / 감성 / 여성패션",
+      "logoText": "Free\nPeople",
+      "logoUrl":"",
+      "url": "https://www.freepeople.com/"
+    },
+    {
+      "title": "Fashion\nNova",
+      "sub": "SNS / 트렌디 / 미국 스타일",
+      "logoText": "Fashion\nNova",
+      "logoUrl":"",
+      "url": "https://www.fashionnova.com/"
+    },
+    {
+      "title": "Boohoo",
+      "sub": "영국 패스트패션",
+      "logoText": "Boohoo",
+      "logoUrl":"",
+      "url": "https://www.boohoo.com/"
     }
   ]
 }
