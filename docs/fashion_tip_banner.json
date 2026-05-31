@@ -1,1 +1,37 @@
+{
+  "banners": [
 
+    {
+      "imageUrl": "https://moon6e-max.github.io/shorts-feed/banners/f1.jpg",
+      "sub": "TODAY'S TIP",
+      "title": "오늘 뭐 입지?",
+      "desc": "스타일별 코디 팁을 확인해보세요",
+      "buttonText": "추천 보기"
+    },
+
+    {
+      "imageUrl": "https://moon6e-max.github.io/shorts-feed/banners/f2.jpg",
+      "sub": "JAPAN STYLE",
+      "title": "일본 스트릿 패션",
+      "desc": "감성 오버핏 코디를 참고해보세요",
+      "buttonText": "바로 보기"
+    },
+
+    {
+      "imageUrl": "https://moon6e-max.github.io/shorts-feed/banners/f3.jpg",
+      "sub": "GLOBAL TREND",
+      "title": "해외 Y2K 스타일",
+      "desc": "요즘 인기 해외 패션 스타일",
+      "buttonText": "둘러보기"
+    },
+
+    {
+      "imageUrl": "https://moon6e-max.github.io/shorts-feed/banners/f4.jpg",
+      "sub": "KOREA DAILY",
+      "title": "한국 데일리룩 추천",
+      "desc": "데일리 패션 참고 사이트 모음",
+      "buttonText": "구경하기"
+    }
+
+  ]
+}
