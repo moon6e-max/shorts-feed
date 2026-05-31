@@ -31,11 +31,11 @@
   ],
   "일본": [
     {
-      "title": "Tokyo Fashion",
-      "sub": "도쿄 스트릿 패션 스냅을 볼 수 있는 사이트예요.",
-      "logoText": "Tokyo\nFashion",
+      "title": "CBK",
+      "sub": "일본 인기 패션 코디 플랫폼, 실제 유저들의 스타일과 데일리룩을 확인해보세요.",
+      "logoText": "CBK",
       "logoUrl":"",
-      "url": "https://tokyofashion.com/"
+      "url": "https://cubki.jp/"
     },
     {
       "title": "WEAR",
@@ -49,7 +49,21 @@
       "sub": "일본 감성 캐주얼룩과 매거진 스타일 참고에 좋아요.",
       "logoText": "FUDGE",
       "logoUrl":"",
-      "url": "https://fudge.jp/"
+      "url": "https://fudge.jp/worldsnap/tokyo/"
+    },
+    {
+      "title": "ZOZO\nTOWIN",
+      "sub": "일본 인기 패션 플랫폼, 수많은 브랜드와 스태프 착장 스타일을 확인해보세요.",
+      "logoText": "ZOZO\nTOWIN",
+      "logoUrl":"",
+      "url": "https://zozo.jp/"
+    },
+    {
+      "title": "PAL\nCLOSET",
+      "sub": "일본 브랜드의 감성적인 데일리룩과 다양한 패션 스타일을 둘러보세요.",
+      "logoText": "PAL\nCLOSET",
+      "logoUrl":"",
+      "url": "https://www.palcloset.jp/"
     }
   ],
   "해외": [
