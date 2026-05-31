@@ -1,36 +1,28 @@
 {
   "banners": [
     {
-      "imageUrl":"https://moon6e-max.github.io/shorts-feed/banners/f1.jpg",
-      "sub":"TODAY'S TIP",
-      "title":"오늘 뭐 입지?",
-      "desc":"스타일별 코디 팁을 확인해보세요",
-      "buttonText":"추천 보기",
-      "url":"https://wear.jp/"
+      "imageUrl":"https://raw.githubusercontent.com/brandbridge-images/images/main/business/FashionTipbanner/ft_3.jpg",
+      "sub":"Resort Look⛱",
+      "title":"바캉스룩 추천🤍",
+      "desc":"홀터넥 펀칭 레이스 끈 나시 롱 원피스",
+      "buttonText":"구경하기",
+      "url":"https://comingtoyoo.co.kr/product/%EC%97%AC%EB%A6%AC%EC%97%AC%EB%A6%AC-%ED%94%8C%EB%A6%AC%EC%B8%A0-%EC%BA%A1%EC%86%8C%EB%A7%A4-%EB%B8%94%EB%9D%BC%EC%9A%B0%EC%8A%A4/3112/category/1/display/8/?icid=MAIN.product_listmain_7"
     },
     {
       "imageUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/FashionTipbanner/ft_2.jpg",
-      "sub": "JAPAN STYLE",
-      "title": "일본 스트릿 패션",
-      "desc": "오버핏 감성 코디를 참고해보세요",
-      "buttonText": "바로 보기",
-      "styleKey": "일본"
+      "sub": "Resort Look⛱",
+      "title": "A~D컵까지👙",
+      "desc": "홀터넥 펀칭 레이스 섹시 비키니 수영복",
+      "buttonText":"바로보기",
+      "url":"https://comingtoyoo.co.kr/product/%ED%99%80%ED%84%B0%EB%84%A5-%ED%8E%80%EC%B9%AD-%EB%A0%88%EC%9D%B4%EC%8A%A4-%EC%84%B9%EC%8B%9C-%EB%B9%84%ED%82%A4%EB%8B%88-%EC%88%98%EC%98%81%EB%B3%B5-mxl/2857/category/27/display/2/?icid=PRODUCT_LIST.product_listrecommend"
     },
-    {
-      "imageUrl": "https://moon6e-max.github.io/shorts-feed/banners/fashion_tip_3.jpg",
-      "sub": "GLOBAL TREND",
-      "title": "해외 Y2K 스타일",
-      "desc": "빈티지 감성 스타일을 둘러보세요",
-      "buttonText": "둘러보기",
-      "styleKey": "해외"
-    },
-    {
-      "imageUrl": "https://moon6e-max.github.io/shorts-feed/banners/fashion_tip_4.jpg",
-      "sub": "KOREA DAILY",
-      "title": "한국 데일리룩 추천",
-      "desc": "깔끔한 미니멀 코디를 확인해보세요",
-      "buttonText": "구경하기",
-      "styleKey": "한국"
+     {
+      "imageUrl":"https://raw.githubusercontent.com/brandbridge-images/images/main/business/FashionTipbanner/ft_1.jpg",
+      "sub":"TODAY'S TIP",
+      "title":"오늘 뭐 입지?",
+      "desc":"여리여리 플리츠 캡소매 블라우스",
+      "buttonText":"추천보기",
+      "url":"https://comingtoyoo.co.kr/product/%EC%97%AC%EB%A6%AC%EC%97%AC%EB%A6%AC-%ED%94%8C%EB%A6%AC%EC%B8%A0-%EC%BA%A1%EC%86%8C%EB%A7%A4-%EB%B8%94%EB%9D%BC%EC%9A%B0%EC%8A%A4/3112/category/1/display/8/?icid=MAIN.product_listmain_7"
     }
   ]
 }
