@@ -1,5 +1,18 @@
 [
   {
+    "title": "바잇더불렛",
+    "sub": "품격 있는 감성과 트렌디한 스타일을 제안하는 공간",
+    "url": "https://bitethebullet.kr/",
+    "packageName": "",
+    "logoText": "Bitethe\nBullet",
+    "logoUrl": "",
+    "mode": "WOMEN",
+    "tabKey": "WOMEN_20S",
+    "path": "여자 > 20대",
+    "enabled": true,
+    "priority": 729
+  },
+  {
     "title": "비하인드더레브",
     "sub": "미니멀한 실루엣의 세련된 여성복 컬렉션",
     "url": "https://behindthereve.co.kr/",
