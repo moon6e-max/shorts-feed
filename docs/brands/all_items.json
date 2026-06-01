@@ -1,5 +1,18 @@
 [
   {
+    "title": "베하르",
+    "sub": "감각적 스타일의 여성 데일리 패션",
+    "url": "https://www.behar.kr/",
+    "packageName": "",
+    "logoText": "Behar",
+    "logoUrl": "",
+    "mode": "WOMEN",
+    "tabKey": "WOMEN_20S",
+    "path": "여자 > 20대",
+    "enabled": true,
+    "priority": 721
+  },
+  {
     "title": "바잇더불렛",
     "sub": "품격 있는 감성과 트렌디한 스타일을 제안하는 공간",
     "url": "https://bitethebullet.kr/",
