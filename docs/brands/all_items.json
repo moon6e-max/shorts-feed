@@ -1,5 +1,18 @@
 [
   {
+    "title": "비하인드더레브",
+    "sub": "미니멀한 실루엣의 세련된 여성복 컬렉션",
+    "url": "https://behindthereve.co.kr/",
+    "packageName": "",
+    "logoText": "",
+    "logoUrl": "",
+    "mode": "WOMEN",
+    "tabKey": "WOMEN_30S",
+    "path": "여자 > 30대",
+    "enabled": true,
+    "priority": 817
+  },
+  {
     "title": "무이헤드",
     "sub": "여러 종류의 캡·모자류를 취급하며 선택 폭이 넓은 온라인 공간",
     "url": "https://mooihead.com/",
