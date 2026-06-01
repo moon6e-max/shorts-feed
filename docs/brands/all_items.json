@@ -1,5 +1,18 @@
 [
   {
+    "title": "무이헤드",
+    "sub": "여러 종류의 캡·모자류를 취급하며 선택 폭이 넓은 온라인 공간",
+    "url": "https://mooihead.com/",
+    "packageName": "",
+    "logoText": "Mooihead",
+    "logoUrl": "",
+    "mode": "HAT_HAIR_ACC",
+    "tabKey": "CAP_UNISEX",
+    "path": "패션잡화 > 모자",
+    "enabled": true,
+    "priority": 941
+  },
+  {
     "title": "몽셀마켓",
     "sub": "여리핏 한방울 섞은 데일리룩, 데이트룩 소개🩵",
     "url": "https://smartstore.naver.com/moncel",
@@ -507,7 +520,7 @@
     "tabKey": "CAP_UNISEX",
     "path": "패션잡화 > 모자",
     "enabled": true,
-    "priority": 101
+    "priority": 1010
   },
   {
     "title": "투영",
