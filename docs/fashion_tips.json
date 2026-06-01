@@ -4,16 +4,16 @@
     {
       "country":"한국",
       "flag":"🇰🇷",
-      "title":"한국 데일리룩",
-      "desc":"깔끔한 미니멀 스타일",
+      "title":"🇰🇷 한국 스타일 가이드",
+      "desc":"요즘 한국 코디 트렌드 한눈에 보기",
       "imageUrl":"https://raw.githubusercontent.com/brandbridge-images/images/main/business/Tip/k_1.jpg"
     },
 
     {
       "country":"일본",
       "flag":"🇯🇵",
-      "title":"일본 스트릿 패션",
-      "desc":"오버핏 코디의 정석",
+      "title":"🇯🇵 일본 패션 스타일",
+      "desc":"일본 데일리·스트릿 코디 보기",
       "imageUrl":"https://raw.githubusercontent.com/brandbridge-images/images/main/business/Tip/j_1.jpg"
     },
 
@@ -21,7 +21,7 @@
       "country":"해외",
       "flag":"🌎",
       "title":"해외 Y2K 트렌드",
-      "desc":"다시 돌아온 레트로 무드",
+      "desc":"요즘 해외 SNS 인기 스타일",
       "imageUrl":"https://raw.githubusercontent.com/brandbridge-images/images/main/business/Tip/u_1.jpg"
     }
 
