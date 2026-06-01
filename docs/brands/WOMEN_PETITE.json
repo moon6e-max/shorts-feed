@@ -220,6 +220,17 @@
     "priority": 800
   },
   {
+    "title": "제니어리",
+    "sub": "키작녀의 사계절 데일리룩",
+    "url": "https://www.jenniary.kr/",
+    "packageName": "",
+    "logoText": "Jenniary",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 799
+  },
+  {
     "title": "쿠키마루",
     "sub": "캐주얼하고 힙한 감성의 여성 스트릿 데일리 의류 브랜드",
     "url": "https://cookiemaru.kr/",
