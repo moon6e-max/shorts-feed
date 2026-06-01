@@ -1,7 +1,7 @@
 {
     "platform": "Instagram",
     "key": "ig_169_yeon",
-    "version":2,
+    "version":3,
     "name": "169_yeon",
     "sub": "BehindTheRêve 쿨하고 시크한",
     "openProfileEnabled": true,
@@ -15,15 +15,7 @@
       { "title": "사장의 요일별 추구미 데일리 코디 모음 🤍", "url": "https://www.instagram.com/reel/DYCbUdYJg_1/", 
         "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_169/6.png" },
       { "title": "요거 하나 있으면 휘뚜루마뚜루 여기저기 매치하기 넘 좋잖아요 🤍", "url": "https://www.instagram.com/reel/DWsdYZsic9l/", 
-        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_169/5.png" },
-      { "title": "✔️디어니스-웨디 스웨이드 토프 백팩🤎", "url": "https://www.instagram.com/reel/DRwxDRUCV3s/", 
-        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_169/4.png" },
-      { "title": "✨️바시카 -스웨이드 싱글자켓✨️", "url": "https://www.instagram.com/reel/DQUEXPuCdMN/", 
-        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_169/3.png" },
-      { "title": "선물하기도 좋은 르플리스 브랜드랍니다🪽✨️", "url": "https://www.instagram.com/reel/DP6VEIxCVRP/", 
-        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_169/2.png" },
-      { "title": "가을코디는 어디라고? 하시에🤎", "url": "https://www.instagram.com/reel/DOV8_2yCbUj/", 
-        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_169/1.png" }
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_169/5.png" }
       
       
          ]
