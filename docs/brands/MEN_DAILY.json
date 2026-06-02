@@ -1,5 +1,16 @@
 [
   {
+    "title": "델리피노",
+    "sub": "감각적인 무드,매일의 스타일",
+    "url": "https://dailyfino.com/",
+    "packageName": "",
+    "logoText": "Daily\nFino",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 1001
+  },
+  {
     "title": "STCO",
     "sub": "남성 정장·캐주얼 의류 브랜드",
     "url": "https://www.stco.co.kr/",
