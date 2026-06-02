@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "banners": [
     {
       "title": "봄 패션 트렌드",
@@ -19,7 +19,7 @@
 
       "buttonText": "지금 확인하기",
 
-      "imageUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_moncelj/b_1.png",
+      "imageUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_moncelj/b_2.png",
 
       "linkUrl": "https://smartstore.naver.com/moncel/products/13170877578"
     }
