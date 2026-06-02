@@ -13,6 +13,20 @@
     "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_moncelj/w_5.jpg"],
     "enabled": true,
     "badge": "NEW",
+    "priority": 1002
+  },
+  {
+    "title": "비하인드더레브",
+    "sub": "미니멀한 실루엣의 세련된 여성복 컬렉션",
+    "url": "https://behindthereve.co.kr/",
+    "packageName": "",
+    "logoText": "Behind\nthereve",
+    "logoUrl": "",
+    "photos": ["https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_169/w_1.png",
+    "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_169/w_2.png",
+    "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_169/w_3.png"],
+    "enabled": true,
+    "badge": "TREND",
     "priority": 1001
   },
   {
