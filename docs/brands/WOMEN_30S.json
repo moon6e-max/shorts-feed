@@ -490,14 +490,16 @@
   },
   {
     "title": "커밍투유",
-    "sub": "단아한 무드의 여성 데일리웨어",
+    "sub": "성공한 30대 여성의 출근,하객룩",
     "url": "https://comingtoyoo.co.kr/",
     "packageName": "",
     "logoText": "Coming\nToyoo",
-    "logoUrl": "",
-    "photos": [],
+    "logoUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_ming/l.png",
+    "photos": ["https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_ming/1.jpg",
+    "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_ming/2.jpg",
+    "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_ming/3.jpg"],
     "enabled": true,
-    "priority": 668
+    "priority": 1002
   },
   {
     "title": "코코마랑",
