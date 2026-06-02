@@ -1,13 +1,13 @@
 {
     "platform": "TIKTOK",
-    "key": "tt_yemomile",
+    "key": "tt_dailyfino",
     "version":1,
-    "name": "@yemomile",
-    "sub": "감성적인 데일리 패션 코디",
+    "name": "델리피노",
+    "sub": "감도 높은 남성쇼핑몰🫧",
     "openProfileEnabled": true,
     "openProfileText": "SHOP 바로가기",
-    "openProfileUrl": "https://yemomile.com/",
-    "profileUrl": "https://www.tiktok.com/@yemomile",
+    "openProfileUrl": "https://dailyfino.com/",
+    "profileUrl": "https://www.tiktok.com/@dailyfino",
     "avatarUrl": "https://moon6e-max.github.io/shorts-feed/images/allw.png",
     "featured": [
       { "title": "메가박스 부수는 Unisex 흑청 팬츠 코디", "url": "https://www.tiktok.com/@yemomile/video/7601866563968339208", 
