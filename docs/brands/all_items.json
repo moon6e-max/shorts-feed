@@ -57,10 +57,10 @@
     "url": "https://behindthereve.co.kr/",
     "packageName": "",
     "logoText": "Behind\nthereve",
-    "logoUrl": "",
+    "logoUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_169/l.png",
     "mode": "WOMEN",
-    "tabKey": "WOMEN_30S",
-    "path": "여자 > 30대",
+    "tabKey": "WOMEN_20S",
+    "path": "여자 > 20대",
     "enabled": true,
     "priority": 817
   },
