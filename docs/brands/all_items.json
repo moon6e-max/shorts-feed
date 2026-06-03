@@ -62,6 +62,8 @@
     "tabKey": "WOMEN_20S",
     "path": "여자 > 20대",
     "enabled": true,
+    "coverUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/FashionTipbanner/ft2_2.jpg",
+    "todayPick": true,
     "priority": 817
   },
   {
@@ -90,7 +92,6 @@
     "enabled": true,
     "isNew": true,
     "newRank": 101,
-    "coverUrl": "https://moon6e-max.github.io/shorts-feed/images/benetton2.jpg",
     "todayPick": true,
     "priority": 859
   },
