@@ -90,6 +90,7 @@
     "enabled": true,
     "isNew": true,
     "newRank": 101,
+    "coverUrl": "https://moon6e-max.github.io/shorts-feed/images/benetton2.jpg",
     "todayPick": true,
     "priority": 859
   },
@@ -663,8 +664,6 @@
     "tabKey": "MW",
     "path": "남&녀 > 공용",
     "enabled": true,
-    "spin": true,
-    "todayPick": true,
     "isNew": true,
     "newRank": 99,
     "priority": 1002
@@ -693,8 +692,6 @@
     "tabKey": "MALL_UNISEX",
     "path": "셀렉트샵 > 편집샵",
     "enabled": true,
-    "spin": true,
-    "todayPick": true,
     "priority": 849
   },
   {
@@ -708,8 +705,6 @@
     "tabKey": "GOLF_MALL",
     "path": "골프 > 골프 몰",
     "enabled": true,
-    "spin": true,
-    "todayPick": true,
     "priority": 101
   },
   {
@@ -829,8 +824,6 @@
     "enabled": true,
     "isNew": true,
     "newRank": 98,
-    "spin": true,
-    "todayPick": true,
     "priority": 100
   },
   {
@@ -963,8 +956,6 @@
     "enabled": true,
     "hot": true,
     "hotRank": 107,
-    "spin": true,
-    "todayPick": true,
     "priority": 959
   },
   {
@@ -980,8 +971,6 @@
     "enabled": true,
     "isNew": true,
     "newRank": 100,
-    "spin": true,
-    "todayPick": true,
     "priority": 959
   },
   {
@@ -995,8 +984,6 @@
     "tabKey": "MALL_UNISEX",
     "path": "셀렉트샵 > 편집샵",
     "enabled": true,
-    "spin": true,
-    "todayPick": true,
     "hot": true,
     "hotRank": 108,
     "priority": 710
@@ -1012,7 +999,6 @@
     "tabKey": "CONTACT_LENS",
     "path": "패션잡화 > 렌즈",
     "enabled": true,
-    "spin": true,
     "priority": 101
   },
   {
@@ -1026,10 +1012,8 @@
     "tabKey": "MALL_MEN",
     "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
-    "spin": true,
     "hot": true,
     "hotRank": 109,
-    "todayPick": true,
     "priority": 729
   },
   {
@@ -4087,7 +4071,6 @@
     "tabKey": "MALL_MEN",
     "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
-    "todayPick": true,
     "hot": true,
     "hotRank": 108,
     "priority": 96
@@ -11934,8 +11917,6 @@
     "tabKey": "MALL_MEN",
     "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
-    "spin": true,
-    "todayPick": true,
     "priority": 81
   },
   {
@@ -12040,8 +12021,6 @@
     "tabKey": "SPORTS_BRAND",
     "path": "월드 > 스포츠",
     "enabled": true,
-    "spin": true,
-    "todayPick": true,
     "hot": true,
     "hotRank": 110,
     "priority": 81
@@ -13464,10 +13443,8 @@
     "tabKey": "MALL_MEN",
     "path": "셀렉트샵 > 쇼핑몰",
     "enabled": true,
-    "spin": true,
     "hot": true,
     "hotRank": 105,
-    "todayPick": true,
     "priority": 77
   },
   {
