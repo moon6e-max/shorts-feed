@@ -92,6 +92,7 @@
     "enabled": true,
     "isNew": true,
     "newRank": 101,
+    "coverUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/cover/1.jpg",
     "todayPick": true,
     "priority": 859
   },
