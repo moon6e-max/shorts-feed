@@ -30,6 +30,20 @@
     "priority": 1001
   },
   {
+    "title": "빈츠유",
+    "sub": "여성스러운 실루엣의 감성 데일리웨어",
+    "url": "https://vintzyu.com/",
+    "packageName": "",
+    "logoText": "Vintzyu",
+    "logoUrl": "",
+    "photos": ["https://raw.githubusercontent.com/brandbridge-images/images/main/business/tt_vintzyu/v_1.jpg",
+    "https://raw.githubusercontent.com/brandbridge-images/images/main/business/tt_vintzyu/v_2.jpg",
+    "https://raw.githubusercontent.com/brandbridge-images/images/main/business/tt_vintzyu/v_3.jpg"],
+    "enabled": true,
+    "badge": "NEW",
+    "priority": 1000
+  },
+  {
     "title": "09우먼",
     "sub": "편안한 실루엣과 감성적인\n컬러의 데일리 웨어",
     "url": "http://www.09women.com/",
@@ -38,7 +52,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 1000
+    "priority": 999
   },
   {
     "title": "89헤르쯔",
