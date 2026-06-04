@@ -1,13 +1,13 @@
 {
     "platform": "TIKTOK",
-    "key": "tt_step_block",
+    "key": "tt_vintzyu",
     "version":1,
-    "name": "@step_block",
-    "sub": "STEP BLØCK 글로벌 패션",
+    "name": "빈츠유",
+    "sub": "입어보고 예쁜 옷만 올려요 🫶🏻",
     "openProfileEnabled": true,
     "openProfileText": "SHOP 바로가기",
-    "openProfileUrl": "https://shop.stepblockstore.com/",
-    "profileUrl": "https://www.tiktok.com/@step_block_kr",
+    "openProfileUrl": "https://vintzyu.com/",
+    "profileUrl": "https://www.tiktok.com/@vintz575",
     "avatarUrl": "https://moon6e-max.github.io/shorts-feed/images/allm.png",
     "featured": [
       { "title": "올가을·겨울 이렇게 입자！", "url": "https://www.tiktok.com/@step_block_kr/video/7573284570154454293", 
