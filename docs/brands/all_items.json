@@ -1,5 +1,19 @@
 [
   {
+    "title": "빈츠유",
+    "sub": "여성스러운 실루엣의 감성 데일리웨어",
+    "url": "https://vintzyu.com/",
+    "packageName": "",
+    "logoText": "Vintzyu",
+    "logoUrl": "",
+    "mode": "WOMEN",
+    "tabKey": "WOMEN_20S",
+    "path": "여자 > 20대",
+    "enabled": true,
+    "coverUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/FashionTipbanner/ft3_2.jpg",
+    "priority": 1000
+  },
+  {
     "title": "제니어리",
     "sub": "키작녀의 사계절 데일리룩",
     "url": "https://www.jenniary.kr/",
