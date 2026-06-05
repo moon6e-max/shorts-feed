@@ -288,19 +288,6 @@
     "priority": 799
   },
   {
-    "title": "미무드",
-    "sub": "자연스러운 핏으로 일상에 부담 없이 입기 좋은 캐주얼 팬츠",
-    "url": "https://www.mimood.co.kr/",
-    "packageName": "",
-    "logoText": "Mimood",
-    "logoUrl": "",
-    "mode": "WOMEN",
-    "tabKey": "WOMEN_30S",
-    "path": "여자 > 30대",
-    "enabled": true,
-    "priority": 881
-  },
-  {
     "title": "베하르",
     "sub": "감각적 스타일의 여성 데일리 패션",
     "url": "https://www.behar.kr/",
