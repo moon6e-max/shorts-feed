@@ -154,22 +154,11 @@
     "priority": 910
   },
   {
-    "title": "모니카 비나더",
-    "sub": "영국 감성의 세련된 주얼리를 만나는 공간",
-    "url": "https://monicavinader.co.kr/",
-    "packageName": "",
-    "logoText": "Monica\nvinader",
-    "logoUrl": "",
-    "photos": [],
-    "enabled": true,
-    "priority": 900
-  },
-  {
     "title": "모턴",
     "sub": "가장 아름다운 주얼리 모턴",
-    "url": "https://monicavinader.co.kr/",
+    "url": "https://www.mor-ton.com/",
     "packageName": "",
-    "logoText": "Monica\nvinader",
+    "logoText": "Mor-Ton",
     "logoUrl": "",
     "photos": [],
     "enabled": true,
