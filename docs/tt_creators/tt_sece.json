@@ -1,0 +1,30 @@
+{
+    "platform": "TIKTOK",
+    "key": "tt_sece",
+    "version":1,
+    "name": "쎄세",
+    "sub": "캐주얼 / 스트릿 / 데일리 코디소개!",
+    "openProfileEnabled": true,
+    "openProfileText": "SHOP 바로가기",
+    "openProfileUrl": "https://www.isece.com/",
+    "profileUrl": "https://www.tiktok.com/@isece_official",
+    "avatarUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/sece/p.png",
+    "featured": [
+      { "title": "🌵앞머리 볼륨 살리고 싶죠?! 빗핀을 써 보세요", "url": "https://www.tiktok.com/@isece_official/photo/7647131993234296085", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/sece/8.png" },
+      { "title": "✨ 넓은 폭의 밴드에 섬세한 펀칭 스터드 장식", "url": "https://www.tiktok.com/@isece_official/photo/7646612150860975376", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/sece/7.png" },
+      { "title": "세한 플라워와 다채로운 구슬 장식이 돋보이는 헤어 액세서리", "url": "https://www.tiktok.com/@isece_official/photo/7645127745114000648", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/sece/6.png" },
+      { "title": "섬세한 자개와 영롱한 구슬이 어우러져 꾸밈없는 우아함을 선사하는 뒤꽂이 비녀", "url": "https://www.tiktok.com/@isece_official/photo/7644756405320256784", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/sece/5.png" },
+      { "title": "섬세한 리본 디테일이 돋보이는 헤어 빗핀", "url": "https://www.tiktok.com/@isece_official/photo/7644385750959525136", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/sece/4.png" },
+      { "title": "🫧올림머리의 계절이 다가왔네요", "url": "https://www.tiktok.com/@isece_official/photo/7643107328736185620", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/sece/3.png" },
+      { "title": "✨ 반짝이는 크리스탈과 영롱한 진주가 어우러진 플라워 스틱 머리핀", "url": "https://www.tiktok.com/@isece_official/photo/7642159043338931474", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/sece/2.png" },
+      { "title": "일상에 스며드는 우아함, 작은 디테일이 선사하는 특별함입니다.", "url": "https://www.tiktok.com/@isece_official/photo/7641509455619689729", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/sece/1.png" }
+         ]
+  }
