@@ -1,5 +1,27 @@
 [
   {
+    "title": "17.5도",
+    "sub": "유니크한 감성의 유니섹스 액세서리",
+    "url": "https://175do.com/",
+    "packageName": "",
+    "logoText": "175do",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 1001
+  },
+  {
+    "title": "Nor",
+    "sub": "감각적인 디자인의 실버 액세서리",
+    "url": "https://nor-jewelry.com/",
+    "packageName": "", 
+    "logoText": "Nor",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 1000
+  },
+  {
     "title": "골드리아",
     "sub": "고급스러운 디테일로 빛나는 골드 아이템",
     "url": "http://www.goldria.net/",
@@ -8,7 +30,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 100
+    "priority": 999
   },
   {
     "title": "골든팡",
@@ -19,7 +41,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 99
+    "priority": 990
   },
   {
     "title": "누보",
@@ -30,7 +52,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 98
+    "priority": 980
   },
   {
     "title": "드바스크",
@@ -41,7 +63,18 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 97
+    "priority": 970
+  },
+  {
+    "title": "띵니",
+    "sub": "특별한 순간을 담는 감성 주얼리",
+    "url": "https://m.ttingni.com/",
+    "packageName": "",
+    "logoText": "TTingni",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 969
   },
   {
     "title": "마스미아",
@@ -52,7 +85,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 96
+    "priority": 960
   },
   {
     "title": "뮤잼",
@@ -63,7 +96,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 95
+    "priority": 950
   },
   {
     "title": "비쥬앤로사",
@@ -74,7 +107,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 94
+    "priority": 940
   },
   {
     "title": "슬윤",
@@ -85,7 +118,51 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 93
+    "priority": 930
+  },
+  {
+    "title": "오퓨즈",
+    "sub": "데일리로 즐기는 감각적인 반지 컬렉션",
+    "url": "https://ofuse.co.kr/",
+    "packageName": "",
+    "logoText": "Ofuse",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 922
+  },
+  {
+    "title": "오브킴",
+    "sub": "아이돌 스타일을 담은 트렌디 액세서리",
+    "url": "https://ofkim.com/",
+    "packageName": "",
+    "logoText": "Ofkim",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 921
+  },
+  {
+    "title": "이넌",
+    "sub": "데일리부터 포인트까지 다양한 반지 컬렉션",
+    "url": "https://enon.kr/",
+    "packageName": "",
+    "logoText": "Enon",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 920
+  },
+  {
+    "title": "윈트리스케이프",
+    "sub": "유니크한 감성의 써지컬 액세서리",
+    "url": "https://wintryscape.com/",
+    "packageName": "",
+    "logoText": "Wintry\nScape",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 919
   },
   {
     "title": "엘렌쥬얼리",
@@ -96,7 +173,18 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 92
+    "priority": 918
+  },
+  {
+    "title": "진씨",
+    "sub": "데일리에 포인트를 더하는 감각적인 액세서리",
+    "url": "https://jinsee.kr/",
+    "packageName": "",
+    "logoText": "Jinsee",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 911
   },
   {
     "title": "주얼링",
@@ -107,7 +195,18 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 91
+    "priority": 910
+  },
+  {
+    "title": "최장남메이드",
+    "sub": "감성을 담은 핸드메이드 액세서리",
+    "url": "https://www.ccnmade.co.kr/",
+    "packageName": "",
+    "logoText": "Ccnmade",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 909
   },
   {
     "title": "클립어반스",
@@ -118,7 +217,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 90
+    "priority": 900
   },
   {
     "title": "포트레이트리포트",
@@ -129,6 +228,6 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 89
+    "priority": 890
   }
 ]
