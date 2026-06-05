@@ -11,6 +11,17 @@
     "priority": 1000
   },
   {
+    "title": "구이씨",
+    "sub": "절제된 아름다움의 프리미엄 실버 주얼리",
+    "url": "https://92c.kr/",
+    "packageName": "",
+    "logoText": "92c",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 991
+  },
+  {
     "title": "골든듀",
     "sub": "클래식과 현대가 어우러진 품격 있는 주얼리",
     "url": "https://goldendew.com/",
@@ -42,6 +53,28 @@
     "photos": [],
     "enabled": true,
     "priority": 980
+  },
+  {
+    "title": "니카",
+    "sub": "유니크한 감성을 담은 핸드메이드 액세서리",
+    "url": "https://neeka.kr/",
+    "packageName": "",
+    "logoText": "Neeka",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 979
+  },
+  {
+    "title": "디어메리",
+    "sub": "은은한 감성을 담은 데일리 주얼리",
+    "url": "https://www.dearmerry.com/",
+    "packageName": "",
+    "logoText": "Dearmerry",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 971
   },
   {
     "title": "더기쁨",
@@ -176,6 +209,17 @@
     "priority": 890
   },
   {
+    "title": "모닝젬",
+    "sub": "감성을 담은 천연석 핸드메이드 팔찌",
+    "url": "https://morning2em.store/",
+    "packageName": "",
+    "logoText": "Morning\n2em",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 889
+  },
+  {
     "title": "문스샵",
     "sub": "감각적인 주얼리로 완성하는 데일리 스타일",
     "url": "http://www.moonsshop.com/index.html",
@@ -185,6 +229,17 @@
     "photos": [],
     "enabled": true,
     "priority": 880
+  },
+  {
+    "title": "믈링드",
+    "sub": "빛나는 순간을 완성하는 데일리 주얼리",
+    "url": "https://www.meulingd.com",
+    "packageName": "",
+    "logoText": "Meulingd",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 879
   },
   {
     "title": "빈파운드",
@@ -242,6 +297,17 @@
     "priority": 840
   },
   {
+    "title": "아르장떼",
+    "sub": "미니멀한 감성의 실버 주얼리 컬렉션",
+    "url": "https://www.argente.co.kr/",
+    "packageName": "",
+    "logoText": "Argente",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 831
+  },
+  {
     "title": "아모르주얼리",
     "sub": "세련된 디테일로 빛나는 감각적 주얼리 제안",
     "url": "https://amordek.cafe24.com/",
@@ -297,6 +363,17 @@
     "priority": 809
   },
   {
+    "title": "엣더룸",
+    "sub": "모던한 감성의 실버 액세서리",
+    "url": "https://attheroom.com/",
+    "packageName": "",
+    "logoText": "Attheroom",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 808
+  },
+  {
     "title": "여우이야기",
     "sub": "감각적인 디자인으로 빛나는 악세서리",
     "url": "http://www.foxstory.co.kr/index.html",
@@ -306,6 +383,17 @@
     "photos": [],
     "enabled": true,
     "priority": 800
+  },
+  {
+    "title": "예쁜돌",
+    "sub": "감각적인 디자인으로 빛나는 악세서리",
+    "url": "ttps://www.yebbunstone.co.kr/",
+    "packageName": "",
+    "logoText": "Yebbun\nStone",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 799
   },
   {
     "title": "원디걸",
@@ -416,6 +504,17 @@
     "photos": [],
     "enabled": true,
     "priority": 720
+  },
+  {
+    "title": "티에르",
+    "sub": "우아한 감성을 담은 데일리 주얼리",
+    "url": "https://www.thiers.co.kr/",
+    "packageName": "",
+    "logoText": "Thiers",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 719
   },
   {
     "title": "판도라",
