@@ -209,6 +209,17 @@
     "priority": 907
   },
   {
+    "title": "더하츠",
+    "sub": "트렌디한 감성으로 완성하는 스트릿 데일리룩",
+    "url": "https://www.theheartz.store/",
+    "packageName": "",
+    "logoText": "The\nHeartz",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 906
+  },
+  {
     "title": "라라스텔라",
     "sub": "감성 데일리룩을 만나는 공간",
     "url": "https://m.lalastella.co.kr/",
@@ -407,6 +418,17 @@
     "priority": 780
   },
   {
+    "title": "미무드",
+    "sub": "세련된 무드로 완성하는 감각적인 데일리룩",
+    "url": "https://www.mimood.co.kr/",
+    "packageName": "",
+    "logoText": "Mimood",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 771
+  },
+  {
     "title": "메이뜰",
     "sub": "부드러운 감성과 편안한 무드의 데일리 스타일",
     "url": "https://www.mayddle.com/",
@@ -572,6 +594,28 @@
     "priority": 660
   },
   {
+    "title": "봉주르벨",
+    "sub": "편안함과 여성스러움을 담은 데일리 감성",
+    "url": "https://m.bonjurbelle.shop/",
+    "packageName": "",
+    "logoText": "Bonjur\nBelle",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 659
+  },
+  {
+    "title": "베으",
+    "sub": "꾸민 듯 자연스러운 데일리 무드",
+    "url": "https://be-eu.kr/",
+    "packageName": "",
+    "logoText": "Be-eu",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 658
+  },
+  {
     "title": "수잔",
     "sub": "세련된 감성으로 완성하는 여성 데일리웨어",
     "url": "https://www.suzanne.co.kr/",
@@ -702,6 +746,28 @@
     "photos": [],
     "enabled": true,
     "priority": 559
+  },
+  {
+    "title": "아포엠",
+    "sub": "내추럴한 감성을 담은 미니멀 데일리웨어",
+    "url": "https://apoem.co.kr/",
+    "packageName": "",
+    "logoText": "Apoem",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 558
+  },
+  {
+    "title": "아워드로우",
+    "sub": "빈티지 감성이 담긴 내추럴 데일리룩",
+    "url": "https://www.ourdraw.kr/",
+    "packageName": "",
+    "logoText": "Ourdraw",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 557
   },
   {
     "title": "안나앤플러스",
@@ -880,6 +946,17 @@
     "priority": 430
   },
   {
+    "title": "츄러스마켓",
+    "sub": "여리한 무드가 돋보이는 감성 데일리룩",
+    "url": "https://churrosmarket.co.kr/",
+    "packageName": "",
+    "logoText": "Churros\nMarket",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 429
+  },
+  {
     "title": "코코블랑",
     "sub": "일상에 자연스럽게 스며드는 편안한 무드",
     "url": "https://cocoblanc.kr/index.html",
@@ -900,6 +977,17 @@
     "photos": [],
     "enabled": true,
     "priority": 410
+  },
+  {
+    "title": "크리디",
+    "sub": "여유로운 실루엣의 감성 미니멀룩",
+    "url": "https://cre-d.kr/",
+    "packageName": "",
+    "logoText": "Cre-d",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 409
   },
   {
     "title": "클릭앤퍼니",
@@ -944,6 +1032,17 @@
     "photos": [],
     "enabled": true,
     "priority": 380
+  },
+  {
+    "title": "피븐",
+    "sub": "시크한 무드의 감각적인 데일리룩",
+    "url": "https://feeven.kr/",
+    "packageName": "",
+    "logoText": "Feeven",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 371
   },
   {
     "title": "피핀",
