@@ -1,5 +1,31 @@
 [
   {
+    "title": "알제브",
+    "sub": "감성을 더하는 프리미엄 헤어 액세서리",
+    "url": "https://algerve.com/",
+    "packageName": "",
+    "logoText": "Algerve",
+    "logoUrl": "",
+    "mode": "HAT_HAIR_ACC",
+    "tabKey": "HAIR_ACC",
+    "path": "패션잡화 > 헤어.Acc",
+    "enabled": true,
+    "priority": 861
+  },
+  {
+    "title": "쎄세",
+    "sub": "감성을 더하는 프리미엄 헤어 액세서리",
+    "url": "https://isece.com/",
+    "packageName": "",
+    "logoText": "Sece",
+    "logoUrl": "",
+    "mode": "HAT_HAIR_ACC",
+    "tabKey": "HAIR_ACC",
+    "path": "패션잡화 > 헤어.Acc",
+    "enabled": true,
+    "priority": 889
+  },
+  {
     "title": "모닝젬",
     "sub": "감성을 담은 천연석 핸드메이드 팔찌",
     "url": "https://morning2em.store/",
