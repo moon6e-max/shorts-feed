@@ -1,5 +1,44 @@
 [
   {
+    "title": "그라스마티네",
+    "sub": "손끝에 머무는 가장 특별한 취향",
+    "url": "https://grassematinee.kr/",
+    "packageName": "",
+    "logoText": "Grasse\nMatinee",
+    "logoUrl": "",
+    "mode": "JEWELRY",
+    "tabKey": "JEWELRY_COUPLE_UNISEX",
+    "path": "주얼리 > 남&녀",
+    "enabled": true,
+    "priority": 989
+  },
+  {
+    "title": "프릿",
+    "sub": "두 사람의 시간을 담아 완성하는 영원한 약속",
+    "url": "https://fritt.co.kr/",
+    "packageName": "",
+    "logoText": "Fritt",
+    "logoUrl": "",
+    "mode": "JEWELRY",
+    "tabKey": "JEWELRY_COUPLE_UNISEX",
+    "path": "주얼리 > 남&녀",
+    "enabled": true,
+    "priority": 870
+  },
+  {
+    "title": "푸딩다이아",
+    "sub": "심플&모던한 디자인의 웨딩컬렉션",
+    "url": "https://www.pudingdia.com/",
+    "packageName": "",
+    "logoText": "Pudingdia",
+    "logoUrl": "",
+    "mode": "JEWELRY",
+    "tabKey": "JEWELRY_COUPLE_UNISEX",
+    "path": "주얼리 > 남&녀",
+    "enabled": true,
+    "priority": 880
+  },
+  {
     "title": "수리움",
     "sub": "대담한 실루엣으로 완성하는 모던한 존재감",
     "url": "https://www.soorium.com/",
