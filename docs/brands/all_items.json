@@ -1,5 +1,18 @@
 [
   {
+    "title": "아몬즈",
+    "sub": "주얼리, a부터 z까지",
+    "url": "https://www.amondz.com/",
+    "packageName": "com.amondz",
+    "logoText": "Amondz",
+    "logoUrl": "",
+    "mode": "MALL",
+    "tabKey": "MALL_MEN",
+    "path": "셀렉트샵 > 쇼핑몰",
+    "enabled": true,
+    "priority": 781
+  },
+  {
     "title": "그라스마티네",
     "sub": "손끝에 머무는 가장 특별한 취향",
     "url": "https://grassematinee.kr/",
