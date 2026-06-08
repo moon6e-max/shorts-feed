@@ -44,6 +44,17 @@
     "priority": 990
   },
   {
+    "title": "그라스마티네",
+    "sub": "손끝에 머무는 가장 특별한 취향",
+    "url": "https://grassematinee.kr/",
+    "packageName": "",
+    "logoText": "Grasse\nMatinee",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 989
+  },
+  {
     "title": "누보",
     "sub": "트렌디한 포인트로 완성하는 감각적 주얼리",
     "url": "https://www.jnuvo.com",
@@ -229,5 +240,27 @@
     "photos": [],
     "enabled": true,
     "priority": 890
+  },
+  {
+    "title": "푸딩다이아",
+    "sub": "심플&모던한 디자인의 웨딩컬렉션",
+    "url": "https://www.pudingdia.com/",
+    "packageName": "",
+    "logoText": "Pudingdia",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 880
+  },
+  {
+    "title": "프릿",
+    "sub": "두 사람의 시간을 담아 완성하는 영원한 약속",
+    "url": "https://fritt.co.kr/",
+    "packageName": "",
+    "logoText": "Fritt",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 870
   }
 ]
