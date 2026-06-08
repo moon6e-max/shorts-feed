@@ -240,6 +240,17 @@
     "priority": 998
   },
   {
+    "title": "아몬즈",
+    "sub": "주얼리, a부터 z까지",
+    "url": "https://www.amondz.com/",
+    "packageName": "com.amondz",
+    "logoText": "Amondz",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 781
+  },
+  {
     "title": "숲몰",
     "sub": "남녀 의류를 함께 취급하는 온라인 쇼핑몰",
     "url": "https://www.soupmall.co.kr/",
