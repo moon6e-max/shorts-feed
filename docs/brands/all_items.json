@@ -6538,19 +6538,6 @@
     "priority": 93
   },
   {
-    "title": "다미아니",
-    "sub": "주얼리 제품을 중심으로 전개되는 이탈리아 브랜드",
-    "url": "https://www.damiani.com/ko_kr/",
-    "packageName": "",
-    "logoText": "Damiani",
-    "logoUrl": "",
-    "mode": "WORLD",
-    "tabKey": "LUXURY_BRAND",
-    "path": "월드 > 명품",
-    "enabled": true,
-    "priority": 93
-  },
-  {
     "title": "댄블",
     "sub": "세련된 일상 스타일을 위한 감성 패션 스토어",
     "url": "https://danble.co.kr/",
