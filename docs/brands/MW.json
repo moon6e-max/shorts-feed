@@ -44,6 +44,17 @@
     "priority": 970
   },
   {
+    "title": "드로우핏",
+    "sub": "모던 컨템포러리 브랜드",
+    "url": "https://draw-fit.com/",
+    "packageName": "",
+    "logoText": "Draw-fit",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 969
+  },
+  {
     "title": "레이지비",
     "sub": "감각적인 애슬레저로 완성하는 데일리 웨어",
     "url": "https://www.lazybee.co.kr/",
@@ -53,6 +64,17 @@
     "photos": [],
     "enabled": true,
     "priority": 960
+  },
+  {
+    "title": "마크곤잘레스",
+    "sub": "자유로운 스케이트 감성을 담은 데일리 캐주얼",
+    "url": "https://www.markgonzaleskorea.com/",
+    "packageName": "",
+    "logoText": "Mark\nGonzales",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 959
   },
   {
     "title": "베네통",
@@ -143,6 +165,17 @@
     "priority": 919
   },
   {
+    "title": "인사일런스",
+    "sub": "감도높은 디테일과 독자적인 실루엣의 브랜드",
+    "url": "https://insilence.co.kr/",
+    "packageName": "",
+    "logoText": "Insilence",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 918
+  },
+  {
     "title": "엠씨엔핏",
     "sub": "활동성을 살린 스포티 데일리 웨어",
     "url": "https://mcnfit.co.kr/",
@@ -196,6 +229,17 @@
     "photos": [],
     "enabled": true,
     "priority": 870
+  },
+  {
+    "title": "커버낫",
+    "sub": "26SS 컬렉션으로 완성한 다채로운 스타일링",
+    "url": "https://covernat.co.kr/",
+    "packageName": "",
+    "logoText": "Covernat",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 861
   },
   {
     "title": "코닥어패럴",
