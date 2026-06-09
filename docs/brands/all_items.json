@@ -1,5 +1,44 @@
 [
   {
+    "title": "아틀리에파크",
+    "sub": "일상에 컬러를 더하다.",
+    "url": "https://www.atelierpark.co.kr/",
+    "packageName": "",
+    "logoText": "Atelier\nPark",
+    "logoUrl": "",
+    "mode": "HAT_HAIR_ACC",
+    "tabKey": "BAG",
+    "path": "패션잡화 > 가방",
+    "enabled": true,
+    "priority": 909
+  },
+  {
+    "title": "패리티",
+    "sub": "여행의 모든 고민을 담을 수 있는 브랜드",
+    "url": "https://parity.kr/",
+    "packageName": "",
+    "logoText": "Parity",
+    "logoUrl": "",
+    "mode": "HAT_HAIR_ACC",
+    "tabKey": "BAG",
+    "path": "패션잡화 > 가방",
+    "enabled": true,
+    "priority": 909
+  },
+  {
+    "title": "오트니",
+    "sub": "간결한 무드의 트렌디 여성 가방 브랜드",
+    "url": "https://otteni.co.kr/",
+    "packageName": "",
+    "logoText": "Otteni",
+    "logoUrl": "",
+    "mode": "HAT_HAIR_ACC",
+    "tabKey": "BAG",
+    "path": "패션잡화 > 가방",
+    "enabled": true,
+    "priority": 956
+  },
+  {
     "title": "마크곤잘레스",
     "sub": "자유로운 스케이트 감성을 담은 데일리 캐주얼",
     "url": "https://www.markgonzaleskorea.com/",
