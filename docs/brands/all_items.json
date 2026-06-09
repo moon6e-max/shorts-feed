@@ -1,5 +1,18 @@
 [
   {
+    "title": "블리블리",
+    "sub": "톡! 하고 터지는 톤업캡슐로 자연스러운톤업",
+    "url": "https://velyvely.com/",
+    "packageName": "",
+    "logoText": "Velyvely",
+    "logoUrl": "",
+    "mode": "COSMETICS",
+    "tabKey": "BEAUTY_CARE",
+    "path": "화장품 > 뷰티&케어",
+    "enabled": true,
+    "priority": 729
+  },
+  {
     "title": "훈트",
     "sub": "감도 높은 남성의류 브랜드",
     "url": "https://www.hoontshop.com/",
