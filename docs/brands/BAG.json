@@ -97,6 +97,17 @@
     "priority": 968
   },
   {
+    "title": "아틀리에파크",
+    "sub": "일상에 컬러를 더하다.",
+    "url": "https://www.atelierpark.co.kr/",
+    "packageName": "",
+    "logoText": "atelier\nPark",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 962
+  },
+  {
     "title": "아소뷔오",
     "sub": "차분한 무드와 은은한 포인트로 완성하는 데일리 백",
     "url": "https://assovio.co.kr/",
@@ -150,6 +161,17 @@
     "photos": [],
     "enabled": true,
     "priority": 957
+  },
+  {
+    "title": "오트니",
+    "sub": "간결한 무드의 트렌디 여성 가방 브랜드",
+    "url": "https://otteni.co.kr/",
+    "packageName": "",
+    "logoText": "Otteni",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 956
   },
   {
     "title": "엠제이드",
@@ -240,6 +262,17 @@
     "priority": 910
   },
   {
+    "title": "패리티",
+    "sub": "여행의 모든 고민을 담을 수 있는 브랜드",
+    "url": "https://parity.kr/",
+    "packageName": "",
+    "logoText": "Parity",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 909
+  },
+  {
     "title": "폴렌느",
     "sub": "프랑스 컨템포러리 브랜드",
     "url": "https://kr.polene-paris.com/",
@@ -248,7 +281,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 909
+    "priority": 908
   },
   {
     "title": "366백",
