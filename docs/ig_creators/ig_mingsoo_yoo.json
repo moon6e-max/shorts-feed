@@ -1,7 +1,7 @@
 {
     "platform": "Instagram",
     "key": "ig_mingsoo_yoo",
-    "version":8,
+    "version":9,
     "name": "밍슈 • 커밍투유",
     "sub": "💼30대 직장인룩·스타일링 꿀팁",
     "openProfileEnabled": true,
@@ -10,6 +10,8 @@
     "profileUrl": "https://www.instagram.com/mingsoo_yoo/",
     "avatarUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_ming/p.png",
     "featured": [
+        { "title": "출근할 때 뭐 입지 고민될 때🖤", "url": "https://www.instagram.com/reel/DZW4LRTzcof/", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_ming/12.png" },
       { "title": "A컵도 섹시한 비키니, 찾았어요🔥", "url": "https://www.instagram.com/reel/DKHWWyBJNuc/", 
         "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_ming/11.png" },
       { "title": "소개팅 잡히신 분들! 꼭 이렇게 입어주세요🤍", "url": "https://www.instagram.com/reel/DXrVhPaE4e_/", 
