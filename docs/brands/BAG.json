@@ -64,6 +64,17 @@
     "priority": 970
   },
   {
+    "title": "모벨리쉬",
+    "sub": "세련된 가방을 만드는 브랜드",
+    "url": "https://m.mobelish.co.kr/",
+    "packageName": "",
+    "logoText": "Mobelish",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 969
+  },
+  {
     "title": "비베니",
     "sub": "가볍고 실용적이며 고급스러운 Color In Life를 추구하는 디자이너",
     "url": "https://vivannie.com/",
@@ -86,6 +97,17 @@
     "priority": 968
   },
   {
+    "title": "아소뷔오",
+    "sub": "차분한 무드와 은은한 포인트로 완성하는 데일리 백",
+    "url": "https://assovio.co.kr/",
+    "packageName": "",
+    "logoText": "Assovio",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 961
+  },
+  {
     "title": "아토백",
     "sub": "40대 50대 60대 66~120 사이즈 데일리 가방쇼핑몰",
     "url": "https://atobag.com/",
@@ -106,6 +128,28 @@
     "photos": [],
     "enabled": true,
     "priority": 959
+  },
+  {
+    "title": "유어",
+    "sub": "여성을 위한 트렌디한 아이템",
+    "url": "https://urofficial.com/",
+    "packageName": "",
+    "logoText": "Ur",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 958
+  },
+  {
+    "title": "오뷰니",
+    "sub": "Made with love and a pinch of poetic words",
+    "url": "https://ovuni.kr/",
+    "packageName": "",
+    "logoText": "Ovuni",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 957
   },
   {
     "title": "엠제이드",
@@ -172,6 +216,17 @@
     "photos": [],
     "enabled": true,
     "priority": 919
+  },
+  {
+    "title": "탈리",
+    "sub": "일상 속에서의 여행 데일리 가방 브랜드",
+    "url": "https://tallibags.co.kr/",
+    "packageName": "",
+    "logoText": "Talli",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 918
   },
   {
     "title": "프랙탈",
