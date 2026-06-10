@@ -1,5 +1,16 @@
 [
   {
+    "title": "강자매",
+    "sub": "취향을 담은 슈즈, 매일 새롭게",
+    "url": "https://kangsister.com/",
+    "packageName": "com.kangsister.byapps",
+    "logoText": "Kang\nSister",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 1001
+  },
+  {
     "title": "곰블리",
     "sub": "부드러운 감성과 실용성을 담은 데일리웨어 스타일",
     "url": "https://www.gomvely.com/index.html",
@@ -8,7 +19,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 100
+    "priority": 1000
   },
   {
     "title": "글로벌야드",
@@ -19,7 +30,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 99
+    "priority": 990
   },
   {
     "title": "네츄럴플렉스",
@@ -30,7 +41,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 98
+    "priority": 980
   },
   {
     "title": "디자이너 슈즈",
@@ -41,7 +52,18 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 97
+    "priority": 970
+  },
+  {
+    "title": "로코코",
+    "sub": "일상에 자연스럽게 스며드는 데일리 슈즈",
+    "url": "https://rococoshoe.com/",
+    "packageName": "",
+    "logoText": "Rococo",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 969
   },
   {
     "title": "모모제인",
@@ -52,7 +74,18 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 96
+    "priority": 960
+  },
+  {
+    "title": "모노어딕트",
+    "sub": "고급스러운 취향저격",
+    "url": "https://monoaddict.co.kr/",
+    "packageName": "",
+    "logoText": "Mono\nAddict",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 959
   },
   {
     "title": "무무스타일",
@@ -63,7 +96,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 95
+    "priority": 950
   },
   {
     "title": "바닐라슈",
@@ -74,7 +107,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 94
+    "priority": 940
   },
   {
     "title": "바크",
@@ -85,7 +118,18 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 93
+    "priority": 930
+  },
+  {
+    "title": "보가",
+    "sub": "40년의 노하우로 편한 착화감",
+    "url": "https://m.voga.co.kr/",
+    "packageName": "com.voga.byapps",
+    "logoText": "Voga",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 921
   },
   {
     "title": "베티아노",
@@ -96,7 +140,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 92
+    "priority": 920
   },
   {
     "title": "분홍코끼리",
@@ -107,7 +151,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 91
+    "priority": 910
   },
   {
     "title": "사뿐",
@@ -118,7 +162,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 90
+    "priority": 900
   },
   {
     "title": "서러1988",
@@ -129,7 +173,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 89
+    "priority": 890
   },
   {
     "title": "소다",
@@ -140,7 +184,18 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 88
+    "priority": 880
+  },
+  {
+    "title": "스타카토",
+    "sub": "미치도록 갖고 싶은 슈즈",
+    "url": "https://staccatomall.com/",
+    "packageName": "com.imweb.appS201812125c10f9de359ff_5c4000367d27o",
+    "logoText": "Staccato",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 879
   },
   {
     "title": "슈렌",
@@ -151,7 +206,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 87
+    "priority": 870
   },
   {
     "title": "슈마루",
@@ -162,7 +217,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 86
+    "priority": 860
   },
   {
     "title": "슈비아",
@@ -173,7 +228,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 85
+    "priority": 850
   },
   {
     "title": "슈즈오프닝",
@@ -184,7 +239,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 84
+    "priority": 840
   },
   {
     "title": "신바바",
@@ -195,7 +250,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 83
+    "priority": 830
   },
   {
     "title": "아베크",
@@ -206,7 +261,18 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 82
+    "priority": 820
+  },
+  {
+    "title": "올이즈러브",
+    "sub": "한 걸음 더 특별해지는 데일리 스타일",
+    "url": "https://allislove.co.kr/",
+    "packageName": "",
+    "logoText": "Allis\nLove",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 819
   },
   {
     "title": "엔드힐",
@@ -217,7 +283,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 81
+    "priority": 810
   },
   {
     "title": "엘두",
@@ -228,7 +294,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 80
+    "priority": 800
   },
   {
     "title": "유별나",
@@ -239,7 +305,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 79
+    "priority": 790
   },
   {
     "title": "정스컬렉션",
@@ -250,7 +316,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 78
+    "priority": 780
   },
   {
     "title": "제이슈",
@@ -261,7 +327,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 77
+    "priority": 770
   },
   {
     "title": "지젤슈즈",
@@ -272,7 +338,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 76
+    "priority": 760
   },
   {
     "title": "착한구두",
@@ -283,7 +349,29 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 75
+    "priority": 750
+  },
+  {
+    "title": "프리플라",
+    "sub": "새로운 스타일로 일상을 특별하게",
+    "url": "https://www.frifla.com/",
+    "packageName": "",
+    "logoText": "Frifla",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 741
+  },
+  {
+    "title": "헤븐리젤",
+    "sub": "오늘의 스타일을 완성하는 감각적인 슈즈",
+    "url": "https://www.heavenlyjelly.com/",
+    "packageName": "",
+    "logoText": "Heavenly\nJelly",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 740
   },
   {
     "title": "할리샵",
@@ -294,6 +382,6 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 74
+    "priority": 739
   }
 ]
