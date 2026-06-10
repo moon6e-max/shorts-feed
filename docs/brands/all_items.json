@@ -1,5 +1,18 @@
 [
   {
+    "title": "밀리밀리",
+    "sub": "500달톤 초저분자 단백질 케어",
+    "url": "https://millimilli.kr/",
+    "packageName": "",
+    "logoText": "Milli\nMilli",
+    "logoUrl": "",
+    "mode": "COSMETICS",
+    "tabKey": "BEAUTY_CARE",
+    "path": "화장품 > 뷰티&케어",
+    "enabled": true,
+    "priority": 745
+  },
+  {
     "title": "자카나",
     "sub": "해외 감성 브랜드를 한곳에 모은 셀렉트샵",
     "url": "https://www.shopjakana.com/",
