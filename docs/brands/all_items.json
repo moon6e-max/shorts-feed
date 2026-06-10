@@ -1,5 +1,18 @@
 [
   {
+    "title": "자카나",
+    "sub": "해외 감성 브랜드를 한곳에 모은 셀렉트샵",
+    "url": "https://www.shopjakana.com/",
+    "packageName": "",
+    "logoText": "Jakana",
+    "logoUrl": "",
+    "mode": "MALL",
+    "tabKey": "MALL_UNISEX",
+    "path": "셀렉트샵 > 편집샵",
+    "enabled": true,
+    "priority": 745
+  },
+  {
     "title": "레이나모라",
     "sub": "애슬레저 글로벌 브랜드",
     "url": "https://reinamora.co.kr/",
