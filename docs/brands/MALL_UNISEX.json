@@ -308,6 +308,17 @@
     "priority": 750
   },
   {
+    "title": "자카",
+    "sub": "해외 감성 브랜드를 한곳에 모은 셀렉트샵",
+    "url": "https://shopjakana.com/",
+    "packageName": "",
+    "logoText": "Jakana",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 745
+  },
+  {
     "title": "제니스콥",
     "sub": "감각적 무드로 완성하는 세련된 스타일 제안",
     "url": "https://thejennys.co.kr/",
