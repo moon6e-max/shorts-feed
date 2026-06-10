@@ -8,7 +8,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 100
+    "priority": 1000
   },
   {
     "title": "구두나라",
@@ -19,7 +19,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 99
+    "priority": 990
   },
   {
     "title": "그리심옴므",
@@ -30,7 +30,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 98
+    "priority": 980
   },
   {
     "title": "뉴디블랙",
@@ -41,7 +41,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 97
+    "priority": 970
   },
   {
     "title": "더커스텀",
@@ -52,7 +52,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 96
+    "priority": 960
   },
   {
     "title": "레더리스",
@@ -63,7 +63,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 95
+    "priority": 950
   },
   {
     "title": "레어커스텀",
@@ -74,7 +74,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 94
+    "priority": 940
   },
   {
     "title": "로크",
@@ -85,7 +85,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 93
+    "priority": 930
   },
   {
     "title": "맨즈노바",
@@ -96,7 +96,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 92
+    "priority": 920
   },
   {
     "title": "머스템",
@@ -107,7 +107,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 91
+    "priority": 910
   },
   {
     "title": "벨루모",
@@ -118,7 +118,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 90
+    "priority": 900
   },
   {
     "title": "슈그램",
@@ -129,7 +129,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 89
+    "priority": 890
   },
   {
     "title": "야세",
@@ -140,7 +140,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 88
+    "priority": 880
   },
   {
     "title": "오베이옴므",
@@ -151,7 +151,18 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 87
+    "priority": 870
+  },
+  {
+    "title": "재클라",
+    "sub": "미국 50년 정통 빈티지 브랜드",
+    "url": "https://jaclar.co.kr/",
+    "packageName": "",
+    "logoText": "Jaclar",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 861
   },
   {
     "title": "젠틀안느",
@@ -162,7 +173,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 86
+    "priority": 860
   },
   {
     "title": "젠틀커브",
@@ -173,7 +184,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 85
+    "priority": 850
   },
   {
     "title": "커스텀무드",
@@ -184,7 +195,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 84
+    "priority": 840
   },
   {
     "title": "킵스페이스",
@@ -195,7 +206,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 83
+    "priority": 830
   },
   {
     "title": "헌드레드메이커",
@@ -206,6 +217,6 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 82
+    "priority": 820
   }
 ]
