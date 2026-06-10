@@ -1,5 +1,31 @@
 [
   {
+    "title": "메오로시서울",
+    "sub": "시간이 흐를수록 깊어지는 가죽",
+    "url": "https://maeorosi-seoul.com/",
+    "packageName": "",
+    "logoText": "Maeorosi\nSeoul",
+    "logoUrl": "",
+    "mode": "SHOES",
+    "tabKey": "SHOES_UNISEX",
+    "path": "신발 > 남&녀",
+    "enabled": true,
+    "priority": 919
+  },
+  {
+    "title": "스니커아이즈",
+    "sub": "인증된 100% 정품",
+    "url": "https://snkreyes.com/",
+    "packageName": "",
+    "logoText": "Snkreyes",
+    "logoUrl": "",
+    "mode": "SHOES",
+    "tabKey": "SHOES_UNISEX",
+    "path": "신발 > 남&녀",
+    "enabled": true,
+    "priority": 881
+  },
+  {
     "title": "보가",
     "sub": "40년의 노하우로 편한 착화감",
     "url": "https://m.voga.co.kr/",
