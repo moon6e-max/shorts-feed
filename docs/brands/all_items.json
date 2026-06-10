@@ -1,5 +1,44 @@
 [
   {
+    "title": "미오뜨",
+    "sub": "오늘을 특별하게 만드는 옷",
+    "url": "https://miotte.co.kr/",
+    "packageName": "",
+    "logoText": "Miotte",
+    "logoUrl": "",
+    "mode": "WOMEN",
+    "tabKey": "WOMEN_30S",
+    "path": "여자 > 30대",
+    "enabled": true,
+    "priority": 889
+  },
+  {
+    "title": "브루마러브",
+    "sub": "브루마러브 무드 속으로 초대합니다",
+    "url": "https://brumalove.co.kr/",
+    "packageName": "",
+    "logoText": "Brumalove",
+    "logoUrl": "",
+    "mode": "WOMEN",
+    "tabKey": "WOMEN_30S",
+    "path": "여자 > 30대",
+    "enabled": true,
+    "priority": 799
+  },
+  {
+    "title": "제이엔아이",
+    "sub": "특별한 일상을 위한 편안하고 세련된 데일리웨어",
+    "url": "https://jjjjniii.shop/",
+    "packageName": "",
+    "logoText": "Jni",
+    "logoUrl": "",
+    "mode": "WOMEN",
+    "tabKey": "WOMEN_30S",
+    "path": "여자 > 30대",
+    "enabled": true,
+    "priority": 679
+  },
+  {
     "title": "재클라",
     "sub": "미국 50년 정통 빈티지 브랜드",
     "url": "https://jaclar.co.kr/",
