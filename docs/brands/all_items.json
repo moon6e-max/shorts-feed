@@ -1,5 +1,18 @@
 [
   {
+    "title": "재클라",
+    "sub": "미국 50년 정통 빈티지 브랜드",
+    "url": "https://jaclar.co.kr/",
+    "packageName": "",
+    "logoText": "Jaclar",
+    "logoUrl": "",
+    "mode": "SHOES",
+    "tabKey": "SHOES_MEN",
+    "path": "신발 > 남자",
+    "enabled": true,
+    "priority": 861
+  },
+  {
     "title": "매오로시서울",
     "sub": "시간이 흐를수록 깊어지는 가죽",
     "url": "https://maeorosi-seoul.com/",
