@@ -33,6 +33,17 @@
     "priority": 980
   },
   {
+    "title": "뉴스타일",
+    "sub": "단조로운 남성 패션에 새로운 생명력을 불어넣는다",
+    "url": "https://www.newstyle.kr/",
+    "packageName": "",
+    "logoText": "New\nStyle",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 975
+  },
+  {
     "title": "단군",
     "sub": "남성 캐주얼·스트릿 의류 브랜드",
     "url": "https://smartstore.naver.com/dangoon/",
