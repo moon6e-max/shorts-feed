@@ -103,8 +103,10 @@
     "sub": "시간이 흐를수록 깊어지는 가죽",
     "url": "https://maeorosi-seoul.com/",
     "packageName": "",
-    "logoText": "Maeorosi",
-    "logoUrl": "",
+    "logoText": "Maeorosi/nSeoul",
+    "logoUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/maeorosi/1.png",
+    "https://raw.githubusercontent.com/brandbridge-images/images/main/business/maeorosi/2.png",
+    "https://raw.githubusercontent.com/brandbridge-images/images/main/business/maeorosi/3.png",
     "photos": [],
     "enabled": true,
     "priority": 919
