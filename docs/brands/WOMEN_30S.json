@@ -135,12 +135,23 @@
     "title": "마이시즌",
     "sub": "편안함과 멋을 담은 데일리 아이템",
     "url": "https://myseasonis.co.kr/index.html",
-    "packageName": "Myseasonis",
+    "packageName": "",
     "logoText": "My\nSeasonis",
     "logoUrl": "",
     "photos": [],
     "enabled": true,
     "priority": 890
+  },
+  {
+    "title": "미오뜨",
+    "sub": "오늘을 특별하게 만드는 옷",
+    "url": "https://miotte.co.kr/",
+    "packageName": "",
+    "logoText": "Miotte",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 889
   },
   {
     "title": "매크리by이쁜걸",
@@ -278,6 +289,17 @@
     "photos": [],
     "enabled": true,
     "priority": 800
+  },
+  {
+    "title": "브루마러브",
+    "sub": "브루마러브 무드 속으로 초대합니다",
+    "url": "https://brumalove.co.kr/",
+    "packageName": "",
+    "logoText": "Brumalove",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 799
   },
   {
     "title": "빅너스",
@@ -454,6 +476,17 @@
     "photos": [],
     "enabled": true,
     "priority": 680
+  },
+  {
+    "title": "제이엔아이",
+    "sub": "특별한 일상을 위한 편안하고 세련된 데일리웨어",
+    "url": "https://jjjjniii.shop/",
+    "packageName": "",
+    "logoText": "Jni",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 679
   },
   {
     "title": "조아맘",
