@@ -33,6 +33,17 @@
     "priority": 990
   },
   {
+    "title": "굿룩",
+    "sub": "캐주얼 무드의 남성 의류 브랜드",
+    "url": "https://m.goodlook.pe.kr/",
+    "packageName": "com.cafe24.ec.plustoyostore",
+    "logoText": "Goodlook",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 985
+  },
+  {
     "title": "도지",
     "sub": "캐주얼 감성의 남성 의류 브랜드",
     "url": "https://doji.co.kr/",
@@ -163,6 +174,17 @@
     "photos": [],
     "enabled": true,
     "priority": 889
+  },
+  {
+    "title": "스테이블",
+    "sub": "안정적인 공간 : STABLE GROUND, 스테이블 그라운드",
+    "url": "https://stableground.kr/",
+    "packageName": "",
+    "logoText": "Stable\nGround",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 888
   },
   {
     "title": "오버즈",
