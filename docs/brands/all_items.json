@@ -1,5 +1,18 @@
 [
   {
+    "title": "위브",
+    "sub": "2030 여성의류, 여행룩 맛집 위브🤍",
+    "url": "https://ouiv.kr/",
+    "packageName": "",
+    "logoText": "Ouiv",
+    "logoUrl": "",
+    "mode": "WOMEN",
+    "tabKey": "WOMEN_30S",
+    "path": "여자 > 30대",
+    "enabled": true,
+    "priority": 1002
+  },
+  {
     "title": "모드픽",
     "sub": "모드픽은 일상을 특별하게 만드는 셀렉샵",
     "url": "https://modepick.co.kr/",
