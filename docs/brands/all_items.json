@@ -10,6 +10,8 @@
     "tabKey": "WOMEN_30S",
     "path": "여자 > 30대",
     "enabled": true,
+    "coverUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/FashionTipbanner/f5_2.jpg",
+    "todayPick": true,
     "priority": 1002
   },
   {
