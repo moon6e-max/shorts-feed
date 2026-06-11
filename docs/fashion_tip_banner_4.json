@@ -1,7 +1,15 @@
 {
   "banners": [
     {
-      "imageUrl":"https://raw.githubusercontent.com/brandbridge-images/images/main/business/FashionTipbanner/f4_1.jpg",
+      "imageUrl":"https://raw.githubusercontent.com/brandbridge-images/images/main/business/FashionTipbanner/f5_1.jpg",
+      "sub":"Coastal Mood",
+      "title":"바다를 닮은 데일리룩",
+      "desc":"편안함과 감성을 담은 여름 스타일",
+      "buttonText":"구경하기",
+      "url":"https://maeorosi-seoul.com/product/%EB%8B%B7%EC%83%88dassae-brown/25/category/54/display/1/"
+    },
+    {
+      "imageUrl":"https://raw.githubusercontent.com/brandbridge-images/images/main/business/FashionTipbanner/f5_2.jpg",
       "sub":"MAEOROSI SEOUL",
       "title":"일상에 스며드는 편안한 무드",
       "desc":"어떤 룩에도 자연스럽게",
@@ -9,7 +17,7 @@
       "url":"https://maeorosi-seoul.com/product/%EB%8B%B7%EC%83%88dassae-brown/25/category/54/display/1/"
     },
     {
-      "imageUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/FashionTipbanner/f4_2.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/FashionTipbanner/f5_3.jpg",
       "sub": "MAEOROSI SEOUL",
       "title": "자연스럽게 완성되는 스타일",
       "desc": "편안한 일상의 선택",
