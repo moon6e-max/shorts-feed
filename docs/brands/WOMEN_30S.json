@@ -7,7 +7,9 @@
     "packageName": "",
     "logoText": "Ouiv",
     "logoUrl": "",
-    "photos": [],
+    "photos": ["https://raw.githubusercontent.com/brandbridge-images/images/main/business/ouiv/o_1.jpg",
+    "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ouiv/o_2.jpg",
+    "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ouiv/o_3.jpg"],
     "enabled": true,
     "badge": "BEST",
     "priority": 1002
