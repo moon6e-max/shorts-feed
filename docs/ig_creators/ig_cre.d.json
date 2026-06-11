@@ -1,7 +1,7 @@
 {
     "platform": "Instagram",
     "key": "ig_cre.d",
-    "version":1,
+    "version":2,
     "name": "크리디",
     "sub": "여름 신상 7% 할인🌿",
     "openProfileEnabled": true,
@@ -11,17 +11,17 @@
     "avatarUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_cre.d/p.png",
     "featured": [
       { "title": "나시는 입고 싶은데 어깨라인이 걱정이었던 분들 주목!", "url": "https://www.instagram.com/p/DYRw5w8E-ob/?img_index=1", 
-        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_cre.d/6.png" },
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_cre.d/6.jpg" },
       { "title": "레이어드의 계절🌿", "url": "https://www.instagram.com/p/DXmMU4YkqtO/?img_index=1", 
-        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_cre.d/5.png" },
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_cre.d/5.jpg" },
       { "title": "레이스 하나 얹었을 뿐인데🤍", "url": "https://www.instagram.com/p/DZXSzAdE8dw/?img_index=1", 
-        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_cre.d/4.png" },
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_cre.d/4.jpg" },
       { "title": "분명 옷은 평소랑 똑같은데 괜히 코디가 덜 심심해 보이는 그런 날 있잖아요✨", "url": "https://www.instagram.com/p/DZE8m-Nk3IB/?img_index=1", 
-        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_cre.d/3.png" },
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_cre.d/3.jpg" },
       { "title": "사계절 내내 활용도 높은 크리디 베스트 스커트👍🪽", "url": "https://www.instagram.com/p/DY3ywtbkyDH/?img_index=1", 
-        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_cre.d/2.png" },
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_cre.d/2.jpg" },
       { "title": "빈티지 무드 좋아하면 무조건 저장💚", "url": "https://www.instagram.com/p/DYhMl0Jk9By/?img_index=1", 
-        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_cre.d/1.png" }
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_cre.d/1.jpg" }
       
       
          ]
