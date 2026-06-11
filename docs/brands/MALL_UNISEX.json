@@ -66,6 +66,17 @@
     "priority": 959
   },
   {
+    "title": "모드픽",
+    "sub": "모드픽은 일상을 특별하게 만드는 셀렉샵",
+    "url": "https://modepick.co.kr/",
+    "packageName": "com.cafe24.ec.plusmytokyo0527",
+    "logoText": "Modepick",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 958
+  },
+  {
     "title": "무난",
     "sub": "일상에 자연스럽게 녹아드는 모던 스타일 제안",
     "url": "https://munan.kr/",
