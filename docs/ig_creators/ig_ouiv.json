@@ -1,0 +1,28 @@
+{
+    "platform": "Instagram",
+    "key": "ig_ouiv",
+    "version":2,
+    "name": "ouiv",
+    "sub": "사진 잘나오는 여행룩부터 데일리룩까지⋆.𐙚˚",
+    "openProfileEnabled": true,
+    "openProfileText": "SHOP 바로가기",
+    "openProfileUrl": "https://ouiv.kr/",
+    "profileUrl": "https://www.instagram.com/ouiv.kr/reels/",
+    "avatarUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ouiv/p.jpg",
+    "featured": [
+        { "title": "국내생산인데 3만원 초반대라니🤍", "url": "https://www.instagram.com/reel/DZXO-kvv4d8/", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ouiv/7.jpg" },
+      { "title": "예쁜 위브의 러플블라우스🤍", "url": "https://www.instagram.com/reel/DZPVw-IvzGk/", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ouiv/6.jpg" },
+      { "title": "야장에서 맥주 마시기 좋은 룩....🍻🤍", "url": "https://www.instagram.com/reel/DZKNcRsvbqE/", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ouiv/5.jpg" },
+      { "title": "인기 좋은 셔츠원피스🤍", "url": "https://www.instagram.com/reel/DYCYEBjPmHy/", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ouiv/4.jpg" },
+      { "title": "예쁜데 귀찮은 옷이 공식 이제 끝 ✋", "url": "https://www.instagram.com/reel/DTICLEXD8Fl/", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ouiv/3.jpg" },
+      { "title": "제발..... 이 팬츠 입어쥬세요.....🥹❤️‍🔥", "url": "https://www.instagram.com/reel/DTHGImij2_I/", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ouiv/2.jpg" },
+      { "title": "🖤🖤2만원대 위브 보부상백🖤🖤", "url": "https://www.instagram.com/reel/DSb7oiGD__T/", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ouiv/1.jpg" }
+         ]
+  }
