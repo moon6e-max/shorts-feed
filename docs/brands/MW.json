@@ -127,6 +127,17 @@
     "priority": 930
   },
   {
+    "title": "스콰즈",
+    "sub": "감각적인  패션 아이템 브랜드",
+    "url": "https://www.squaz.com/",
+    "packageName": "",
+    "logoText": "Squaz",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 929
+  },
+  {
     "title": "아르켓",
     "sub": "홈을 위한 에센셜 아이템을 선보이는 모던 라이프스타일",
     "url": "https://lase.kr/click.php?m=arket&a=A100702784&l=0000",
@@ -262,6 +273,17 @@
     "photos": [],
     "enabled": true,
     "priority": 860
+  },
+  {
+    "title": "테크니스트",
+    "sub": "대한민국 대표 배드민턴 전문 스포츠 브랜드",
+    "url": "https://www.technist.net/",
+    "packageName": "",
+    "logoText": "Technist",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 845
   },
   {
     "title": "피그먼트",
