@@ -1,5 +1,18 @@
 [
   {
+    "title": "위브",
+    "sub": "2030 여성의류, 여행룩 맛집 위브🤍",
+    "benefit":"신규 2,000P 적립",
+    "url": "https://ouiv.kr/",
+    "packageName": "",
+    "logoText": "Ouiv",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "badge": "BEST",
+    "priority": 1002
+  },
+  {
     "title": "가나다란",
     "sub": "자연스러운 여성 코디 공간",
     "url": "https://ganadaran.co.kr/",
@@ -523,7 +536,7 @@
     "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_ming/w_6.jpg"],
     "enabled": true,
     "badge": "BEST",
-    "priority": 1002
+    "priority": 1003
   },
   {
     "title": "코코마랑",
