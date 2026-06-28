@@ -1,7 +1,7 @@
 {
     "platform": "Instagram",
     "key": "ig_dbstjdwnsdlqslek",
-    "version":6,
+    "version":7,
     "name": "윤성준입니다",
     "sub": "코디 추천•언박싱|무신사 꿀템 총 모음집🔥",
     "openProfileEnabled": true,
@@ -10,6 +10,14 @@
     "profileUrl": "https://www.instagram.com/dbstjdwnsdlqslek/reels/",
     "avatarUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_yun/0.png",
     "featured": [
+        { "title": "✨무신사 여름 블프 72시간 특가✨", "url": "https://www.instagram.com/reel/DZ392q7SvLK/", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_yun/14.png" },
+        { "title": "이제 무신사 블프 3일뒤에 끝나는거 알지?!", "url": "https://www.instagram.com/reel/DZ19jvzyuzP/", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_yun/13.png" },
+        { "title": "[키뮤어 X 무신사] 여름 블랙프라이데이 무진장", "url": "https://www.instagram.com/reel/DZyrnh4ygbi/", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_yun/12.png" },
+        { "title": "이제 무신사 블프 오늘까지‼️ 놓치지말고 ㄱㄱ🔥", "url": "https://www.instagram.com/reel/DZro47US_tB/", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_yun/10.png" },
         { "title": "이제는 필수인 반팔+버뮤다 코디‼️", "url": "https://www.instagram.com/reel/DY_7_HdSsq7/", 
         "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_yun/9.png" },
       { "title": "야구 좋아하면 유니폼 하나씩은 필수임‼️", "url": "https://www.instagram.com/reel/DY1ryuJSIV6/", 
