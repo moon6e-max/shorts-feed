@@ -1,7 +1,7 @@
 {
     "platform": "Instagram",
     "key": "ig_moncelj",
-    "version":3,
+    "version":4,
     "name": "moncelj",
     "sub": "•여리핏 한방울 섞은 데이트룩, 출근룩 셀렉샵🩵",
     "openProfileEnabled": true,
@@ -10,6 +10,14 @@
     "profileUrl": "https://www.instagram.com/moncelj/reels/",
     "avatarUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_moncelj/p.png",
     "featured": [
+        { "title": "실시간 인기 많은 오버사이즈 반팔셔츠🍋💛💛💛", "url": "https://www.instagram.com/reel/DaFafA6SBzv/", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_moncelj/14.png" },
+        { "title": "여름 출근룩 딱 찾아드립니다💗✨", "url": "https://www.instagram.com/reel/DZpOcPESQaC/", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_moncelj/13.png" },
+        { "title": "여름에도 입을 수 있는 데님스커트…!💓", "url": "https://www.instagram.com/reel/DZgapPHyRKq/", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_moncelj/12.png" },
+        { "title": "휴가가는 분들 딱 이거에요..!💚✨", "url": "https://www.instagram.com/reel/DZaRZPbSEhY/", 
+        "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_moncelj/11.png" },
       { "title": "여름에 화이트 원피스는 필수…🩵", "url": "https://www.instagram.com/reel/DY3qfaRytfE/", 
         "thumbUrl": "https://raw.githubusercontent.com/brandbridge-images/images/main/business/ig_moncelj/10.png" },
       { "title": "데일리, 데이트룩, 출근룩, 휴양지룩으로 모두 활용하라면 딱 이거…💞✨", "url": "https://www.instagram.com/reel/DX6DNs3yIbV/", 
