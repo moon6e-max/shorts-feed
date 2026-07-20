@@ -420,6 +420,17 @@
     "priority": 800
   },
   {
+    "title": "마리마켓",
+    "sub": "실용적인 옷을 합리적인 가격",
+    "url": "https://www.marie-market.com/",
+    "packageName": "",
+    "logoText": "Marie\nMarket",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 799
+  },
+  {
     "title": "마리디메크르디",
     "sub": "프렌치 감성으로 완성하는 여성 데일리 패션",
     "url": "https://mardimercredi.com/",
