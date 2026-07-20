@@ -1,5 +1,18 @@
 [
   {
+    "title": "마리마켓",
+    "sub": "실용적인 옷을 합리적인 가격",
+    "url": "https://www.marie-market.com/",
+    "packageName": "",
+    "logoText": "Marie\nMarket",
+    "logoUrl": "",
+    "mode": "WOMEN",
+    "tabKey": "WOMEN_20S",
+    "path": "여자 > 20대",
+    "enabled": true,
+    "priority": 799
+  },
+  {
     "title": "위브",
     "sub": "2030 여성의류, 여행룩 맛집 위브🤍",
     "url": "https://ouiv.kr/",
