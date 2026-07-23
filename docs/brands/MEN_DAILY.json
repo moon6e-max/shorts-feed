@@ -1,15 +1,5 @@
 [
-  {
-    "title": "델리피노",
-    "sub": "감각적인 무드,매일의 스타일",
-    "url": "https://dailyfino.com/",
-    "packageName": "",
-    "logoText": "Daily\nFino",
-    "logoUrl": "",
-    "photos": [],
-    "enabled": true,
-    "priority": 1001
-  },
+  
   {
     "title": "STCO",
     "sub": "남성 정장·캐주얼 의류 브랜드",
@@ -20,6 +10,17 @@
     "photos": [],
     "enabled": true,
     "priority": 1000
+  },
+  {
+    "title": "고즈넉",
+    "sub": "고즈넉한 무드, 코디 맛집😁",
+    "url": "https://www.goz-nuk.co.kr/",
+    "packageName": "",
+    "logoText": "Goz-Nuk",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 991
   },
   {
     "title": "골든보이",
@@ -53,6 +54,17 @@
     "photos": [],
     "enabled": true,
     "priority": 980
+  },
+  {
+    "title": "델리피노",
+    "sub": "감각적인 무드,매일의 스타일",
+    "url": "https://dailyfino.com/",
+    "packageName": "",
+    "logoText": "Daily\nFino",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 979
   },
   {
     "title": "디서먼트",
