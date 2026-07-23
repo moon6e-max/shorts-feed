@@ -1,5 +1,18 @@
 [
   {
+    "title": "고즈넉",
+    "sub": "고즈넉한 무드, 코디 맛집😁",
+    "url": "https://www.goz-nuk.co.kr/",
+    "packageName": "",
+    "logoText": "Goz-Nuk",
+    "logoUrl": "",
+    "mode": "MEN",
+    "tabKey": "MEN_DAILY",
+    "path": "남자 > 데일리",
+    "enabled": true,
+    "priority": 991
+  },
+  {
     "title": "허라트",
     "sub": "세련된 컴포터블 언더웨어",
     "url": "https://www.herart.kr/",
