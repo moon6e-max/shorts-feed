@@ -8,7 +8,18 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 100
+    "priority": 1000
+  },
+  {
+    "title": "덤파운더",
+    "sub": "💪🏿 Over-fit. Big-size",
+    "url": "https://www.dumfounder.kr/",
+    "packageName": "",
+    "logoText": "Dumfounder",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 991
   },
   {
     "title": "르바세",
@@ -19,7 +30,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 99
+    "priority": 990
   },
   {
     "title": "머슬암드",
@@ -30,7 +41,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 98
+    "priority": 980
   },
   {
     "title": "바벨웍스",
@@ -41,7 +52,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 97
+    "priority": 970
   },
   {
     "title": "본투윈",
@@ -52,7 +63,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 96
+    "priority": 960
   },
   {
     "title": "볼란테",
@@ -63,7 +74,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 95
+    "priority": 950
   },
   {
     "title": "비쥬안나",
@@ -74,7 +85,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 94
+    "priority": 940
   },
   {
     "title": "알브이디",
@@ -85,7 +96,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 93
+    "priority": 930
   },
   {
     "title": "에어릿",
@@ -96,7 +107,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 92
+    "priority": 920
   },
   {
     "title": "에이치덱스",
@@ -107,7 +118,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 91
+    "priority": 910
   },
   {
     "title": "퀸아울렛",
@@ -118,7 +129,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 90
+    "priority": 900
   },
   {
     "title": "파워",
@@ -129,7 +140,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 89
+    "priority": 890
   },
   {
     "title": "프로키온",
@@ -140,7 +151,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 88
+    "priority": 880
   },
   {
     "title": "프리덤",
@@ -151,7 +162,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 87
+    "priority": 870
   },
   {
     "title": "피지컬가먼츠",
@@ -162,6 +173,6 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 86
+    "priority": 860
   }
 ]
