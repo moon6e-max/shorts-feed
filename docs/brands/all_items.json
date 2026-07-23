@@ -1,5 +1,18 @@
 [
   {
+    "title": "덤파운더",
+    "sub": "💪🏿 Over-fit. Big-size",
+    "url": "https://www.dumfounder.kr/",
+    "packageName": "",
+    "logoText": "Dumfounder",
+    "logoUrl": "",
+    "mode": "UNISEX",
+    "tabKey": "MW_GYM",
+    "path": "남&녀 > 짐&러닝",
+    "enabled": true,
+    "priority": 991
+  },
+  {
     "title": "고즈넉",
     "sub": "고즈넉한 무드, 코디 맛집😁",
     "url": "https://www.goz-nuk.co.kr/",
