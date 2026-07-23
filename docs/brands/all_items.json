@@ -1,5 +1,18 @@
 [
   {
+    "title": "허라트",
+    "sub": "세련된 컴포터블 언더웨어",
+    "url": "https://www.herart.kr/",
+    "packageName": "",
+    "logoText": "Herart",
+    "logoUrl": "",
+    "mode": "UNDERWEAR",
+    "tabKey": "UNDERWEAR_WOMEN",
+    "path": "속옷 > 여자",
+    "enabled": true,
+    "priority": 569
+  },
+  {
     "title": "마리마켓",
     "sub": "실용적인 옷을 합리적인 가격",
     "url": "https://www.marie-market.com/",
