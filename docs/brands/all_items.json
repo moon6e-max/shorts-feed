@@ -1,5 +1,18 @@
 [
   {
+    "title": "베어루",
+    "sub": "윤리적으로 만들어진, 꿈꾸는 사람들을 위해",
+    "url": "https://barelou.com/kr/",
+    "packageName": "",
+    "logoText": "Barelou",
+    "logoUrl": "",
+    "mode": "UNDERWEAR",
+    "tabKey": "UNDERWEAR_WOMEN",
+    "path": "속옷 > 여자",
+    "enabled": true,
+    "priority": 839
+  },
+  {
     "title": "덤파운더",
     "sub": "💪🏿 Over-fit. Big-size",
     "url": "https://www.dumfounder.kr/",
@@ -5490,7 +5503,7 @@
     "sub": "오버핏 스트릿 무드의 남성 캐주얼 브랜드",
     "url": "https://bearick.co.kr/",
     "packageName": "com.bearick.byapps",
-    "logoText": "",
+    "logoText": "Bearick",
     "logoUrl": "",
     "mode": "MEN",
     "tabKey": "MEN_BIGSIZE",
