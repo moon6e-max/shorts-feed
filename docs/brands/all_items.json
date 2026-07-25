@@ -1,5 +1,18 @@
 [
   {
+    "title": "유넬",
+    "sub": "You,naturally elegant",
+    "url": "https://younelle.co.kr/",
+    "packageName": "",
+    "logoText": "Younelle",
+    "logoUrl": "",
+    "mode": "WOMEN",
+    "tabKey": "WOMEN_20S",
+    "path": "여자 > 20대",
+    "enabled": true,
+    "priority": 517
+  },
+  {
     "title": "디마레",
     "sub": "일상으로 스며든 골프웨어",
     "url": "https://d-mare.co.kr/",
