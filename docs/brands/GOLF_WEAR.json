@@ -8,7 +8,18 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 100
+    "priority": 1000
+  },
+  {
+    "title": "디마레",
+    "sub": "일상으로 스며든 골프웨어",
+    "url": "https://d-mare.co.kr/",
+    "packageName": "",
+    "logoText": "D-mare",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 991
   },
   {
     "title": "레노마",
@@ -19,7 +30,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 99
+    "priority": 990
   },
   {
     "title": "루이까스텔",
