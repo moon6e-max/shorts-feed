@@ -1,5 +1,18 @@
 [
   {
+    "title": "비브앤러브",
+    "sub": "시크한 그녀의 트렌디한 아웃",
+    "url": "https://www.vivnluv.co.kr/",
+    "packageName": "",
+    "logoText": "Vivnluv",
+    "logoUrl": "",
+    "mode": "WOMEN",
+    "tabKey": "WOMEN_20S",
+    "path": "여자 > 20대",
+    "enabled": true,
+    "priority": 669
+  },
+  {
     "title": "빈트더빈",
     "sub": "트렌디 스타일 전문몰",
     "url": "https://vintvin.com/",
