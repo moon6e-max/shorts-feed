@@ -1,5 +1,18 @@
 [
   {
+    "title": "배드지지",
+    "sub": "소재와 구조의 균형을 담은 가방",
+    "url": "https://badgigi.co.kr/",
+    "packageName": "",
+    "logoText": "Badgigi",
+    "logoUrl": "",
+    "mode": "HAT_HAIR_ACC",
+    "tabKey": "BAG",
+    "path": "패션잡화 > 가방",
+    "enabled": true,
+    "priority": 967
+  },
+  {
     "title": "유넬",
     "sub": "You,naturally elegant",
     "url": "https://younelle.co.kr/",
