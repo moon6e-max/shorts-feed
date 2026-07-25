@@ -596,6 +596,17 @@
     "priority": 690
   },
   {
+    "title": "빈트더빈",
+    "sub": "트렌디 스타일 전문몰",
+    "url": "https://vintvin.com/",
+    "packageName": "",
+    "logoText": "Vint\nThevin",
+    "logoUrl": "",
+    "photos": [],
+    "enabled": true,
+    "priority": 689
+  },
+  {
     "title": "블랙홀제이",
     "sub": "언제나 당신을 빛내줄 여성의류 쇼핑몰",
     "url": "https://m.blackhole-j.com/",
@@ -604,7 +615,7 @@
     "logoUrl": "",
     "photos": [],
     "enabled": true,
-    "priority": 689
+    "priority": 688
   },
   {
     "title": "블루팝스",
