@@ -1,5 +1,18 @@
 [
   {
+    "title": "디마레",
+    "sub": "일상으로 스며든 골프웨어",
+    "url": "https://d-mare.co.kr/",
+    "packageName": "",
+    "logoText": "D-mare",
+    "logoUrl": "",
+    "mode": "GOLF",
+    "tabKey": "GOLF_WEAR",
+    "path": "골프 > 골프 웨어",
+    "enabled": true,
+    "priority": 991
+  },
+  {
     "title": "비브앤러브",
     "sub": "시크한 그녀의 트렌디한 아웃",
     "url": "https://www.vivnluv.co.kr/",
