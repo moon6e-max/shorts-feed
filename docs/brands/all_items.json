@@ -1,5 +1,18 @@
 [
   {
+    "title": "빈트더빈",
+    "sub": "트렌디 스타일 전문몰",
+    "url": "https://vintvin.com/",
+    "packageName": "",
+    "logoText": "Vint\nThevin",
+    "logoUrl": "",
+    "mode": "WOMEN",
+    "tabKey": "WOMEN_20S",
+    "path": "여자 > 20대",
+    "enabled": true,
+    "priority": 689
+  },
+  {
     "title": "베어루",
     "sub": "윤리적으로 만들어진, 꿈꾸는 사람들을 위해",
     "url": "https://barelou.com/kr/",
